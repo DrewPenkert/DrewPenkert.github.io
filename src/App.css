@@ -43,6 +43,24 @@ button, input, textarea { font: inherit; }
   padding: 0 var(--gutter);
 }
 
+/* ── CV link ── */
+.cv-link {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--text);
+  border: 1.5px solid var(--border);
+  padding: 7px 16px;
+  border-radius: 100px;
+  transition: background 0.2s, color 0.2s, border-color 0.2s;
+}
+.cv-link:hover {
+  background: var(--text);
+  color: var(--bg);
+  border-color: var(--text);
+}
+
 /* ── Logo ── */
 .logo { display: inline-flex; align-items: center; }
 

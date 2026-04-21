@@ -56,6 +56,7 @@ export default function App() {
           <a href="/" className="logo" aria-label="Drew Design Studio">
             <img src="/logo.png" alt="DREW." className="logo-img" />
           </a>
+          <a className="cv-link" href="https://drive.google.com/file/d/18yw1N-jqJdH86lcTIVPVT7guSgyrqNLP/view" target="_blank" rel="noopener noreferrer">CV</a>
         </header>
 
         <main>
@@ -150,6 +151,7 @@ export default function App() {
                 <div className="contact-socials">
                   <a href="https://www.linkedin.com/in/drewpenkert/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                   <a href="https://www.instagram.com/drew_penkert/" target="_blank" rel="noopener noreferrer">Instagram</a>
+                  <a href="https://drive.google.com/file/d/18yw1N-jqJdH86lcTIVPVT7guSgyrqNLP/view" target="_blank" rel="noopener noreferrer">CV</a>
                 </div>
               </div>
               <div className="contact-image-wrap">

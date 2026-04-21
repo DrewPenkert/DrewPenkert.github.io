@@ -16,21 +16,29 @@ const PROCESS_STEPS = [
   {
     label: 'Step 01',
     title: 'What does procrastination actually look like?',
-    body: 'A self-initiated editorial project built around a simple observation: Procrastination had become a cultural artefact with its own logic. I wanted to design something that deliberately mirrors the chaotic self-aware landscape of someone mid-procrastination. Something bigger than just a book.',
-    image: null,
+    body: 'A self-initiated editorial project built around a simple observation: procrastination had become a cultural artefact with its own logic. I wanted to design something that deliberately mirrors the chaotic self-aware landscape of someone mid-procrastination. Something bigger than just a book.',
+    image: '/sticky_note_l%20copy.png',
+    polaroids: null,
   },
   {
     label: 'Step 02',
-    title: 'The moodboard rejected everything I assumed.',
-    body: 'The moodboard rejected the first direction almost immediately. Instinctive, chaotic, iterative. I pulled references that felt alive rather than composed — type that broke its own rules, layouts that looked unfinished by design. Fat truck tyres. Everyone makes mistakes.',
-    image: null,
-  },
-  {
-    label: 'Step 03',
-    title: 'Rip up and start again.',
+    title: 'Rip it up and start again.',
     body: 'The worst progress is no progress. After the second round of layout work stalled, I printed everything out, cut it apart and rebuilt it physically on the floor. The restart produced the final structure in a single afternoon.',
     image: null,
+    polaroids: [
+      { src: '/IMG_4857%20copy.jpg', alt: 'Rip it up and start again' },
+      { src: '/IMG_4859%20copy.jpg', alt: 'Do Your Thing' },
+      { src: '/IMAGE%201.jpg',       alt: 'Pages laid out' },
+    ],
   },
+]
+
+const OUTCOMES = [
+  { src: "/%27Clowing%20Around%27%20photographed.jpg",             alt: 'Clowing Around spread' },
+  { src: "/%27The%20Necessary%20DIY%20Project%27%20photographed.jpg", alt: 'D.I.Y Project spread' },
+  { src: '/img%201%20copy.png',                                    alt: 'Interior spread' },
+  { src: '/img%202%20copy.png',                                    alt: 'Interior spread' },
+  { src: '/IMG%203.png',                                           alt: 'Interior spread' },
 ]
 
 const NEXT_PROJECT = {
@@ -123,7 +131,7 @@ export default function GoodEnoughCaseStudy() {
           </div>
 
           <div className="cs-hero-image cs-reveal">
-            <img src="/Good%20Enough.png" alt="Good Enough project" />
+            <img src="/easel%20book.png" alt="Good Enough cover on easel" />
           </div>
         </section>
 
@@ -156,19 +164,24 @@ export default function GoodEnoughCaseStudy() {
           </div>
 
           {PROCESS_STEPS.map((step, i) => (
-            <div className="ge-process-step cs-reveal" key={i}>
+            <div className={`ge-process-step cs-reveal${step.polaroids ? ' ge-process-step--full' : ''}`} key={i}>
               <div className="ge-process-meta">
                 <span className="cs-vision-num">{step.label}</span>
                 <h3>{step.title}</h3>
                 <p>{step.body}</p>
               </div>
-              {step.image ? (
+              {step.image && (
                 <div className="ge-process-image">
                   <img src={step.image} alt={step.title} />
                 </div>
-              ) : (
-                <div className="ge-process-placeholder">
-                  <span>Image coming</span>
+              )}
+              {step.polaroids && (
+                <div className="ge-polaroids">
+                  {step.polaroids.map((p, j) => (
+                    <div className="ge-polaroid" key={j}>
+                      <img src={p.src} alt={p.alt} />
+                    </div>
+                  ))}
                 </div>
               )}
             </div>
@@ -197,10 +210,12 @@ export default function GoodEnoughCaseStudy() {
             <span className="cs-section-label">In Print</span>
             <h2>Talk to the hand.</h2>
           </div>
-          <div className="ge-outcomes-grid cs-reveal">
-            <div className="ge-outcome-placeholder"><span>Final images coming</span></div>
-            <div className="ge-outcome-placeholder"><span>Final images coming</span></div>
-            <div className="ge-outcome-placeholder"><span>Final images coming</span></div>
+          <div className="ge-outcomes-grid">
+            {OUTCOMES.map((img, i) => (
+              <div className="ge-outcome-img cs-reveal" key={i}>
+                <img src={img.src} alt={img.alt} />
+              </div>
+            ))}
           </div>
         </section>
 
