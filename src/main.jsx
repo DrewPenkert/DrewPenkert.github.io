@@ -6,6 +6,7 @@ import App from './App.jsx'
 import IconographyCaseStudy from './IconographyCaseStudy.jsx'
 import MotionDesignCaseStudy from './MotionDesignCaseStudy.jsx'
 import GoodEnoughCaseStudy from './GoodEnoughCaseStudy.jsx'
+import WorkvivoCaseStudy from './WorkvivoCaseStudy.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -15,6 +16,7 @@ createRoot(document.getElementById('root')).render(
         <Route path="/iconography" element={<IconographyCaseStudy />} />
         <Route path="/motion-design" element={<MotionDesignCaseStudy />} />
         <Route path="/good-enough" element={<GoodEnoughCaseStudy />} />
+        <Route path="/workvivo" element={<WorkvivoCaseStudy />} />
       </Routes>
     </BrowserRouter>
   </StrictMode>,
