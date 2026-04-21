@@ -38,6 +38,7 @@ export default function App() {
           <a href="#about"   onClick={closeMenu}>About</a>
           <a href="#work"    onClick={closeMenu}>Work</a>
           <a href="#contact" onClick={closeMenu}>Contact</a>
+          <a href="https://drive.google.com/file/d/18yw1N-jqJdH86lcTIVPVT7guSgyrqNLP/view" target="_blank" rel="noopener noreferrer" onClick={closeMenu}>CV</a>
         </nav>
       </div>
 
@@ -56,7 +57,6 @@ export default function App() {
           <a href="/" className="logo" aria-label="Drew Design Studio">
             <img src="/logo.png" alt="DREW." className="logo-img" />
           </a>
-          <a className="cv-link" href="https://drive.google.com/file/d/18yw1N-jqJdH86lcTIVPVT7guSgyrqNLP/view" target="_blank" rel="noopener noreferrer">CV</a>
         </header>
 
         <main>
