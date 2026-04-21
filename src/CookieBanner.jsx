@@ -47,7 +47,7 @@ export default function CookieBanner() {
   return (
     <div className="cookie-banner" role="dialog" aria-label="Cookie consent">
       <p className="cookie-text">
-        This site uses analytics to understand how people find it. No personal data is sold or shared.
+        Crossing the t's, dotting the i's — we knead your permission to use cookies.
       </p>
       <div className="cookie-actions">
         <button className="cookie-btn cookie-btn--decline" onClick={decline}>Decline</button>
