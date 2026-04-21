@@ -21,6 +21,7 @@ function loadGA() {
 
 export default function CookieBanner() {
   const [visible, setVisible] = useState(false)
+  const [collapsed, setCollapsed] = useState(false)
 
   useEffect(() => {
     const consent = localStorage.getItem(STORAGE_KEY)
@@ -44,12 +45,21 @@ export default function CookieBanner() {
 
   if (!visible) return null
 
+  if (collapsed) {
+    return (
+      <button className="cookie-collapsed" onClick={() => setCollapsed(false)} aria-label="Show cookie settings">
+        Cookies
+      </button>
+    )
+  }
+
   return (
     <div className="cookie-banner" role="dialog" aria-label="Cookie consent">
       <p className="cookie-text">
         Crossing the t's, dotting the i's. We knead your permission to use cookies.
       </p>
       <div className="cookie-actions">
+        <button className="cookie-btn cookie-btn--collapse" onClick={() => setCollapsed(true)} aria-label="Minimise">—</button>
         <button className="cookie-btn cookie-btn--decline" onClick={decline}>Decline</button>
         <button className="cookie-btn cookie-btn--accept" onClick={accept}>Accept</button>
       </div>

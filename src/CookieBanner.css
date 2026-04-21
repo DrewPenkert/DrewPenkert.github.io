@@ -67,6 +67,43 @@
   border-color: #c43d18;
 }
 
+.cookie-btn--collapse {
+  background: transparent;
+  color: rgba(255, 255, 255, 0.4);
+  border: 1.5px solid rgba(255, 255, 255, 0.15);
+  padding: 7px 12px;
+  font-size: 0.85rem;
+  line-height: 1;
+}
+
+.cookie-btn--collapse:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.cookie-collapsed {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 9999;
+  background: var(--text);
+  color: rgba(255, 255, 255, 0.6);
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  padding: 8px 16px;
+  border-radius: 100px;
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.2s;
+  animation: cookie-in 0.3s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.cookie-collapsed:hover { opacity: 0.8; }
+
 @media (max-width: 500px) {
   .cookie-banner {
     border-radius: 12px;
