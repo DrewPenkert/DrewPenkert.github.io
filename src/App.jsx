@@ -6,7 +6,7 @@ import CookieBanner from './CookieBanner'
 import { initLenis, initScrollAnimations } from './animations'
 
 const PROJECTS = [
-  { title: 'Good Enough',              category: 'Brand Identity',   image: '/Good%20Enough.png'                      },
+  { title: 'Good Enough',              category: 'Brand Identity',   image: '/Good%20Enough.png', slug: '/work/good-enough' },
   { title: 'Workvivo AI',              category: 'Brand Identity',   image: '/workvivo.png'                           },
   { title: 'Fairhill/Fairfield',       category: 'Editorial Design', image: '/Fairhill%20Fairfield%20Rebrand.png'     },
   { title: 'Iconography',              category: 'Print & Digital',  image: '/iconography.png',   slug: '/work/iconography' },
