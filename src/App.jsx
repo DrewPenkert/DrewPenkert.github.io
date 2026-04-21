@@ -64,10 +64,10 @@ export default function App() {
           <section className="hero-section">
             <h1 className="hero-headline">
               <span className="hero-line">
-                <span className="hero-line-inner">We are Drew</span>
+                <span className="hero-line-inner">Hey I'm Drew,</span>
               </span>
               <span className="hero-line">
-                <span className="hero-line-inner">Design Studio.</span>
+                <span className="hero-line-inner">a Graphic Designer.</span>
               </span>
             </h1>
 
