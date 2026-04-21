@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import './App.css'
 import Cursor from './Cursor'
+import CookieBanner from './CookieBanner'
 import { initLenis, initScrollAnimations } from './animations'
 
 const PROJECTS = [
@@ -29,6 +30,7 @@ export default function App() {
   return (
     <>
       <Cursor />
+      <CookieBanner />
 
       {/* ── Full-screen menu overlay ── */}
       <div className={`nav-overlay ${menuOpen ? 'is-open' : ''}`}>

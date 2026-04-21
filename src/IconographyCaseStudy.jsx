@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 
 import { useNavigate } from 'react-router-dom'
 import Cursor from './Cursor'
+import CookieBanner from './CookieBanner'
 import { initLenis } from './animations'
 import './IconographyCaseStudy.css'
 
@@ -223,6 +224,7 @@ export default function IconographyCaseStudy() {
   return (
     <>
       <Cursor />
+      <CookieBanner />
       <div className="cs-shell">
 
         {/* ── Header ── */}
