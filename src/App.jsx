@@ -6,11 +6,11 @@ import CookieBanner from './CookieBanner'
 import { initLenis, initScrollAnimations } from './animations'
 
 const PROJECTS = [
-  { title: 'Good Enough',              category: 'Brand Identity',   image: '/Good%20Enough.png', slug: '/work/good-enough' },
+  { title: 'Good Enough',              category: 'Brand Identity',   image: '/Good%20Enough.png', slug: '/good-enough' },
   { title: 'Workvivo AI',              category: 'Brand Identity',   image: '/workvivo.png'                           },
   { title: 'Fairhill/Fairfield',       category: 'Editorial Design', image: '/Fairhill%20Fairfield%20Rebrand.png'     },
-  { title: 'Iconography',              category: 'Print & Digital',  image: '/iconography.png',   slug: '/work/iconography' },
-  { title: 'Motion Design Case Study', category: 'Motion Design',    image: '/Motion%20Design%20case%20study%20.png', slug: '/work/motion-design' },
+  { title: 'Iconography',              category: 'Print & Digital',  image: '/iconography.png',   slug: '/iconography' },
+  { title: 'Motion Design Case Study', category: 'Motion Design',    image: '/Motion%20Design%20case%20study%20.png', slug: '/motion-design' },
 ]
 
 const MARQUEE = ['Brand Identity', 'Editorial Design', 'Print & Digital', 'Social Media', 'Visual Systems', 'Motion Design']
