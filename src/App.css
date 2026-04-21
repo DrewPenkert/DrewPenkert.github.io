@@ -151,11 +151,21 @@ button, input, textarea { font: inherit; }
   to   { transform: translateY(0); }
 }
 
+/* ── Hero kicker ── */
+.hero-kicker {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.32em;
+  color: var(--muted);
+  animation: slideUp 0.7s cubic-bezier(0.16, 1, 0.3, 1) both;
+  animation-delay: 0.05s;
+}
+
 /* ── Headline ── */
 .hero-headline {
   display: block;
   font-family: 'Syne', sans-serif;
-  font-weight: 600;
+  font-weight: 700;
   line-height: 0.88;
   letter-spacing: -0.025em;
   color: var(--text);
@@ -170,15 +180,10 @@ button, input, textarea { font: inherit; }
 }
 
 .hero-line:nth-child(1) .hero-line-inner {
-  font-size: clamp(3.5rem, 12.5vw, 14rem);
+  font-size: clamp(5rem, 21.5vw, 24rem);
   animation: slideUp 0.95s cubic-bezier(0.16, 1, 0.3, 1) both;
   animation-delay: 0.1s;
-}
-
-.hero-line:nth-child(2) .hero-line-inner {
-  font-size: clamp(2.8rem, 9.8vw, 11rem);
-  animation: slideUp 0.95s cubic-bezier(0.16, 1, 0.3, 1) both;
-  animation-delay: 0.22s;
+  letter-spacing: -0.02em;
 }
 
 .hero-line-inner { display: block; }

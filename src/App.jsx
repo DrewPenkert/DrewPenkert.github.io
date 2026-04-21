@@ -62,12 +62,10 @@ export default function App() {
         <main>
           {/* ── Hero ── */}
           <section className="hero-section">
+            <span className="hero-kicker">Graphic Designer</span>
             <h1 className="hero-headline">
               <span className="hero-line">
-                <span className="hero-line-inner">Hey I'm Drew,</span>
-              </span>
-              <span className="hero-line">
-                <span className="hero-line-inner">a Graphic Designer.</span>
+                <span className="hero-line-inner">DREW.</span>
               </span>
             </h1>
 
