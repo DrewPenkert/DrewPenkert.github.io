@@ -54,9 +54,6 @@ export default function App() {
 
         {/* ── Header ── */}
         <header className="site-header">
-          <a href="/" className="logo" aria-label="Drew Design Studio">
-            <img src="/logo.png" alt="DREW." className="logo-img" />
-          </a>
         </header>
 
         <main>
@@ -98,7 +95,10 @@ export default function App() {
                 </div>
                 <div className="about-copy">
                   <p>
-                    Junior Graphic Designer based in Cork. I create memorable brand systems, editorial experiences and brand systems, motion, editorial design, and illustration with a playful edge and a polished finish.
+                    Junior Graphic Designer based in Cork. I create memorable brand systems, editorial experiences.
+                  </p>
+                  <p>
+                    Motion, print and illustration with a playful edge and a polished finish.
                   </p>
                 </div>
               </div>

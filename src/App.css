@@ -301,7 +301,7 @@ button, input, textarea { font: inherit; }
 
 .about-photo-wrap {
   width: 220px;
-  height: 220px;
+  height: 340px;
   border-radius: 12px;
   overflow: hidden;
   background: rgba(6, 37, 131, 0.06);
@@ -577,7 +577,7 @@ button, input, textarea { font: inherit; }
 /* ── Responsive ── */
 @media (max-width: 780px) {
   .about-grid { grid-template-columns: 1fr; gap: 40px; }
-  .about-photo-wrap { width: 180px; height: 180px; }
+  .about-photo-wrap { width: 180px; height: 280px; }
   .project-grid { grid-template-columns: 1fr; }
   .project-item:last-child:nth-child(odd) { grid-column: span 1; }
   .project-item:last-child:nth-child(odd) .project-visual-wrap { aspect-ratio: 4 / 3; }
