@@ -107,8 +107,6 @@
 .md-video-wrap {
   border-radius: var(--radius);
   overflow: hidden;
-  background: rgba(6, 37, 131, 0.04);
-  border: 1.5px solid var(--border);
   aspect-ratio: 16 / 9;
   line-height: 0;
 }
@@ -133,8 +131,6 @@
   width: 100%;
   border-radius: var(--radius);
   overflow: hidden;
-  background: rgba(6, 37, 131, 0.04);
-  border: 1.5px solid var(--border);
   margin-top: 40px;
   aspect-ratio: 16 / 9;
   line-height: 0;
