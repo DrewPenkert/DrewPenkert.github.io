@@ -109,7 +109,10 @@ button, input, textarea { font: inherit; }
   flex-direction: column;
   gap: 5px;
   padding: 6px;
-  z-index: 9004; /* always above overlay */
+  position: fixed;
+  top: 22px;
+  right: var(--gutter);
+  z-index: 9004;
 }
 
 .menu-btn span {
@@ -122,7 +125,7 @@ button, input, textarea { font: inherit; }
   transition: transform 0.35s ease, opacity 0.25s ease, background 0.2s;
 }
 
-.menu-btn.is-open span { background: var(--bg); }
+.menu-btn.is-open span { background: #fff; }
 
 .menu-btn.is-open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
 .menu-btn.is-open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
@@ -315,6 +318,7 @@ button, input, textarea { font: inherit; }
 }
 
 .about-right .section-head h2 { color: var(--accent); }
+.work .section-head h2 { color: var(--text); }
 
 .about-copy { display: flex; flex-direction: column; gap: 16px; }
 
@@ -514,8 +518,31 @@ button, input, textarea { font: inherit; }
   mask-image: radial-gradient(ellipse 70% 80% at 30% 40%, black 50%, transparent 100%);
 }
 
+@media (max-width: 1024px) {
+  .contact-image-wrap {
+    left: 52%;
+    right: -80px;
+    bottom: -60px;
+  }
+  .contact-cabbage {
+    max-width: 420px;
+  }
+}
+
 @media (max-width: 780px) {
-  .contact-image-wrap { left: 40%; bottom: -40px; right: -40px; }
+  .contact.section { overflow: visible; }
+  .contact-panel { max-width: 100%; }
+  .contact-image-wrap {
+    position: absolute;
+    top: 0;
+    right: -100px;
+    left: auto;
+    bottom: auto;
+    width: 220px;
+  }
+  .contact-cabbage {
+    max-width: 220px;
+  }
 }
 
 /* ── Scroll reveal ── */

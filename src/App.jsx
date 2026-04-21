@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react'
+import { useNavigate } from 'react-router-dom'
 import './App.css'
 import Cursor from './Cursor'
 import { initLenis, initScrollAnimations } from './animations'
@@ -7,7 +8,7 @@ const PROJECTS = [
   { title: 'Good Enough',              category: 'Brand Identity',   image: '/Good%20Enough.png'                      },
   { title: 'Workvivo AI',              category: 'Brand Identity',   image: '/workvivo.png'                           },
   { title: 'Fairhill/Fairfield',       category: 'Editorial Design', image: '/Fairhill%20Fairfield%20Rebrand.png'     },
-  { title: 'Iconography',              category: 'Print & Digital',  image: '/iconography.png'                        },
+  { title: 'Iconography',              category: 'Print & Digital',  image: '/iconography.png',   slug: '/work/iconography' },
   { title: 'Motion Design Case Study', category: 'Motion Design',    image: '/Motion%20Design%20case%20study%20.png'  },
 ]
 
@@ -15,6 +16,7 @@ const MARQUEE = ['Brand Identity', 'Editorial Design', 'Print & Digital', 'Socia
 
 export default function App() {
   const [menuOpen, setMenuOpen] = useState(false)
+  const navigate = useNavigate()
 
   useEffect(() => {
     initLenis()
@@ -37,6 +39,14 @@ export default function App() {
         </nav>
       </div>
 
+      <button
+        className={`menu-btn ${menuOpen ? 'is-open' : ''}`}
+        onClick={() => setMenuOpen(o => !o)}
+        aria-label="Toggle menu"
+      >
+        <span /><span /><span />
+      </button>
+
       <div className="app-shell">
 
         {/* ── Header ── */}
@@ -44,13 +54,6 @@ export default function App() {
           <a href="/" className="logo" aria-label="Drew Design Studio">
             <img src="/logo.png" alt="DREW." className="logo-img" />
           </a>
-          <button
-            className={`menu-btn ${menuOpen ? 'is-open' : ''}`}
-            onClick={() => setMenuOpen(o => !o)}
-            aria-label="Toggle menu"
-          >
-            <span /><span /><span />
-          </button>
         </header>
 
         <main>
@@ -112,7 +115,12 @@ export default function App() {
             </div>
             <div className="project-grid">
               {PROJECTS.map((p) => (
-                <article className="project-item" key={p.title}>
+                <article
+                  className="project-item"
+                  key={p.title}
+                  onClick={p.slug ? () => navigate(p.slug) : undefined}
+                  style={p.slug ? { cursor: 'pointer' } : undefined}
+                >
                   <div className="project-visual-wrap">
                     <img src={p.image} alt={p.title} className="project-visual" />
                   </div>
@@ -138,21 +146,8 @@ export default function App() {
                   drewpenkert@gmail.com
                 </a>
                 <div className="contact-socials">
-                  <a href="https://www.linkedin.com/in/drewpenkert/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-                      <rect x="2" y="2" width="20" height="20" rx="4" />
-                      <path d="M7 10v7M7 7v.01M12 17v-4a2 2 0 0 1 4 0v4M12 10v7" />
-                    </svg>
-                    LinkedIn
-                  </a>
-                  <a href="https://www.instagram.com/drew_penkert/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
-                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-                      <rect x="2" y="2" width="20" height="20" rx="5" />
-                      <circle cx="12" cy="12" r="4" />
-                      <circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" />
-                    </svg>
-                    Instagram
-                  </a>
+                  <a href="https://www.linkedin.com/in/drewpenkert/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                  <a href="https://www.instagram.com/drew_penkert/" target="_blank" rel="noopener noreferrer">Instagram</a>
                 </div>
               </div>
               <div className="contact-image-wrap">
