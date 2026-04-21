@@ -9,7 +9,7 @@ const PROJECTS = [
   { title: 'Workvivo AI',              category: 'Brand Identity',   image: '/workvivo.png'                           },
   { title: 'Fairhill/Fairfield',       category: 'Editorial Design', image: '/Fairhill%20Fairfield%20Rebrand.png'     },
   { title: 'Iconography',              category: 'Print & Digital',  image: '/iconography.png',   slug: '/work/iconography' },
-  { title: 'Motion Design Case Study', category: 'Motion Design',    image: '/Motion%20Design%20case%20study%20.png'  },
+  { title: 'Motion Design Case Study', category: 'Motion Design',    image: '/Motion%20Design%20case%20study%20.png', slug: '/work/motion-design' },
 ]
 
 const MARQUEE = ['Brand Identity', 'Editorial Design', 'Print & Digital', 'Social Media', 'Visual Systems', 'Motion Design']
