@@ -1,6 +1,38 @@
 /* Workvivo accent */
 :root { --wv-accent: #6B4EFF; }
 
+/* Brief scene — overlapping sticky + notebook */
+.wv-brief-scene {
+  position: relative;
+  background: #e8e6e1;
+  border-radius: var(--radius);
+  aspect-ratio: 16 / 9;
+  margin-bottom: 20px;
+}
+
+.wv-brief-notebook {
+  position: absolute;
+  right: 4%;
+  top: 50%;
+  transform: translateY(-50%) rotate(2deg);
+  width: 58%;
+  height: auto;
+  display: block;
+  filter: drop-shadow(0 8px 24px rgba(0,0,0,0.18));
+}
+
+.wv-brief-sticky {
+  position: absolute;
+  left: 6%;
+  top: 50%;
+  transform: translateY(-52%) rotate(-3deg);
+  width: 36%;
+  height: auto;
+  display: block;
+  filter: drop-shadow(0 6px 16px rgba(0,0,0,0.15));
+  z-index: 2;
+}
+
 .wv-hero-top {
   display: flex;
   justify-content: space-between;
