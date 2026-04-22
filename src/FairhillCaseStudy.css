@@ -121,6 +121,17 @@
   opacity: 0.6;
 }
 
+/* Two images side by side */
+.fh-two-images {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+@media (max-width: 680px) {
+  .fh-two-images { grid-template-columns: 1fr; }
+}
+
 /* Personas */
 .fh-personas-section {
   padding-bottom: 72px;

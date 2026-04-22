@@ -209,15 +209,20 @@ export default function FairhillCaseStudy() {
             </div>
           </div>
 
-          {/* Characters in colour */}
+          {/* Characters in colour + direction side by side */}
           <div className="fh-phase-step cs-reveal">
             <div className="fh-phase-meta">
               <span className="cs-vision-num">Step 06</span>
               <h3>Colour and illustration style.</h3>
               <p>Applying the brand palette to the character system — testing how the figures work as patterns and individual assets across brand touchpoints.</p>
             </div>
-            <div className="fh-phase-image fh-contain">
-              <img src="/fh-characters-colour.png" alt="Characters in colour" />
+            <div className="fh-two-images">
+              <div className="fh-phase-image fh-contain">
+                <img src="/fh-characters-colour.png" alt="Characters in colour" />
+              </div>
+              <div className="fh-phase-image fh-contain">
+                <img src="/fh-direction.png" alt="Character direction" />
+              </div>
             </div>
           </div>
 
@@ -233,27 +238,15 @@ export default function FairhillCaseStudy() {
             </div>
           </div>
 
-          {/* Logo round 2 */}
+          {/* Logo round 2 — final before outcomes */}
           <div className="fh-phase-step cs-reveal">
             <div className="fh-phase-meta">
               <span className="cs-vision-num">Step 08</span>
-              <h3>Logo exploration — round two.</h3>
-              <p>Shifting direction — geometric colour shapes and the bold F letterform system, refining toward a final identity that could work across all formats.</p>
+              <h3>Logo exploration — final round.</h3>
+              <p>Shifting direction — geometric colour shapes and the bold F letterform system, refining toward the final identity that could work across all formats.</p>
             </div>
             <div className="fh-phase-image fh-contain">
-              <img src="/fh-logo-iterations-2.png" alt="Logo iterations round two" />
-            </div>
-          </div>
-
-          {/* Direction image */}
-          <div className="fh-phase-step cs-reveal">
-            <div className="fh-phase-meta">
-              <span className="cs-vision-num">Step 09</span>
-              <h3>Final direction.</h3>
-              <p>Arriving at a single cohesive direction — a geometric character-driven identity with a clear, adaptable logo mark.</p>
-            </div>
-            <div className="fh-phase-image fh-contain">
-              <img src="/fh-direction.png" alt="Final direction" />
+              <img src="/fh-logo-iterations-2.png" alt="Logo iterations final round" />
             </div>
           </div>
         </section>
