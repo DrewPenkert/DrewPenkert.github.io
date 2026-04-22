@@ -4,8 +4,6 @@
 /* Brief scene — overlapping sticky + notebook */
 .wv-brief-scene {
   position: relative;
-  background: #e8e6e1;
-  border-radius: var(--radius);
   aspect-ratio: 16 / 9;
   margin-bottom: 20px;
 }
