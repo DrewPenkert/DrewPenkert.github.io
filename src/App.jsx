@@ -91,7 +91,7 @@ export default function App() {
               <div className="about-right">
                 <div className="section-head">
                   <span className="section-label">About</span>
-                  <h2>Hello, I'm Drew Penkert.</h2>
+                  <h2>Hiya, I'm Drew Penkert.</h2>
                 </div>
                 <div className="about-copy">
                   <p>
