@@ -110,6 +110,7 @@ const NEXT_PROJECT = {
   title: 'Good Enough',
   category: 'Brand Identity',
   image: '/good%20enough%20end%20card.png',
+  slug: '/good-enough',
 }
 
 /* ── Draggable sticky note ── */
@@ -398,10 +399,10 @@ export default function IconographyCaseStudy() {
           <span className="cs-section-label cs-reveal">Next Project</span>
           <div
             className="cs-next-card cs-reveal"
-            onClick={() => navigate('/')}
+            onClick={() => navigate(NEXT_PROJECT.slug)}
             role="button"
             tabIndex={0}
-            onKeyDown={e => e.key === 'Enter' && navigate('/')}
+            onKeyDown={e => e.key === 'Enter' && navigate(NEXT_PROJECT.slug)}
           >
             <div className="cs-next-image">
               <img src={NEXT_PROJECT.image} alt={NEXT_PROJECT.title} />

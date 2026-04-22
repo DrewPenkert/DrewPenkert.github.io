@@ -70,7 +70,7 @@ const NEXT_PROJECT = {
   title: 'Iconography',
   category: 'Print & Digital',
   image: '/iconography.png',
-  slug: '/work/iconography',
+  slug: '/iconography',
 }
 
 /* ── Draggable film strip ── */
