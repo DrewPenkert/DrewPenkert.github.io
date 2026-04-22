@@ -176,6 +176,23 @@
   display: block;
 }
 
+/* Notebook brief image */
+.wv-notebook-wrap {
+  max-width: 38%;
+  margin-bottom: 12px;
+}
+.wv-notebook-wrap img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (max-width: 680px) {
+  .wv-notebook-wrap {
+    max-width: 100%;
+  }
+}
+
 /* Hero illustration centering */
 .wv-hero .cs-hero-image {
   display: flex;
