@@ -63,6 +63,10 @@
   display: block;
 }
 
+.fh-phase-image.fh-dark {
+  background: #0d0d1a;
+}
+
 /* Outcomes — full width vertical stack */
 .fh-outcomes-stack {
   display: flex;

@@ -153,8 +153,8 @@ export default function FairhillCaseStudy() {
               <h3>Mood board and direction.</h3>
               <p>Establishing the visual tone — playful, community-driven, approachable.</p>
             </div>
-            <div className="fh-phase-image fh-placeholder">
-              <span>Mood board image</span>
+            <div className="fh-phase-image fh-dark">
+              <img src="/fh-direction.png" alt="Character direction and mood board" />
             </div>
           </div>
         </section>
@@ -172,8 +172,8 @@ export default function FairhillCaseStudy() {
               <h3>Logo development.</h3>
               <p>Exploring letterform directions, colour pairings and logo lockups across multiple rounds.</p>
             </div>
-            <div className="fh-phase-image fh-placeholder">
-              <span>Logo iterations image</span>
+            <div className="fh-phase-image">
+              <img src="/fh-iterations.png" alt="Logo iterations" />
             </div>
           </div>
 
