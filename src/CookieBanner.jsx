@@ -21,7 +21,7 @@ function loadGA() {
 
 export default function CookieBanner() {
   const [visible, setVisible] = useState(false)
-  const [collapsed, setCollapsed] = useState(false)
+  const [collapsed, setCollapsed] = useState(true)
 
   useEffect(() => {
     const consent = localStorage.getItem(STORAGE_KEY)
@@ -31,6 +31,18 @@ export default function CookieBanner() {
       setVisible(true)
     }
   }, [])
+
+  useEffect(() => {
+    if (!visible) return
+    const onScroll = () => {
+      if (window.scrollY > 80) {
+        setCollapsed(false)
+        window.removeEventListener('scroll', onScroll)
+      }
+    }
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [visible])
 
   const accept = () => {
     localStorage.setItem(STORAGE_KEY, 'accepted')
@@ -56,7 +68,7 @@ export default function CookieBanner() {
   return (
     <div className="cookie-banner" role="dialog" aria-label="Cookie consent">
       <p className="cookie-text">
-        Crossing the t's, dotting the i's. We knead your permission to use cookies.
+        Crossing the t's, dotting the i's. We use cookies to improve your experience.
       </p>
       <div className="cookie-actions">
         <button className="cookie-btn cookie-btn--collapse" onClick={() => setCollapsed(true)} aria-label="Minimise">—</button>
