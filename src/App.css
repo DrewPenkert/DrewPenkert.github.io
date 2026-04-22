@@ -506,7 +506,8 @@ button, input, textarea { font: inherit; }
 
 .contact-image-wrap {
   position: absolute;
-  bottom: 0;
+  top: 50%;
+  transform: translateY(-50%);
   right: var(--gutter);
   display: flex;
   flex-direction: column;
