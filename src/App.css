@@ -440,10 +440,11 @@ button, input, textarea { font: inherit; }
 
 .contact-panel {
   display: flex;
-  flex-direction: column;
-  gap: 36px;
-  max-width: 640px;
-  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 64px;
+  max-width: 100%;
 }
 
 .contact-content {
@@ -506,14 +507,11 @@ button, input, textarea { font: inherit; }
 .contact-socials a:hover { color: var(--accent); }
 
 .contact-image-wrap {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  right: var(--gutter);
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 12px;
+  flex-shrink: 0;
   pointer-events: none;
 }
 
@@ -535,18 +533,14 @@ button, input, textarea { font: inherit; }
   line-height: 1.5;
 }
 
-@media (max-width: 1024px) {
-  .contact-image-wrap {
-    right: var(--gutter);
-  }
-}
-
 @media (max-width: 780px) {
   .contact.section { overflow: visible; }
-  .contact-panel { max-width: 100%; }
+  .contact-panel {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 36px;
+  }
   .contact-image-wrap {
-    position: static;
-    transform: none;
     align-items: flex-start;
   }
 }
