@@ -155,7 +155,7 @@ export default function FairhillCaseStudy() {
             <div className="fh-phase-meta">
               <span className="cs-vision-num">Step 02</span>
               <h3>Defining the target audience.</h3>
-              <p>Three distinct audience groups emerged: the broader Fairhill/Fairfield community, local youth, and families and adults — each with different needs from the brand.</p>
+              <p>Three distinct audience groups emerged: the broader Fairhill/Fairfield community, local youth, and families and adults. Each with different needs from the brand.</p>
             </div>
             <div className="fh-phase-image fh-contain">
               <img src="/fh-Target%20Audience.png" alt="Target audience" />
@@ -185,7 +185,7 @@ export default function FairhillCaseStudy() {
             <div className="fh-phase-meta">
               <span className="cs-vision-num">Step 04</span>
               <h3>Mood board and visual direction.</h3>
-              <p>Establishing the visual tone — playful, community-driven, approachable and inclusive.</p>
+              <p>Establishing the visual tone. Playful, community-driven, approachable and inclusive.</p>
             </div>
             <div className="fh-phase-image fh-contain">
               <img src="/fh-moodboard.png" alt="Mood board" />
@@ -205,7 +205,7 @@ export default function FairhillCaseStudy() {
             <div className="fh-phase-meta">
               <span className="cs-vision-num">Step 05</span>
               <h3>Character development.</h3>
-              <p>Exploring an illustration-led identity — inclusive, neutral characters that could be replicated by any team member and represent the full community.</p>
+              <p>Exploring an illustration-led identity. Inclusive, neutral characters that could be replicated by any team member and represent the full community.</p>
             </div>
             <div className="fh-phase-image fh-contain">
               <img src="/fh-sketches.png" alt="Character sketches" />
@@ -217,14 +217,14 @@ export default function FairhillCaseStudy() {
             <div className="fh-phase-meta">
               <span className="cs-vision-num">Step 06</span>
               <h3>Colour and illustration style.</h3>
-              <p>Applying the brand palette to the character system — testing how the figures work as patterns and individual assets across brand touchpoints.</p>
+              <p>Applying the brand palette to the character system. Testing how the figures work as patterns and individual assets across brand touchpoints.</p>
             </div>
             <div className="fh-two-images">
               <div className="fh-phase-image fh-contain">
                 <img src="/fh-characters-colour.png" alt="Characters in colour" />
               </div>
               <div className="fh-phase-image fh-contain">
-                <img src="/fh-direction.png" alt="Character direction" />
+                <img src="/fh-logo-iterations-2.png" alt="Logo iterations" />
               </div>
             </div>
           </div>
@@ -233,7 +233,7 @@ export default function FairhillCaseStudy() {
           <div className="fh-phase-step cs-reveal">
             <div className="fh-phase-meta">
               <span className="cs-vision-num">Step 07</span>
-              <h3>Logo exploration — round one.</h3>
+              <h3>Logo exploration, round one.</h3>
               <p>First round of logo directions exploring the FAIR typographic treatment and HILL / FIELD stacking across several lockups.</p>
             </div>
             <div className="fh-phase-image fh-contain">
@@ -245,11 +245,11 @@ export default function FairhillCaseStudy() {
           <div className="fh-phase-step cs-reveal">
             <div className="fh-phase-meta">
               <span className="cs-vision-num">Step 08</span>
-              <h3>Logo exploration — final round.</h3>
-              <p>Shifting direction — geometric colour shapes and the bold F letterform system, refining toward the final identity that could work across all formats.</p>
+              <h3>Final direction.</h3>
+              <p>Arriving at the final character-driven identity. A geometric illustration system that could work warmly and consistently across all print and digital formats.</p>
             </div>
             <div className="fh-phase-image fh-contain">
-              <img src="/fh-logo-iterations-2.png" alt="Logo iterations final round" />
+              <img src="/fh-direction.png" alt="Final direction" />
             </div>
           </div>
         </section>
