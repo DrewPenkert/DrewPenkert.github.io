@@ -13,7 +13,6 @@ const META = [
 ]
 
 const OUTCOME_IMAGES = [
-  { src: '/fairhill%20fairfield%20portfolio-02.jpg', alt: 'Fairhill Fairfield outcome 02' },
   { src: '/fairhill%20fairfield%20portfolio-03.jpg', alt: 'Fairhill Fairfield outcome 03' },
   { src: '/fairhill%20fairfield%20portfolio-04.jpg', alt: 'Fairhill Fairfield outcome 04' },
   { src: '/fairhill%20fairfield%20portfolio-05.jpg', alt: 'Fairhill Fairfield outcome 05' },
@@ -96,6 +95,7 @@ export default function FairhillCaseStudy() {
                 </span>
               </h1>
               <p className="fh-subtitle">Community Association</p>
+              <p className="fh-collab">A collaborative project with Marlene Borkert and Kate O'Riordan.</p>
             </div>
           </div>
 
@@ -152,7 +152,7 @@ export default function FairhillCaseStudy() {
               <h3>Mood board and direction.</h3>
               <p>Establishing the visual tone — playful, community-driven, approachable.</p>
             </div>
-            <div className="fh-phase-image fh-dark">
+            <div className="fh-phase-image fh-contain">
               <img src="/fh-direction.png" alt="Character direction and mood board" />
             </div>
           </div>
@@ -171,7 +171,7 @@ export default function FairhillCaseStudy() {
               <h3>Logo development.</h3>
               <p>Exploring letterform directions, colour pairings and logo lockups across multiple rounds.</p>
             </div>
-            <div className="fh-phase-image">
+            <div className="fh-phase-image fh-contain">
               <img src="/fh-iterations.png" alt="Logo iterations" />
             </div>
           </div>
