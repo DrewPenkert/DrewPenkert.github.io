@@ -309,7 +309,7 @@ export default function IconographyCaseStudy() {
                 <strong>Duotone</strong> added complexity without meaning, and the style had <strong>drifted</strong> from the product's illustration language. The two no longer felt like they belonged together.
               </p>
             </div>
-            <div className="cs-problem-visual cs-reveal">
+            <div className="cs-problem-visual cs-reveal" style={{ transitionDelay: '400ms' }}>
               <img src="/cs-problem-icons.svg" alt="Original icon system" />
             </div>
           </div>
