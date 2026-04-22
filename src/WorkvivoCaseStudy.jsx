@@ -148,9 +148,8 @@ export default function WorkvivoCaseStudy() {
             <span className="cs-section-label">The Process</span>
             <h2>Understanding<br />the brief.</h2>
           </div>
-          <div className="wv-brief-scene cs-reveal">
-            <img className="wv-brief-notebook" src="/notebook-updated.png" alt="Layout notebook sketches" />
-            <img className="wv-brief-sticky" src="/sticky%20note.webp" alt="Brief questions sticky note" />
+          <div className="wv-final-img cs-reveal">
+            <img src="/notebook-updated.png" alt="Layout notebook sketches" />
           </div>
           <p className="wv-caption cs-reveal">Unpacking the brief before touching any software. Key questions around tone, clichés and brand boundaries set the direction for the entire project.</p>
         </section>
