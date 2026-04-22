@@ -122,7 +122,10 @@ export default function FairhillCaseStudy() {
             </div>
             <div className="cs-intro-body">
               <p className="cs-reveal">
-                The Fairhill Fairfield Community Association is a non-profit providing activities, services and facilities to the people of Fairhill and Fairfield in Cork. The brief was to create a cohesive, inclusive brand identity that reflects the community's values and can grow with the organisation.
+                Fairhill/Fairfield Community Centre, a non-profit community supporting families, based in the north of Cork were in need of a full rebrand and editorial system. The goal being to modernise their presence whilst remaining warm and approachable to connect to the local community.
+              </p>
+              <p className="cs-reveal">
+                Constraints within this collaborative project included the wide range of print and digital touchpoints that needed to be considered whilst keeping the balance between professionalism and friendliness within the proposed designs.
               </p>
             </div>
           </div>
