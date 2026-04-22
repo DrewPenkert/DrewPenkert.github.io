@@ -1,0 +1,108 @@
+/* Fairhill accent — yellow/green from brand */
+:root { --fh-accent: #C8D832; }
+
+.fh-hero-top {
+  margin-bottom: 48px;
+}
+
+.fh-subtitle {
+  font-size: 1rem;
+  color: var(--muted);
+  margin-top: 12px;
+  letter-spacing: -0.01em;
+}
+
+/* Phase steps */
+.fh-phase-step {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px;
+  align-items: start;
+  padding-bottom: 72px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 72px;
+}
+
+.fh-phase-step:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+
+.fh-phase-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.fh-phase-meta h3 {
+  font-family: 'Syne', sans-serif;
+  font-size: clamp(1.2rem, 2.5vw, 1.6rem);
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  color: var(--text);
+}
+
+.fh-phase-meta p {
+  font-size: 0.9rem;
+  line-height: 1.78;
+  color: var(--muted);
+}
+
+.fh-phase-image {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.fh-phase-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Outcomes — full width vertical stack */
+.fh-outcomes-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.fh-outcome-img {
+  width: 100%;
+  border-radius: var(--radius);
+  overflow: hidden;
+  line-height: 0;
+}
+
+.fh-outcome-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Placeholder boxes */
+.fh-placeholder {
+  background: rgba(200, 216, 50, 0.08);
+  border: 1.5px dashed rgba(200, 216, 50, 0.4);
+  border-radius: var(--radius);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 200px;
+}
+
+.fh-placeholder span {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+  opacity: 0.6;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .fh-phase-step { grid-template-columns: 1fr; gap: 40px; }
+}
