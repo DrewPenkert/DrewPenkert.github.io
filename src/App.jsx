@@ -68,7 +68,7 @@ export default function App() {
 
             <div className="hero-body">
               <p className="hero-intro">
-                Fuelled by ambition, productive procrastination and a strong coffee.
+                Fuelled by ambition and a strong coffee.
               </p>
               <a href="#work" className="hero-cta">
                 View work <span aria-hidden="true">→</span>
@@ -140,7 +140,6 @@ export default function App() {
               <div className="contact-content">
                 <div className="contact-text">
                   <span className="section-label">Contact</span>
-                  <p className="contact-tagline">From Farm to Figma...</p>
                   <h2>Let's work<br />together.</h2>
                 </div>
                 <a className="contact-email" href="mailto:drewpenkert@gmail.com">
@@ -153,7 +152,8 @@ export default function App() {
                 </div>
               </div>
               <div className="contact-image-wrap">
-                <img src="/cabbage%20-08.png" alt="Drew Penkert" className="contact-cabbage" />
+                <img src="/b-pic.png" alt="Drew Penkert" className="contact-bpic" />
+                <p className="contact-bpic-label">Designer in the making since '01</p>
               </div>
             </div>
           </section>
