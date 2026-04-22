@@ -163,6 +163,17 @@
   object-position: center top;
 }
 
+@media (max-width: 680px) {
+  .ge-hero .cs-hero-image {
+    aspect-ratio: unset;
+    overflow: visible;
+  }
+  .ge-hero .cs-hero-image img {
+    height: auto;
+    object-fit: unset;
+  }
+}
+
 /* ── Outcomes grid ── */
 .ge-outcomes-grid {
   display: grid;
