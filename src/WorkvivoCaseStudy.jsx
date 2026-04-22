@@ -142,6 +142,19 @@ export default function WorkvivoCaseStudy() {
           </div>
         </section>
 
+        {/* Understanding the brief */}
+        <section className="cs-section">
+          <div className="cs-section-head cs-reveal">
+            <span className="cs-section-label">The Process</span>
+            <h2>Understanding<br />the brief.</h2>
+          </div>
+          <div className="wv-grid-4 cs-reveal">
+            <div className="wv-grid-img"><img src="/sticky%20note.webp" alt="Brief questions sticky note" /></div>
+            <div className="wv-grid-img"><img src="/notbook.webp" alt="Layout notebook sketches" /></div>
+          </div>
+          <p className="wv-caption cs-reveal">Unpacking the brief before touching any software. Key questions around tone, clichés and brand boundaries set the direction for the entire project.</p>
+        </section>
+
         {/* Initial Concepts */}
         <section className="cs-section">
           <div className="cs-section-head cs-reveal">
@@ -149,7 +162,7 @@ export default function WorkvivoCaseStudy() {
             <h2>Initial<br />concepts.</h2>
           </div>
           <div className="wv-grid-6 cs-reveal">
-            {[1,2,3,4,5,6].map(i => (
+            {[1,3,4,5,6].map(i => (
               <div className="wv-grid-img" key={i}>
                 <img src={`/wv-iteration-${i}.png`} alt={`Iteration ${i}`} />
               </div>

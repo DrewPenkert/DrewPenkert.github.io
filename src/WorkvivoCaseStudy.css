@@ -102,6 +102,10 @@
   margin-bottom: 20px;
 }
 
+.wv-grid-6:has(> :nth-child(5):last-child) {
+  grid-template-columns: repeat(3, 1fr);
+}
+
 .wv-grid-4 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
