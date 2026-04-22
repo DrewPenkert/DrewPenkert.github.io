@@ -264,22 +264,27 @@ export default function MotionDesignCaseStudy() {
         <section className="cs-section cs-revision">
           <div className="cs-section-head cs-reveal">
             <span className="cs-section-label">Iterations</span>
-            <h2>Four drafts.<br />One direction.</h2>
+            <h2>Three drafts.<br />One direction.</h2>
           </div>
-          <div className="md-video-grid">
-            {[
-              { src: '/video%201.mov',  label: 'Draft 01' },
-              { src: '/Video%202.mp4',  label: 'Draft 02' },
-              { src: '/video%203.mp4',  label: 'Draft 03' },
-              { src: '/video%204.mp4',  label: 'Draft 04' },
-            ].map((v, i) => (
-              <div className="md-video-item cs-reveal" key={i}>
-                <div className="md-video-wrap">
-                  <video src={v.src} autoPlay loop muted playsInline />
-                </div>
-                <span className="md-video-label">{v.label}</span>
+          <div className="md-video-feature-grid">
+            <div className="md-video-item md-video-featured cs-reveal">
+              <div className="md-video-wrap">
+                <video src="/Video%202.mp4" autoPlay loop muted playsInline />
               </div>
-            ))}
+              <span className="md-video-label">Draft 02</span>
+            </div>
+            <div className="md-video-item cs-reveal">
+              <div className="md-video-wrap">
+                <video src="/video%203.mp4" autoPlay loop muted playsInline />
+              </div>
+              <span className="md-video-label">Draft 03</span>
+            </div>
+            <div className="md-video-item cs-reveal">
+              <div className="md-video-wrap">
+                <video src="/video%204.mp4" autoPlay loop muted playsInline />
+              </div>
+              <span className="md-video-label">Draft 04</span>
+            </div>
           </div>
         </section>
 
