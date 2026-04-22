@@ -112,7 +112,10 @@ export default function WorkvivoCaseStudy() {
             </div>
             <div className="cs-intro-body">
               <p className="cs-reveal">
-                Overview copy goes here. Describe the brief, the challenge and your role on the project.
+                A one-pager designed for Workvivo's two-year anniversary campaign. Working within a one-week timeline and strict brand guidelines, I explored how to make a corporate milestone feel genuinely celebratory without sliding into party clichés.
+              </p>
+              <p className="cs-reveal">
+                The challenge was threading illustration and typography in a way that felt expressive but still credible for a B2B audience. Starting from bold logotype explorations, I iterated toward a purple-heavy, illustration-led layout that balanced Workvivo's visual identity with something worth stopping to read.
               </p>
             </div>
           </div>
