@@ -121,6 +121,27 @@ export default function WorkvivoCaseStudy() {
           </div>
         </section>
 
+        {/* The Problem */}
+        <section className="cs-section cs-vision">
+          <div className="cs-section-head cs-reveal">
+            <span className="cs-section-label">The Problem</span>
+            <h2>Three constraints.<br />One shot.</h2>
+          </div>
+          <div className="cs-vision-cards">
+            {[
+              { title: 'Tone', body: 'Making a milestone feel exciting without losing B2B professionalism.' },
+              { title: 'Brand within bounds', body: "Expressive illustration while staying locked to Workvivo's visual identity." },
+              { title: '1 week, 1 shot', body: 'Concept to final delivery with a limited feedback loop.' },
+            ].map((p, i) => (
+              <div className="cs-vision-card cs-reveal" key={i}>
+                <span className="cs-vision-num">0{i + 1}</span>
+                <h3>{p.title}</h3>
+                <p>{p.body}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+
         {/* The Process */}
         <section className="cs-section">
           <div className="cs-section-head cs-reveal">
