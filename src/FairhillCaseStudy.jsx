@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import Cursor from './Cursor'
 import CookieBanner from './CookieBanner'
@@ -54,6 +54,7 @@ function useReveal() {
 
 export default function FairhillCaseStudy() {
   const navigate = useNavigate()
+  const [lightbox, setLightbox] = useState(null)
   useReveal()
 
   useEffect(() => {
@@ -65,6 +66,13 @@ export default function FairhillCaseStudy() {
     <>
       <Cursor />
       <CookieBanner />
+
+      {lightbox && (
+        <div className="fh-lightbox" onClick={() => setLightbox(null)}>
+          <img src={lightbox} alt="Expanded" />
+        </div>
+      )}
+
       <div className="cs-shell">
 
         {/* Header */}
@@ -168,15 +176,14 @@ export default function FairhillCaseStudy() {
             <h3>User personas.</h3>
             <p>Personas helped keep real community members at the centre of every design decision.</p>
             <div className="fh-personas-grid">
-              <div className="fh-persona-img">
-                <img src="/fh-persona-john.png" alt="John Murphy persona" />
-              </div>
-              <div className="fh-persona-img">
-                <img src="/fh-persona-kevin.png" alt="Kevin O'Keeffe persona" />
-              </div>
-              <div className="fh-persona-img">
-                <img src="/fh-persona-anne.png" alt="Anne persona" />
-              </div>
+              {[
+                { src: '/fh-persona-john.png', alt: 'John Murphy persona' },
+                { src: '/fh-persona-kevin.png', alt: 'Kevin O\'Keeffe persona' },
+              ].map((p, i) => (
+                <div className="fh-persona-img fh-zoomable" key={i} onClick={() => setLightbox(p.src)} title="Click to expand">
+                  <img src={p.src} alt={p.alt} />
+                </div>
+              ))}
             </div>
           </div>
 

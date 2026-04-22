@@ -121,6 +121,38 @@
   opacity: 0.6;
 }
 
+/* Lightbox */
+.fh-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: rgba(0, 0, 0, 0.88);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: zoom-out;
+  padding: 24px;
+}
+
+.fh-lightbox img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.fh-zoomable {
+  cursor: zoom-in;
+}
+
+.fh-zoomable img {
+  transition: opacity 0.2s;
+}
+
+.fh-zoomable:hover img {
+  opacity: 0.85;
+}
+
 /* Two images side by side */
 .fh-two-images {
   display: grid;
