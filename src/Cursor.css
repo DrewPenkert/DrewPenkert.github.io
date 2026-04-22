@@ -1,5 +1,7 @@
-*, *::before, *::after {
-  cursor: none !important;
+@media (hover: hover) and (pointer: fine) {
+  *, *::before, *::after {
+    cursor: none !important;
+  }
 }
 
 .custom-cursor {
@@ -24,4 +26,8 @@
   width: 56px;
   height: 56px;
   opacity: 0.7;
+}
+
+@media (hover: none), (pointer: coarse) {
+  .custom-cursor { display: none; }
 }

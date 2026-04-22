@@ -443,6 +443,7 @@ button, input, textarea { font: inherit; }
   flex-direction: column;
   gap: 36px;
   max-width: 640px;
+  position: relative;
 }
 
 .contact-content {
@@ -544,7 +545,9 @@ button, input, textarea { font: inherit; }
   .contact.section { overflow: visible; }
   .contact-panel { max-width: 100%; }
   .contact-image-wrap {
-    display: none;
+    position: static;
+    transform: none;
+    align-items: flex-start;
   }
 }
 
