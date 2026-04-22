@@ -149,39 +149,42 @@ export default function WorkvivoCaseStudy() {
             <h2>From brief<br />to flat.</h2>
           </div>
 
-          {/* Step 01 — brief / notes */}
+          {/* Step 01 */}
           <div className="wv-process-step cs-reveal">
             <div className="wv-process-meta">
               <span className="cs-vision-num">Step 01</span>
               <h3>Understanding the brief.</h3>
-              <p>Describe the initial brief, research and planning stage here.</p>
+              <p>Unpacking the two-year milestone brief, the brand guidelines and what the one-pager needed to achieve for a B2B audience.</p>
             </div>
-            <div className="wv-process-image wv-placeholder">
-              <span>Notebook / brief image</span>
+            <div className="wv-two-images">
+              <div className="wv-process-image"><img src="/wv-iteration-1.png" alt="Iteration 1" /></div>
+              <div className="wv-process-image"><img src="/wv-iteration-2.png" alt="Iteration 2" /></div>
             </div>
           </div>
 
-          {/* Step 02 — initial concepts */}
+          {/* Step 02 */}
           <div className="wv-process-step cs-reveal">
             <div className="wv-process-meta">
               <span className="cs-vision-num">Step 02</span>
               <h3>Initial concepts and rethinks.</h3>
-              <p>Early W logo explorations, type experiments and concept iterations.</p>
+              <p>Early logotype explorations, type experiments and illustration-led concept directions.</p>
             </div>
-            <div className="wv-process-image wv-placeholder">
-              <span>Concept iterations image</span>
+            <div className="wv-two-images">
+              <div className="wv-process-image"><img src="/wv-iteration-3.png" alt="Iteration 3" /></div>
+              <div className="wv-process-image"><img src="/wv-iteration-4.png" alt="Iteration 4" /></div>
             </div>
           </div>
 
-          {/* Step 03 — flat draft */}
+          {/* Step 03 */}
           <div className="wv-process-step cs-reveal">
             <div className="wv-process-meta">
               <span className="cs-vision-num">Step 03</span>
               <h3>The flat draft.</h3>
-              <p>Moving into Figma/Illustrator — the one pager starts to take shape.</p>
+              <p>Moving into Figma, refining the purple-heavy illustration-led layout toward a final deliverable.</p>
             </div>
-            <div className="wv-process-image wv-placeholder">
-              <span>Flat draft image</span>
+            <div className="wv-two-images">
+              <div className="wv-process-image"><img src="/wv-iteration-5.png" alt="Iteration 5" /></div>
+              <div className="wv-process-image"><img src="/wv-iteration-6.png" alt="Iteration 6" /></div>
             </div>
           </div>
         </section>

@@ -94,6 +94,28 @@
   display: block;
 }
 
+/* Two images side by side in process steps */
+.wv-two-images {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.wv-two-images .wv-process-image {
+  aspect-ratio: unset;
+}
+
+.wv-two-images .wv-process-image img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+}
+
+@media (max-width: 680px) {
+  .wv-two-images { grid-template-columns: 1fr; }
+}
+
 /* Outcomes grid */
 .wv-outcomes-grid {
   display: grid;
