@@ -230,9 +230,8 @@ button, input, textarea { font: inherit; }
   border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
   padding: 14px 0;
-  margin-top: -300px;
+  margin-top: -420px;
   background: var(--bg);
-  margin-top: auto;
 }
 
 .marquee-track {
