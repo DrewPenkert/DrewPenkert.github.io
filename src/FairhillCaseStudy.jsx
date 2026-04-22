@@ -13,14 +13,14 @@ const META = [
 ]
 
 const OUTCOME_IMAGES = [
-  { src: '/fairhill%20fairfield%20portfolio-03.jpg', alt: 'Fairhill Fairfield outcome 03' },
-  { src: '/fairhill%20fairfield%20portfolio-04.jpg', alt: 'Fairhill Fairfield outcome 04' },
-  { src: '/fairhill%20fairfield%20portfolio-05.jpg', alt: 'Fairhill Fairfield outcome 05' },
-  { src: '/fairhill%20fairfield%20portfolio-06.jpg', alt: 'Fairhill Fairfield outcome 06' },
-  { src: '/fairhill%20fairfield%20portfolio-07.jpg', alt: 'Fairhill Fairfield outcome 07' },
-  { src: '/fairhill%20fairfield%20portfolio-08.jpg', alt: 'Fairhill Fairfield outcome 08' },
-  { src: '/fairhill%20fairfield%20portfolio-09.jpg', alt: 'Fairhill Fairfield outcome 09' },
-  { src: '/fairhill%20fairfield%20portfolio-10.jpg', alt: 'Fairhill Fairfield outcome 10' },
+  { src: '/fairhill%20fairfield%20portfolio-03.jpg', alt: 'Final outcomes' },
+  { src: '/fairhill%20fairfield%20portfolio-04.jpg', alt: 'Final outcomes' },
+  { src: '/fairhill%20fairfield%20portfolio-05.jpg', alt: 'Final outcomes' },
+  { src: '/fairhill%20fairfield%20portfolio-06.jpg', alt: 'Final outcomes' },
+  { src: '/fairhill%20fairfield%20portfolio-07.jpg', alt: 'Final outcomes' },
+  { src: '/fairhill%20fairfield%20portfolio-08.jpg', alt: 'Final outcomes' },
+  { src: '/fairhill%20fairfield%20portfolio-09.jpg', alt: 'Final outcomes' },
+  { src: '/fairhill%20fairfield%20portfolio-10.jpg', alt: 'Final outcomes' },
 ]
 
 const NEXT_PROJECT = {
@@ -122,7 +122,7 @@ export default function FairhillCaseStudy() {
             </div>
             <div className="cs-intro-body">
               <p className="cs-reveal">
-                Overview copy goes here — the brief, the client and what the project set out to achieve.
+                The Fairhill Fairfield Community Association is a non-profit providing activities, services and facilities to the people of Fairhill and Fairfield in Cork. The brief was to create a cohesive, inclusive brand identity that reflects the community's values and can grow with the organisation.
               </p>
             </div>
           </div>
@@ -135,25 +135,57 @@ export default function FairhillCaseStudy() {
             <h2>Getting to know<br />our client.</h2>
           </div>
 
+          {/* Client research */}
           <div className="fh-phase-step cs-reveal">
             <div className="fh-phase-meta">
               <span className="cs-vision-num">Step 01</span>
               <h3>Research and discovery.</h3>
-              <p>Understanding the community, their values and what the brand needed to communicate.</p>
+              <p>Understanding the community, their values and what the brand needed to communicate — from client interviews to mission statements.</p>
             </div>
-            <div className="fh-phase-image fh-placeholder">
-              <span>Research / sticky notes image</span>
+            <div className="fh-phase-image fh-contain">
+              <img src="/fh-client-research.png" alt="Getting to know the client" />
             </div>
           </div>
 
+          {/* Target audience */}
           <div className="fh-phase-step cs-reveal">
             <div className="fh-phase-meta">
               <span className="cs-vision-num">Step 02</span>
-              <h3>Mood board and direction.</h3>
-              <p>Establishing the visual tone — playful, community-driven, approachable.</p>
+              <h3>Defining the target audience.</h3>
+              <p>Three distinct audience groups emerged: the broader Fairhill/Fairfield community, local youth, and families and adults — each with different needs from the brand.</p>
             </div>
             <div className="fh-phase-image fh-contain">
-              <img src="/fh-direction.png" alt="Character direction and mood board" />
+              <img src="/fh-Target%20Audience.png" alt="Target audience" />
+            </div>
+          </div>
+
+          {/* Personas */}
+          <div className="fh-personas-section cs-reveal">
+            <span className="cs-vision-num">Step 03</span>
+            <h3>User personas.</h3>
+            <p>Personas helped keep real community members at the centre of every design decision.</p>
+            <div className="fh-personas-grid">
+              <div className="fh-persona-img">
+                <img src="/fh-persona-john.png" alt="John Murphy persona" />
+              </div>
+              <div className="fh-persona-img">
+                <img src="/fh-persona-kevin.png" alt="Kevin O'Keeffe persona" />
+              </div>
+              <div className="fh-persona-img">
+                <img src="/fh-persona-anne.png" alt="Anne persona" />
+              </div>
+            </div>
+          </div>
+
+          {/* Moodboard */}
+          <div className="fh-phase-step cs-reveal">
+            <div className="fh-phase-meta">
+              <span className="cs-vision-num">Step 04</span>
+              <h3>Mood board and visual direction.</h3>
+              <p>Establishing the visual tone — playful, community-driven, approachable and inclusive.</p>
+            </div>
+            <div className="fh-phase-image fh-contain">
+              <img src="/fh-moodboard.png" alt="Mood board" />
             </div>
           </div>
         </section>
@@ -165,53 +197,80 @@ export default function FairhillCaseStudy() {
             <h2>The brand<br />iterations.</h2>
           </div>
 
+          {/* Character sketches */}
           <div className="fh-phase-step cs-reveal">
             <div className="fh-phase-meta">
-              <span className="cs-vision-num">Step 03</span>
-              <h3>Logo development.</h3>
-              <p>Exploring letterform directions, colour pairings and logo lockups across multiple rounds.</p>
+              <span className="cs-vision-num">Step 05</span>
+              <h3>Character development.</h3>
+              <p>Exploring an illustration-led identity — inclusive, neutral characters that could be replicated by any team member and represent the full community.</p>
             </div>
             <div className="fh-phase-image fh-contain">
-              <img src="/fh-iterations.png" alt="Logo iterations" />
+              <img src="/fh-sketches.png" alt="Character sketches" />
             </div>
           </div>
 
+          {/* Characters in colour */}
           <div className="fh-phase-step cs-reveal">
             <div className="fh-phase-meta">
-              <span className="cs-vision-num">Step 04</span>
-              <h3>Refining and presenting.</h3>
-              <p>Narrowing to a final direction and presenting three refined options to the client.</p>
+              <span className="cs-vision-num">Step 06</span>
+              <h3>Colour and illustration style.</h3>
+              <p>Applying the brand palette to the character system — testing how the figures work as patterns and individual assets across brand touchpoints.</p>
             </div>
-            <div className="fh-phase-image fh-placeholder">
-              <span>Refinement image</span>
+            <div className="fh-phase-image fh-contain">
+              <img src="/fh-characters-colour.png" alt="Characters in colour" />
+            </div>
+          </div>
+
+          {/* Logo round 1 */}
+          <div className="fh-phase-step cs-reveal">
+            <div className="fh-phase-meta">
+              <span className="cs-vision-num">Step 07</span>
+              <h3>Logo exploration — round one.</h3>
+              <p>First round of logo directions exploring the FAIR typographic treatment and HILL / FIELD stacking across several lockups.</p>
+            </div>
+            <div className="fh-phase-image fh-contain">
+              <img src="/fh-logo-iteractions-1.png" alt="Logo iterations round one" />
+            </div>
+          </div>
+
+          {/* Logo round 2 */}
+          <div className="fh-phase-step cs-reveal">
+            <div className="fh-phase-meta">
+              <span className="cs-vision-num">Step 08</span>
+              <h3>Logo exploration — round two.</h3>
+              <p>Shifting direction — geometric colour shapes and the bold F letterform system, refining toward a final identity that could work across all formats.</p>
+            </div>
+            <div className="fh-phase-image fh-contain">
+              <img src="/fh-logo-iterations-2.png" alt="Logo iterations round two" />
+            </div>
+          </div>
+
+          {/* Direction image */}
+          <div className="fh-phase-step cs-reveal">
+            <div className="fh-phase-meta">
+              <span className="cs-vision-num">Step 09</span>
+              <h3>Final direction.</h3>
+              <p>Arriving at a single cohesive direction — a geometric character-driven identity with a clear, adaptable logo mark.</p>
+            </div>
+            <div className="fh-phase-image fh-contain">
+              <img src="/fh-direction.png" alt="Final direction" />
             </div>
           </div>
         </section>
 
-        {/* Final Outcomes — full-width image stack */}
+        {/* Final Outcomes */}
         <section className="cs-section fh-outcomes-section">
           <div className="cs-section-head cs-reveal">
             <span className="cs-section-label">Final Outcomes</span>
             <h2>Final<br />outcomes.</h2>
           </div>
-
-          {OUTCOME_IMAGES.length > 0 ? (
-            <div className="fh-outcomes-stack">
-              {OUTCOME_IMAGES.map((img, i) => (
-                <div className="fh-outcome-img cs-reveal" key={i}>
-                  <img src={img.src} alt={img.alt} />
-                </div>
-              ))}
-            </div>
-          ) : (
-            <div className="fh-outcomes-stack">
-              {[1, 2, 3, 4, 5, 6, 7, 8].map(i => (
-                <div className="fh-outcome-img fh-placeholder cs-reveal" key={i}>
-                  <span>Outcome image {i}</span>
-                </div>
-              ))}
-            </div>
-          )}
+          <div className="fh-outcomes-stack">
+            {OUTCOME_IMAGES.map((img, i) => (
+              <div className="fh-outcome-img cs-reveal" key={i}>
+                <img src={img.src} alt={img.alt} />
+              </div>
+            ))}
+          </div>
         </section>
 
         {/* Next Project */}

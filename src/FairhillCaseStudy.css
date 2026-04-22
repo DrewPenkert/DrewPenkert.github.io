@@ -121,7 +121,57 @@
   opacity: 0.6;
 }
 
+/* Personas */
+.fh-personas-section {
+  padding-bottom: 72px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 72px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.fh-personas-section h3 {
+  font-family: 'Syne', sans-serif;
+  font-size: clamp(1.2rem, 2.5vw, 1.6rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: var(--text);
+}
+
+.fh-personas-section p {
+  font-size: 0.9rem;
+  line-height: 1.78;
+  color: var(--muted);
+  max-width: 52ch;
+}
+
+.fh-personas-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin-top: 8px;
+}
+
+.fh-persona-img {
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: #f5f5f5;
+  line-height: 0;
+}
+
+.fh-persona-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 /* Responsive */
 @media (max-width: 900px) {
   .fh-phase-step { grid-template-columns: 1fr; gap: 40px; }
+  .fh-personas-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 680px) {
+  .fh-personas-grid { grid-template-columns: 1fr; }
 }
