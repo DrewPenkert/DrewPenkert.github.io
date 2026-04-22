@@ -99,7 +99,7 @@ export default function WorkvivoCaseStudy() {
           </div>
 
           <div className="cs-hero-image cs-reveal">
-            <img src="/workvivo.png" alt="Workvivo One Pager" />
+            <img src="/wv-hero-01.png" alt="Workvivo One Pager" />
           </div>
         </section>
 
