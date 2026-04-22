@@ -128,18 +128,16 @@
 .wv-grid-6 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 12px;
+  grid-auto-rows: 1fr;
+  gap: 24px;
   margin-bottom: 20px;
-}
-
-.wv-grid-6:has(> :nth-child(5):last-child) {
-  grid-template-columns: repeat(3, 1fr);
 }
 
 .wv-grid-4 {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 12px;
+  grid-auto-rows: 1fr;
+  gap: 24px;
   margin-bottom: 20px;
 }
 
@@ -148,13 +146,14 @@
   overflow: hidden;
   background: #fff;
   line-height: 0;
+  aspect-ratio: 4 / 3;
 }
 
 .wv-grid-img img {
   width: 100%;
-  height: auto;
+  height: 100%;
   display: block;
-  object-fit: contain;
+  object-fit: cover;
 }
 
 .wv-caption {
@@ -173,6 +172,19 @@
 
 .wv-final-img img {
   width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Hero illustration centering */
+.wv-hero .cs-hero-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wv-hero .cs-hero-image img {
+  width: auto;
+  max-width: 100%;
   height: auto;
   display: block;
 }

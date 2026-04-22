@@ -128,7 +128,7 @@
 .ge-polaroids {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 20px;
+  gap: 24px;
   margin-top: 8px;
 }
 
@@ -151,17 +151,31 @@
   aspect-ratio: 1;
 }
 
+/* ── Hero image crop ── */
+.ge-hero .cs-hero-image {
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+.ge-hero .cs-hero-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center top;
+}
+
 /* ── Outcomes grid ── */
 .ge-outcomes-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 16px;
+  grid-auto-rows: 1fr;
+  gap: 24px;
 }
 
 .ge-outcome-img {
   border-radius: var(--radius);
   overflow: hidden;
   line-height: 0;
+  aspect-ratio: 4 / 3;
 }
 
 .ge-outcome-img img {
@@ -174,11 +188,6 @@
 
 .ge-outcome-img:hover img {
   transform: scale(1.03);
-}
-
-.ge-outcome-img:first-child,
-.ge-outcome-img:nth-child(2) {
-  grid-column: span 1;
 }
 
 /* ── Responsive ── */

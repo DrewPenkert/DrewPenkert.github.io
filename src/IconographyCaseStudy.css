@@ -226,7 +226,7 @@
 .cs-vision-cards {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 20px;
+  gap: 24px;
 }
 
 .cs-vision-card {
@@ -408,6 +408,7 @@
   margin-top: 16px;
   display: flex;
   gap: 12px;
+  align-items: flex-start;
 }
 
 .cs-timeline-images img {
@@ -418,6 +419,7 @@
   border-radius: 6px;
   background: rgba(6, 37, 131, 0.03);
   display: block;
+  flex-shrink: 0;
   transition: transform 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
   cursor: zoom-in;
 }
@@ -428,21 +430,22 @@
   z-index: 10;
 }
 
-/* Side-by-side pair keeps images equal width */
-.cs-timeline-pair {
-  align-items: flex-start;
-}
-
+/* Side-by-side pair keeps images equal size */
 .cs-timeline-pair img {
   flex: 1 1 0;
-  max-width: 200px;
+  width: 0;
+  max-width: none;
+  height: 140px;
+  object-fit: contain;
 }
 
 /* ── Final Outcomes ── */
 .cs-outcomes-pair {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 20px;
+  grid-auto-rows: 1fr;
+  gap: 24px;
+  align-items: stretch;
 }
 
 .cs-outcomes-video {
@@ -453,7 +456,8 @@
 
 .cs-outcomes-video video {
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
   display: block;
 }
 
