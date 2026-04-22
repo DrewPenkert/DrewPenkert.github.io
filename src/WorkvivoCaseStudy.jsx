@@ -98,9 +98,8 @@ export default function WorkvivoCaseStudy() {
             ))}
           </div>
 
-          {/* Hero image — add workvivo cover image to public/ */}
-          <div className="cs-hero-image cs-reveal wv-placeholder">
-            <span>Hero image</span>
+          <div className="cs-hero-image cs-reveal">
+            <img src="/workvivo.png" alt="Workvivo One Pager" />
           </div>
         </section>
 
