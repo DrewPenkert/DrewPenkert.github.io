@@ -108,7 +108,7 @@ export default function WorkvivoCaseStudy() {
           <div className="cs-intro-inner">
             <div className="cs-section-head cs-reveal">
               <span className="cs-section-label">Overview</span>
-              <h2>One page.<br />One week.</h2>
+              <h2>One pager.<br />One week.</h2>
             </div>
             <div className="cs-intro-body">
               <p className="cs-reveal">
