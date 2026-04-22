@@ -12,16 +12,16 @@ const META = [
   { label: 'Timeline', value: 'January – May 2022' },
 ]
 
-// Add filenames to public/ then list them here
 const OUTCOME_IMAGES = [
-  // { src: '/fairhill-outcome-1.jpg', alt: 'The Logo' },
-  // { src: '/fairhill-outcome-2.jpg', alt: 'Colours' },
-  // { src: '/fairhill-outcome-3.jpg', alt: 'Brand Applications' },
-  // { src: '/fairhill-outcome-4.jpg', alt: 'Website' },
-  // { src: '/fairhill-outcome-5.jpg', alt: 'Social Media Posts' },
-  // { src: '/fairhill-outcome-6.jpg', alt: 'Facebook' },
-  // { src: '/fairhill-outcome-7.jpg', alt: 'Instagram' },
-  // { src: '/fairhill-outcome-8.jpg', alt: 'Final' },
+  { src: '/fairhill%20fairfield%20portfolio-02.jpg', alt: 'Fairhill Fairfield outcome 02' },
+  { src: '/fairhill%20fairfield%20portfolio-03.jpg', alt: 'Fairhill Fairfield outcome 03' },
+  { src: '/fairhill%20fairfield%20portfolio-04.jpg', alt: 'Fairhill Fairfield outcome 04' },
+  { src: '/fairhill%20fairfield%20portfolio-05.jpg', alt: 'Fairhill Fairfield outcome 05' },
+  { src: '/fairhill%20fairfield%20portfolio-06.jpg', alt: 'Fairhill Fairfield outcome 06' },
+  { src: '/fairhill%20fairfield%20portfolio-07.jpg', alt: 'Fairhill Fairfield outcome 07' },
+  { src: '/fairhill%20fairfield%20portfolio-08.jpg', alt: 'Fairhill Fairfield outcome 08' },
+  { src: '/fairhill%20fairfield%20portfolio-09.jpg', alt: 'Fairhill Fairfield outcome 09' },
+  { src: '/fairhill%20fairfield%20portfolio-10.jpg', alt: 'Fairhill Fairfield outcome 10' },
 ]
 
 const NEXT_PROJECT = {
@@ -108,9 +108,8 @@ export default function FairhillCaseStudy() {
             ))}
           </div>
 
-          {/* Hero image — add to public/ */}
-          <div className="cs-hero-image cs-reveal fh-placeholder">
-            <span>Hero / cover image</span>
+          <div className="cs-hero-image cs-reveal">
+            <img src="/fairhill%20fairfield%20portfolio-01.jpg" alt="Fairhill Fairfield cover" />
           </div>
         </section>
 
