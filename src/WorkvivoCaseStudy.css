@@ -94,26 +94,58 @@
   display: block;
 }
 
-/* Two images side by side in process steps */
-.wv-two-images {
+/* Image grids */
+.wv-grid-6 {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(3, 1fr);
   gap: 12px;
+  margin-bottom: 20px;
 }
 
-.wv-two-images .wv-process-image {
-  aspect-ratio: unset;
+.wv-grid-4 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  margin-bottom: 20px;
 }
 
-.wv-two-images .wv-process-image img {
+.wv-grid-img {
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: #fff;
+  line-height: 0;
+}
+
+.wv-grid-img img {
   width: 100%;
   height: auto;
+  display: block;
   object-fit: contain;
+}
+
+.wv-caption {
+  font-size: 0.82rem;
+  color: var(--muted);
+  line-height: 1.7;
+  max-width: 72ch;
+}
+
+.wv-final-img {
+  width: 100%;
+  border-radius: var(--radius);
+  overflow: hidden;
+  line-height: 0;
+}
+
+.wv-final-img img {
+  width: 100%;
+  height: auto;
   display: block;
 }
 
 @media (max-width: 680px) {
-  .wv-two-images { grid-template-columns: 1fr; }
+  .wv-grid-6 { grid-template-columns: repeat(2, 1fr); }
+  .wv-grid-4 { grid-template-columns: 1fr; }
 }
 
 /* Outcomes grid */

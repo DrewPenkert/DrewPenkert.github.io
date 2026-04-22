@@ -142,66 +142,46 @@ export default function WorkvivoCaseStudy() {
           </div>
         </section>
 
-        {/* The Process */}
+        {/* Initial Concepts */}
         <section className="cs-section">
           <div className="cs-section-head cs-reveal">
             <span className="cs-section-label">The Process</span>
-            <h2>From brief<br />to flat.</h2>
+            <h2>Initial<br />concepts.</h2>
           </div>
-
-          {/* Step 01 */}
-          <div className="wv-process-step cs-reveal">
-            <div className="wv-process-meta">
-              <span className="cs-vision-num">Step 01</span>
-              <h3>Understanding the brief.</h3>
-              <p>Unpacking the two-year milestone brief, the brand guidelines and what the one-pager needed to achieve for a B2B audience.</p>
-            </div>
-            <div className="wv-two-images">
-              <div className="wv-process-image"><img src="/wv-iteration-1.png" alt="Iteration 1" /></div>
-              <div className="wv-process-image"><img src="/wv-iteration-2.png" alt="Iteration 2" /></div>
-            </div>
-          </div>
-
-          {/* Step 02 */}
-          <div className="wv-process-step cs-reveal">
-            <div className="wv-process-meta">
-              <span className="cs-vision-num">Step 02</span>
-              <h3>Initial concepts and rethinks.</h3>
-              <p>Early logotype explorations, type experiments and illustration-led concept directions.</p>
-            </div>
-            <div className="wv-two-images">
-              <div className="wv-process-image"><img src="/wv-iteration-3.png" alt="Iteration 3" /></div>
-              <div className="wv-process-image"><img src="/wv-iteration-4.png" alt="Iteration 4" /></div>
-            </div>
-          </div>
-
-          {/* Step 03 */}
-          <div className="wv-process-step cs-reveal">
-            <div className="wv-process-meta">
-              <span className="cs-vision-num">Step 03</span>
-              <h3>The flat draft.</h3>
-              <p>Moving into Figma, refining the purple-heavy illustration-led layout toward a final deliverable.</p>
-            </div>
-            <div className="wv-two-images">
-              <div className="wv-process-image"><img src="/wv-iteration-5.png" alt="Iteration 5" /></div>
-              <div className="wv-process-image"><img src="/wv-iteration-6.png" alt="Iteration 6" /></div>
-            </div>
-          </div>
-        </section>
-
-        {/* Final Outcomes */}
-        <section className="cs-section">
-          <div className="cs-section-head cs-reveal">
-            <span className="cs-section-label">Final Outcomes</span>
-            <h2>Final<br />outcomes.</h2>
-          </div>
-          <div className="wv-outcomes-grid cs-reveal">
-            {/* Add outcome images here — replace placeholders */}
-            {[1, 2, 3, 4].map(i => (
-              <div className="wv-outcome-img wv-placeholder" key={i}>
-                <span>Outcome {i}</span>
+          <div className="wv-grid-6 cs-reveal">
+            {[1,2,3,4,5,6].map(i => (
+              <div className="wv-grid-img" key={i}>
+                <img src={`/wv-iteration-${i}.png`} alt={`Iteration ${i}`} />
               </div>
             ))}
+          </div>
+          <p className="wv-caption cs-reveal">Explored bold W lockups, from serif to fluid forms. Illustration experiments helped surface the celebratory tone before committing.</p>
+        </section>
+
+        {/* Flat Draft */}
+        <section className="cs-section">
+          <div className="cs-section-head cs-reveal">
+            <span className="cs-section-label">The Process</span>
+            <h2>The flat<br />draft.</h2>
+          </div>
+          <div className="wv-grid-4 cs-reveal">
+            {[1,2,3,4].map(i => (
+              <div className="wv-grid-img" key={i}>
+                <img src={`/Flat%20draft${i}.png`} alt={`Flat draft ${i}`} />
+              </div>
+            ))}
+          </div>
+          <p className="wv-caption cs-reveal">Pages from the initial draft. Feedback pointed toward needing more energy, pushing beyond the purple-heavy palette toward bolder, more expressive visuals.</p>
+        </section>
+
+        {/* Final Outcome */}
+        <section className="cs-section">
+          <div className="cs-section-head cs-reveal">
+            <span className="cs-section-label">Final Outcome</span>
+            <h2>Final<br />outcome.</h2>
+          </div>
+          <div className="wv-final-img cs-reveal">
+            <img src="/final%20outcome%20wv.png" alt="Workvivo final outcome" />
           </div>
         </section>
 
