@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import Cursor from './Cursor'
 import CookieBanner from './CookieBanner'
@@ -10,35 +10,30 @@ const META = [
   { label: 'Industry', value: 'Fine Art / Print Design' },
   { label: 'Project',  value: 'Self-initiated' },
   { label: 'Timeline', value: 'January – March 2024' },
+  { label: 'Role',     value: 'Brand Identity, Print Design' },
 ]
 
-const PROCESS_STEPS = [
-  {
-    label: 'Step 01',
-    title: 'What does procrastination actually look like?',
-    body: 'A self-initiated editorial project built around a simple observation: procrastination had become a cultural artefact with its own logic. I wanted to design something that deliberately mirrors the chaotic self-aware landscape of someone mid-procrastination. Something bigger than just a book.',
-    image: '/sticky_note_l%20copy.png',
-    polaroids: null,
-  },
-  {
-    label: 'Step 02',
-    title: 'Rip it up and start again.',
-    body: 'The worst progress is no progress. After the second round of layout work stalled, I printed everything out, cut it apart and rebuilt it physically on the floor. The restart produced the final structure in a single afternoon.',
-    image: null,
-    polaroids: [
-      { src: '/IMG_4857%20copy.jpg', alt: 'Rip it up and start again' },
-      { src: '/IMG_4859%20copy.jpg', alt: 'Do Your Thing' },
-      { src: '/IMAGE%201.jpg',       alt: 'Pages laid out' },
-    ],
-  },
+const MOODBOARD = {
+  image: '/ge-moodboard-01.png',
+  label: 'Step 02',
+  title: 'Building the moodboard.',
+  body: 'This moodboard captures the messy, colourful design of procrastination. I looked at designers who leaned into bold, expressive type and compositions that feel interrupted and restless. It reminded me to have fun with my work and stop trying to be too polished.',
+}
+
+const POLAROIDS = [
+  { src: '/ge-poloroid-1.png', alt: 'Printing first version', caption: 'Printing off my very first version.. realised that this turned a 50 page book 100 pages big oops' },
+  { src: '/ge-poloroid-2.png', alt: 'Clay remaking', caption: 'Yes, I did spend three hours remaking this in clay... worth it.' },
+  { src: '/ge-poloroid-3.png', alt: 'Rip it up', caption: 'The sound of progress.... rrrrrip.' },
+  { src: '/ge-poloroid-4.png', alt: 'Playdoh figure', caption: 'Can you tell I got carried away with the playdoh...?' },
 ]
+
+const OUTCOMES_HERO = { src: '/hero%20final.png', alt: 'Good Enough final spread' }
 
 const OUTCOMES = [
-  { src: "/%27Clowing%20Around%27%20photographed.jpg",             alt: 'Clowing Around spread' },
-  { src: "/%27The%20Necessary%20DIY%20Project%27%20photographed.jpg", alt: 'D.I.Y Project spread' },
-  { src: '/img%201%20copy.png',                                    alt: 'Interior spread' },
-  { src: '/img%202%20copy.png',                                    alt: 'Interior spread' },
-  { src: '/IMG%203.png',                                           alt: 'Interior spread' },
+  { src: '/DIY.png',                  alt: 'D.I.Y Project spread' },
+  { src: '/clowning%20around%20.png', alt: 'Clowning Around spread' },
+  { src: '/LADY%20GAGA.png',          alt: 'The Most Lady Gaga spread' },
+  { src: '/BORING.png',               alt: 'Boring spread' },
 ]
 
 const NEXT_PROJECT = {
@@ -72,11 +67,29 @@ function useReveal() {
 
 export default function GoodEnoughCaseStudy() {
   const navigate = useNavigate()
+  const iframeRef = useRef(null)
+  const BASE_YT = 'https://www.youtube-nocookie.com/embed/u-VROsx2HK0'
+  const [lightbox, setLightbox] = useState(null)
   useReveal()
 
   useEffect(() => {
     window.scrollTo(0, 0)
     initLenis()
+  }, [])
+
+  useEffect(() => {
+    const iframe = iframeRef.current
+    if (!iframe) return
+    const obs = new IntersectionObserver(
+      ([entry]) => {
+        iframe.src = entry.isIntersecting
+          ? `${BASE_YT}?autoplay=1&mute=1`
+          : BASE_YT
+      },
+      { threshold: 0.4 }
+    )
+    obs.observe(iframe)
+    return () => obs.disconnect()
   }, [])
 
   return (
@@ -147,7 +160,7 @@ export default function GoodEnoughCaseStudy() {
                 A self-initiated editorial project built around a simple observation: procrastination had become a cultural artefact with its own logic. The classic self-aware landscape of someone mid-task, mid-spiral, mid-YouTube rabbit hole. Something bigger than a single poster.
               </p>
               <p className="cs-reveal">
-                The brief set to myself was to deliberately mirrors the chaotic landscape of someone mid-procrastination — type that breaks its own rules, layouts that feel unfinished by design. The reader self-identifies in ways that feel personal.
+                The brief I set myself was to deliberately mirror the chaotic landscape of someone mid-procrastination. Type that breaks its own rules, layouts that feel unfinished by design. The reader self-identifies in ways that feel personal.
               </p>
               <p className="cs-reveal">
                 Designed, printed and hand-bound. <strong>Final outcome: a complete editorial publication.</strong>
@@ -163,52 +176,63 @@ export default function GoodEnoughCaseStudy() {
             <h2>Chaotic by<br />design.</h2>
           </div>
 
-          {PROCESS_STEPS.map((step, i) => (
-            <div className={`ge-process-step cs-reveal${step.polaroids ? ' ge-process-step--full' : ''}`} key={i}>
-              <div className="ge-process-meta">
-                <span className="cs-vision-num">{step.label}</span>
-                <h3>{step.title}</h3>
-                <p>{step.body}</p>
-              </div>
-              {step.image && (
-                <div className="ge-process-image">
-                  <img src={step.image} alt={step.title} />
-                </div>
-              )}
-              {step.polaroids && (
-                <div className="ge-polaroids">
-                  {step.polaroids.map((p, j) => (
-                    <div className="ge-polaroid" key={j}>
-                      <img src={p.src} alt={p.alt} />
-                    </div>
-                  ))}
-                </div>
-              )}
+          {/* Step 01 — notebook + sticky note */}
+          <div className="ge-process-step cs-reveal ge-process-step--full">
+            <div className="ge-process-meta">
+              <span className="cs-vision-num">Step 01</span>
+              <h3>Where does it start?</h3>
             </div>
-          ))}
+            <div className="ge-notebooks">
+              <div>
+                <div className="ge-notebook-img" onClick={() => setLightbox('/noteboook%20ge.png')}>
+                  <img src="/noteboook%20ge.png" alt="Notebook sketches" />
+                </div>
+                <p className="zoom-hint">Click to full screen</p>
+              </div>
+              <div className="ge-sticky-wrap">
+                <img src="/sticky_note_l%20copy.png" alt="What does procrastination actually look like?" />
+              </div>
+            </div>
+          </div>
+
+          {/* Step 02 — moodboard */}
+          <div className="ge-process-step cs-reveal">
+            <div className="ge-process-meta">
+              <span className="cs-vision-num">{MOODBOARD.label}</span>
+              <h3>{MOODBOARD.title}</h3>
+              <p>{MOODBOARD.body}</p>
+            </div>
+            <div className="ge-process-image">
+              <img src={MOODBOARD.image} alt={MOODBOARD.title} />
+            </div>
+          </div>
+
+          {/* Step 03 — polaroids */}
+          <div className="ge-process-step cs-reveal ge-process-step--full">
+            <div className="ge-process-meta">
+              <span className="cs-vision-num">Step 03</span>
+              <h3>Rip it up and start again.</h3>
+              <p>The worst progress is no progress. Printed everything out, cut it apart, and rebuilt it on the floor. The restart produced the final structure in a single afternoon.</p>
+            </div>
+            <div className="ge-polaroids ge-polaroids--2x2">
+              {POLAROIDS.map((p, i) => (
+                <div className="ge-polaroid" key={i}>
+                  <img src={p.src} alt={p.alt} />
+                  {p.caption && <p className="ge-polaroid-caption">{p.caption}</p>}
+                </div>
+              ))}
+            </div>
+          </div>
         </section>
 
-        {/* ── Video ── */}
-        <section className="cs-section">
+        {/* ── Final Outcome + images ── */}
+        <section className="cs-section ge-outcomes">
           <div className="cs-section-head cs-reveal">
             <span className="cs-section-label">Final Outcome</span>
             <h2>Good Enough.<br />Printed.</h2>
           </div>
-          <div className="ge-video-wrap cs-reveal">
-            <iframe
-              src="https://www.youtube-nocookie.com/embed/u-VROsx2HK0"
-              title="Good Enough — final video"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-            />
-          </div>
-        </section>
-
-        {/* ── Final images ── */}
-        <section className="cs-section ge-outcomes">
-          <div className="cs-section-head cs-reveal">
-            <span className="cs-section-label">In Print</span>
-            <h2>Talk to the hand.</h2>
+          <div className="ge-outcome-hero cs-reveal">
+            <img src={OUTCOMES_HERO.src} alt={OUTCOMES_HERO.alt} />
           </div>
           <div className="ge-outcomes-grid">
             {OUTCOMES.map((img, i) => (
@@ -216,6 +240,19 @@ export default function GoodEnoughCaseStudy() {
                 <img src={img.src} alt={img.alt} />
               </div>
             ))}
+          </div>
+        </section>
+
+        {/* ── Video (last, autoplay on scroll) ── */}
+        <section className="cs-section">
+          <div className="ge-video-wrap cs-reveal">
+            <iframe
+              ref={iframeRef}
+              src={BASE_YT}
+              title="Good Enough — final video"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            />
           </div>
         </section>
 
@@ -241,6 +278,12 @@ export default function GoodEnoughCaseStudy() {
         </section>
 
       </div>
+      {lightbox && (
+        <div className="ge-lightbox" onClick={() => setLightbox(null)}>
+          <button className="ge-lightbox-close" onClick={() => setLightbox(null)} aria-label="Close">✕</button>
+          <img src={lightbox} alt="Full view" onClick={e => e.stopPropagation()} />
+        </div>
+      )}
     </>
   )
 }

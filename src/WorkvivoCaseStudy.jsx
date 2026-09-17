@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import Cursor from './Cursor'
 import CookieBanner from './CookieBanner'
@@ -9,8 +9,9 @@ import './WorkvivoCaseStudy.css'
 const META = [
   { label: 'Client',   value: 'Workvivo' },
   { label: 'Project',  value: 'One Pager' },
-  { label: 'Timeline', value: '25th–29th May 2023' },
-  { label: 'Duration', value: '1 week project' },
+  { label: 'Timeline', value: '25th to 29th May 2023' },
+  { label: 'Engagement', value: 'Freelance' },
+  { label: 'Role',     value: 'Illustration, Editorial Design' },
 ]
 
 const NEXT_PROJECT = {
@@ -44,6 +45,7 @@ function useReveal() {
 
 export default function WorkvivoCaseStudy() {
   const navigate = useNavigate()
+  const [lightbox, setLightbox] = useState(null)
   useReveal()
 
   useEffect(() => {
@@ -51,10 +53,21 @@ export default function WorkvivoCaseStudy() {
     initLenis()
   }, [])
 
+  const open = (src) => setLightbox(src)
+  const close = () => setLightbox(null)
+
   return (
     <>
       <Cursor />
       <CookieBanner />
+
+      {lightbox && (
+        <div className="wv-lightbox" onClick={close}>
+          <button className="wv-lightbox-close" onClick={close} aria-label="Close">✕</button>
+          <img src={lightbox} alt="Full view" onClick={e => e.stopPropagation()} />
+        </div>
+      )}
+
       <div className="cs-shell">
 
         {/* Header */}
@@ -98,9 +111,10 @@ export default function WorkvivoCaseStudy() {
             ))}
           </div>
 
-          <div className="cs-hero-image cs-reveal">
+          <div className="cs-hero-image cs-reveal wv-zoomable" onClick={() => open('/wv-hero-01.png')}>
             <img src="/wv-hero-01.png" alt="Workvivo One Pager" />
           </div>
+          <p className="zoom-hint">Click to full screen</p>
         </section>
 
         {/* Overview */}
@@ -111,6 +125,9 @@ export default function WorkvivoCaseStudy() {
               <h2>One pager.<br />One week.</h2>
             </div>
             <div className="cs-intro-body">
+              <p className="cs-reveal">
+                Commissioned as a freelance project to design Workvivo's 2-year anniversary one-pager in a single week.
+              </p>
               <p className="cs-reveal">
                 A one-pager designed for Workvivo's two-year anniversary campaign. Working within a one-week timeline and strict brand guidelines, I explored how to make a corporate milestone feel genuinely celebratory without sliding into party clichés.
               </p>
@@ -148,9 +165,10 @@ export default function WorkvivoCaseStudy() {
             <span className="cs-section-label">The Process</span>
             <h2>Understanding<br />the brief.</h2>
           </div>
-          <div className="wv-notebook-wrap cs-reveal">
+          <div className="wv-notebook-wrap cs-reveal wv-zoomable" onClick={() => open('/notebook-updated.png')}>
             <img src="/notebook-updated.png" alt="Layout notebook sketches" />
           </div>
+          <p className="zoom-hint">Click to full screen</p>
           <p className="wv-caption cs-reveal">Unpacking the brief before touching any software. Key questions around tone, clichés and brand boundaries set the direction for the entire project.</p>
         </section>
 
@@ -161,13 +179,16 @@ export default function WorkvivoCaseStudy() {
             <h2>Initial<br />concepts.</h2>
           </div>
           <div className="wv-grid-6 cs-reveal">
-            <div className="wv-grid-img"><img src="/cover_iterating_.png" alt="Cover iteration" /></div>
+            <div className="wv-grid-img wv-zoomable" onClick={() => open('/cover_iterating_.png')}>
+              <img src="/cover_iterating_.png" alt="Cover iteration" />
+            </div>
             {[1,3,4,5,6].map(i => (
-              <div className="wv-grid-img" key={i}>
+              <div className="wv-grid-img wv-zoomable" key={i} onClick={() => open(`/wv-iteration-${i}.png`)}>
                 <img src={`/wv-iteration-${i}.png`} alt={`Iteration ${i}`} />
               </div>
             ))}
           </div>
+          <p className="zoom-hint">Click any image to full screen</p>
           <p className="wv-caption cs-reveal">Explored bold W lockups, from serif to fluid forms. Illustration experiments helped surface the celebratory tone before committing.</p>
         </section>
 
@@ -179,11 +200,12 @@ export default function WorkvivoCaseStudy() {
           </div>
           <div className="wv-grid-4 cs-reveal">
             {[1,2,3,4].map(i => (
-              <div className="wv-grid-img" key={i}>
+              <div className="wv-grid-img wv-zoomable" key={i} onClick={() => open(`/Flat%20draft${i}.png`)}>
                 <img src={`/Flat%20draft${i}.png`} alt={`Flat draft ${i}`} />
               </div>
             ))}
           </div>
+          <p className="zoom-hint">Click any image to full screen</p>
           <p className="wv-caption cs-reveal">Pages from the initial draft. Feedback pointed toward needing more energy, pushing beyond the purple-heavy palette toward bolder, more expressive visuals.</p>
         </section>
 
@@ -193,9 +215,10 @@ export default function WorkvivoCaseStudy() {
             <span className="cs-section-label">Final Outcome</span>
             <h2>Final<br />outcome.</h2>
           </div>
-          <div className="wv-final-img cs-reveal">
+          <div className="wv-final-img cs-reveal wv-zoomable" onClick={() => open('/final%20outcome%20wv.png')}>
             <img src="/final%20outcome%20wv.png" alt="Workvivo final outcome" />
           </div>
+          <p className="zoom-hint">Click to full screen</p>
         </section>
 
         {/* Next Project */}

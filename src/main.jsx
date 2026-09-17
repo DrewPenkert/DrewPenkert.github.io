@@ -8,6 +8,9 @@ import MotionDesignCaseStudy from './MotionDesignCaseStudy.jsx'
 import GoodEnoughCaseStudy from './GoodEnoughCaseStudy.jsx'
 import WorkvivoCaseStudy from './WorkvivoCaseStudy.jsx'
 import FairhillCaseStudy from './FairhillCaseStudy.jsx'
+import VideoTestCaseStudy from './VideoTestCaseStudy.jsx'
+import KonnectCaseStudy from './KonnectCaseStudy.jsx'
+import AboutPage from './AboutPage.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -19,6 +22,9 @@ createRoot(document.getElementById('root')).render(
         <Route path="/good-enough" element={<GoodEnoughCaseStudy />} />
         <Route path="/workvivo" element={<WorkvivoCaseStudy />} />
         <Route path="/fairhill" element={<FairhillCaseStudy />} />
+        <Route path="/video-test" element={<VideoTestCaseStudy />} />
+        <Route path="/konnect" element={<KonnectCaseStudy />} />
+        <Route path="/about" element={<AboutPage />} />
       </Routes>
     </BrowserRouter>
   </StrictMode>,

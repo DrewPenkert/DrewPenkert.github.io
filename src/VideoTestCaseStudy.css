@@ -1,0 +1,25 @@
+/* ── Video sections ── */
+.vt-video-section,
+.vt-loop-section {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.vt-video-wrap,
+.vt-loop-wrap {
+  width: 100%;
+  border-radius: var(--radius);
+  overflow: hidden;
+  aspect-ratio: 16 / 9;
+  line-height: 0;
+  background: #000;
+}
+
+.vt-video-wrap video,
+.vt-loop-wrap video {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: contain;
+}

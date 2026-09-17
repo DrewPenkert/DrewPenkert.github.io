@@ -10,6 +10,7 @@ const META = [
   { label: 'Client',   value: 'Fairhill Fairfield Community Association' },
   { label: 'Project',  value: 'Brand Identity' },
   { label: 'Timeline', value: 'January – May 2022' },
+  { label: 'Role',     value: 'Brand Identity, Logo Design' },
 ]
 
 const OUTCOME_IMAGES = [
@@ -69,7 +70,8 @@ export default function FairhillCaseStudy() {
 
       {lightbox && (
         <div className="fh-lightbox" onClick={() => setLightbox(null)}>
-          <img src={lightbox} alt="Expanded" />
+          <button className="fh-lightbox-close" onClick={() => setLightbox(null)} aria-label="Close">✕</button>
+          <img src={lightbox} alt="Expanded" onClick={e => e.stopPropagation()} />
         </div>
       )}
 
@@ -116,9 +118,10 @@ export default function FairhillCaseStudy() {
             ))}
           </div>
 
-          <div className="cs-hero-image cs-reveal">
+          <div className="cs-hero-image cs-reveal fh-zoomable" onClick={() => setLightbox('/fairhill%20fairfield%20portfolio-01.jpg')}>
             <img src="/fairhill%20fairfield%20portfolio-01.jpg" alt="Fairhill Fairfield cover" />
           </div>
+          <p className="zoom-hint">Click to full screen</p>
         </section>
 
         {/* Overview */}
@@ -153,8 +156,11 @@ export default function FairhillCaseStudy() {
               <h3>Research and discovery.</h3>
               <p>Understanding the community, their values and what the brand needed to communicate — from client interviews to mission statements.</p>
             </div>
-            <div className="fh-phase-image fh-contain">
-              <img src="/fh-client-research.png" alt="Getting to know the client" />
+            <div>
+              <div className="fh-phase-image fh-contain fh-zoomable" onClick={() => setLightbox('/fh-client-research.png')}>
+                <img src="/fh-client-research.png" alt="Getting to know the client" />
+              </div>
+              <p className="zoom-hint">Click to full screen</p>
             </div>
           </div>
 
@@ -165,8 +171,11 @@ export default function FairhillCaseStudy() {
               <h3>Defining the target audience.</h3>
               <p>Three distinct audience groups emerged: the broader Fairhill/Fairfield community, local youth, and families and adults. Each with different needs from the brand.</p>
             </div>
-            <div className="fh-phase-image fh-contain">
-              <img src="/fh-Target%20Audience.png" alt="Target audience" />
+            <div>
+              <div className="fh-phase-image fh-contain fh-zoomable" onClick={() => setLightbox('/fh-Target%20Audience.png')}>
+                <img src="/fh-Target%20Audience.png" alt="Target audience" />
+              </div>
+              <p className="zoom-hint">Click to full screen</p>
             </div>
           </div>
 
@@ -185,6 +194,7 @@ export default function FairhillCaseStudy() {
                 </div>
               ))}
             </div>
+            <p className="zoom-hint">Click to full screen</p>
           </div>
 
           {/* Moodboard */}
@@ -194,8 +204,11 @@ export default function FairhillCaseStudy() {
               <h3>Mood board and visual direction.</h3>
               <p>Establishing the visual tone. Playful, community-driven, approachable and inclusive.</p>
             </div>
-            <div className="fh-phase-image fh-contain">
-              <img src="/fh-moodboard.png" alt="Mood board" />
+            <div>
+              <div className="fh-phase-image fh-contain fh-zoomable" onClick={() => setLightbox('/fh-moodboard.png')}>
+                <img src="/fh-moodboard.png" alt="Mood board" />
+              </div>
+              <p className="zoom-hint">Click to full screen</p>
             </div>
           </div>
         </section>
@@ -214,8 +227,11 @@ export default function FairhillCaseStudy() {
               <h3>Character development.</h3>
               <p>Exploring an illustration-led identity. Inclusive, neutral characters that could be replicated by any team member and represent the full community.</p>
             </div>
-            <div className="fh-phase-image fh-contain">
-              <img src="/fh-sketches.png" alt="Character sketches" />
+            <div>
+              <div className="fh-phase-image fh-contain fh-zoomable" onClick={() => setLightbox('/fh-sketches.png')}>
+                <img src="/fh-sketches.png" alt="Character sketches" />
+              </div>
+              <p className="zoom-hint">Click to full screen</p>
             </div>
           </div>
 
@@ -226,13 +242,16 @@ export default function FairhillCaseStudy() {
               <h3>Colour and illustration style.</h3>
               <p>Applying the brand palette to the character system. Testing how the figures work as patterns and individual assets across brand touchpoints.</p>
             </div>
-            <div className="fh-two-images">
-              <div className="fh-phase-image fh-contain">
-                <img src="/fh-characters-colour.png" alt="Characters in colour" />
+            <div>
+              <div className="fh-two-images">
+                <div className="fh-phase-image fh-contain fh-zoomable" onClick={() => setLightbox('/fh-characters-colour.png')}>
+                  <img src="/fh-characters-colour.png" alt="Characters in colour" />
+                </div>
+                <div className="fh-phase-image fh-contain fh-zoomable" onClick={() => setLightbox('/fh-direction.png')}>
+                  <img src="/fh-direction.png" alt="Final direction" />
+                </div>
               </div>
-              <div className="fh-phase-image fh-contain">
-                <img src="/fh-logo-iterations-2.png" alt="Logo iterations" />
-              </div>
+              <p className="zoom-hint">Click to full screen</p>
             </div>
           </div>
 
@@ -243,8 +262,11 @@ export default function FairhillCaseStudy() {
               <h3>Logo exploration, round one.</h3>
               <p>First round of logo directions exploring the FAIR typographic treatment and HILL / FIELD stacking across several lockups.</p>
             </div>
-            <div className="fh-phase-image fh-contain">
-              <img src="/fh-logo-iteractions-1.png" alt="Logo iterations round one" />
+            <div>
+              <div className="fh-phase-image fh-contain fh-zoomable" onClick={() => setLightbox('/fh-logo-iteractions-1.png')}>
+                <img src="/fh-logo-iteractions-1.png" alt="Logo iterations round one" />
+              </div>
+              <p className="zoom-hint">Click to full screen</p>
             </div>
           </div>
 
@@ -255,8 +277,11 @@ export default function FairhillCaseStudy() {
               <h3>Final direction.</h3>
               <p>Arriving at the final character-driven identity. A geometric illustration system that could work warmly and consistently across all print and digital formats.</p>
             </div>
-            <div className="fh-phase-image fh-contain">
-              <img src="/fh-direction.png" alt="Final direction" />
+            <div>
+              <div className="fh-phase-image fh-contain fh-zoomable" onClick={() => setLightbox('/fh-logo-iterations-2.png')}>
+                <img src="/fh-logo-iterations-2.png" alt="Logo iterations" />
+              </div>
+              <p className="zoom-hint">Click to full screen</p>
             </div>
           </div>
         </section>
@@ -269,11 +294,12 @@ export default function FairhillCaseStudy() {
           </div>
           <div className="fh-outcomes-stack">
             {OUTCOME_IMAGES.map((img, i) => (
-              <div className="fh-outcome-img cs-reveal" key={i}>
+              <div className="fh-outcome-img cs-reveal fh-zoomable" key={i} onClick={() => setLightbox(img.src)}>
                 <img src={img.src} alt={img.alt} />
               </div>
             ))}
           </div>
+          <p className="zoom-hint">Click any image to full screen</p>
         </section>
 
         {/* Next Project */}

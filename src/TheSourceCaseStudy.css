@@ -1,0 +1,147 @@
+/* ── Social asset grid ── */
+.ts-social-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.ts-social-item {
+  border-radius: var(--radius);
+  overflow: hidden;
+  line-height: 0;
+  background: #f5f1ea;
+}
+
+.ts-social-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.ts-social-item--tall {
+  grid-row: span 2;
+}
+
+/* ── Phone frame for vertical video ── */
+.ts-phone-wrap {
+  display: flex;
+  justify-content: center;
+  padding: 40px 0;
+}
+
+.ts-phone {
+  position: relative;
+  width: min(320px, 72vw);
+  border-radius: 40px;
+  background: #111;
+  padding: 16px;
+  box-shadow:
+    0 0 0 1.5px rgba(0,0,0,0.18),
+    0 40px 80px rgba(0,0,0,0.18),
+    inset 0 0 0 1px rgba(255,255,255,0.06);
+}
+
+.ts-phone::before {
+  content: '';
+  position: absolute;
+  top: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 6px;
+  border-radius: 3px;
+  background: rgba(255,255,255,0.12);
+}
+
+.ts-phone-screen {
+  border-radius: 28px;
+  overflow: hidden;
+  aspect-ratio: 9 / 16;
+  background: #000;
+  line-height: 0;
+}
+
+.ts-phone-screen video {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+/* ── Landscape big screen ── */
+.ts-landscape-wrap {
+  width: 100%;
+  border-radius: var(--radius);
+  overflow: hidden;
+  aspect-ratio: 16 / 9;
+  background: #000;
+  line-height: 0;
+}
+
+.ts-landscape-wrap video {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+/* ── Iteration grid ── */
+.ts-iteration-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+}
+
+.ts-iteration-item {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.ts-iteration-wrap {
+  border-radius: var(--radius);
+  overflow: hidden;
+  aspect-ratio: 16 / 9;
+  background: #000;
+  line-height: 0;
+}
+
+.ts-iteration-wrap video {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+.ts-iteration-label {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.24em;
+  color: var(--muted);
+  opacity: 0.7;
+}
+
+/* ── Format pill ── */
+.ts-format-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  padding: 5px 12px;
+  border-radius: 100px;
+  background: rgba(6, 37, 131, 0.06);
+  color: var(--muted);
+  border: 1px solid var(--border);
+  margin-bottom: 20px;
+}
+
+/* ── Responsive ── */
+@media (max-width: 780px) {
+  .ts-social-grid { grid-template-columns: 1fr; }
+  .ts-social-item--tall { grid-row: span 1; }
+  .ts-iteration-grid { grid-template-columns: 1fr; }
+}

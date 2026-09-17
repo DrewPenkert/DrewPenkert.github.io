@@ -9,14 +9,14 @@ import './MotionDesignCaseStudy.css'
 const META = [
   { label: 'Company',  value: 'Keelvar' },
   { label: 'Industry', value: 'B2B SaaS / Procurement' },
-  { label: 'Duration', value: 'March – April 2026' },
-  { label: 'Role',     value: '8 weeks into internship' },
+  { label: 'Duration', value: '10th to 14th March 2026' },
+  { label: 'Role',     value: 'Storytelling, Motion Design' },
 ]
 
 const BRIEF = [
   {
-    title: 'Promote the Product',
-    body: 'Create a compelling product story that communicates the intelligence behind Keelvar\'s AI agents to enterprise procurement leads.',
+    title: 'Support the Website Launch',
+    body: 'Create a video for the launch of keelvar.com that explains how agentic sourcing with Keelvar saves procurement teams time, reduces cost, and drives efficiency.',
   },
   {
     title: 'Match the Brand',
@@ -24,7 +24,7 @@ const BRIEF = [
   },
   {
     title: 'Move Quickly',
-    body: 'One week from brief to final export. No extended iteration cycles. Clear decisions, fast execution, first-pass approvals.',
+    body: 'Four days from brief to final export. Brief and storyboard on the Friday, first draft Monday, shipped Tuesday.',
   },
 ]
 
@@ -39,28 +39,18 @@ const STORYBOARD_FRAMES = [
 
 const TIMELINE = [
   {
+    date: 'March 10th',
+    title: 'Brief received. Storyboard signed off same day.',
+    body: 'Six scenes mapped to cover the full narrative arc: problem, agentic sourcing as the solution, and the outcome for procurement teams. Storyboard approved same day with no revisions required.',
+  },
+  {
+    date: 'March 13th',
+    title: 'First draft reviewed.',
+    body: 'Motion built in After Effects over the weekend. Timing and transitions flagged as not on brand, too slow to match Keelvar\'s values of working fast and smart. Pacing tightened and resubmitted.',
+  },
+  {
     date: 'March 14th',
-    title: 'Brief landed. One week to ship.',
-    body: 'No templates, no precedent. Build a motion piece that tells the Keelvar product story end-to-end from scratch.',
-  },
-  {
-    date: 'March 15th',
-    title: 'Storyboard approved on first pass.',
-    body: 'Six scenes drafted covering the full narrative arc: problem, product, outcome. Senior team approved with no revisions required.',
-  },
-  {
-    date: 'March 17th',
-    title: 'First motion draft reviewed.',
-    body: 'Timing and transitions locked in After Effects. One brand colour inconsistency flagged. Fixed same day.',
-  },
-  {
-    date: 'March 19th',
-    title: 'Final render approved.',
-    body: null,
-  },
-  {
-    date: 'March 21st',
-    title: 'Delivered.',
+    title: 'Revisions complete. Shipped.',
     body: null,
     final: true,
   },
@@ -201,7 +191,7 @@ export default function MotionDesignCaseStudy() {
             ))}
             <div className="cs-hero-meta-item cs-hero-stat">
               <span>Outcome</span>
-              <strong>Shipped Mar 21st</strong>
+              <strong>Shipped Mar 14th</strong>
             </div>
           </div>
 
@@ -219,13 +209,13 @@ export default function MotionDesignCaseStudy() {
             </div>
             <div className="cs-intro-body">
               <p className="cs-reveal">
-                Keelvar is an AI-powered procurement platform helping enterprise teams automate complex negotiations and supplier decisions. Eight weeks into my internship, I was handed a motion design brief with no templates and a one-week deadline.
+                Keelvar is an AI-powered procurement platform helping enterprise teams automate complex negotiations and supplier decisions. Eight weeks into my internship, I was handed a motion design brief with no templates and a four-day turnaround.
               </p>
               <p className="cs-reveal">
-                The task was to create a <strong>product story video</strong> that could sit in a sales deck, play at a trade event, or land on a landing page. It had to communicate what Keelvar's AI agents actually do in under two minutes.
+                The brief was to create a <strong>launch video for keelvar.com</strong>, explaining how agentic sourcing with Keelvar saves procurement teams time, reduces cost, and improves efficiency. Something that could sit on the homepage, go into a sales deck, or play at an event.
               </p>
               <p className="cs-reveal">
-                Storyboard approved on first pass. Draft reviewed and corrected same day. <strong>Final render delivered March 21st.</strong>
+                Storyboard approved on first pass. First draft reviewed and corrected same day. <strong>Final render shipped March 14th.</strong>
               </p>
             </div>
           </div>
@@ -235,7 +225,7 @@ export default function MotionDesignCaseStudy() {
         <section className="cs-section cs-vision">
           <div className="cs-section-head cs-reveal">
             <span className="cs-section-label">The Brief</span>
-            <h2>Three goals.<br />One week.</h2>
+            <h2>Three goals.<br />Four days.</h2>
           </div>
           <div className="cs-vision-cards">
             {BRIEF.map((b, i) => (
@@ -292,7 +282,7 @@ export default function MotionDesignCaseStudy() {
         <section className="cs-section cs-timeline-section">
           <div className="cs-section-head cs-reveal">
             <span className="cs-section-label">Timeline</span>
-            <h2>One week.<br />Five milestones.</h2>
+            <h2>Four days.<br />Three milestones.</h2>
           </div>
           <div className="cs-timeline">
             {TIMELINE.map((item, i) => (
@@ -316,9 +306,9 @@ export default function MotionDesignCaseStudy() {
           <div className="md-play-cta cs-reveal">
             <span className="md-play-label">Final output</span>
             <div className="md-play-word">Play</div>
-            <p className="md-play-sub">The finished motion piece. A product story for Keelvar's AI procurement agents.</p>
+            <p className="md-play-sub">The finished motion piece. Built to support the launch of keelvar.com and explain the value of agentic sourcing.</p>
             <div className="md-final-video cs-reveal">
-              <video src="/final%20video.mp4" controls playsInline />
+              <video src="/final%20video.mp4" controls playsInline poster="/Motion%20Design%20case%20study%20.png" />
             </div>
           </div>
         </section>

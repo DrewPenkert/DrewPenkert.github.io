@@ -5,12 +5,19 @@ import Cursor from './Cursor'
 import CookieBanner from './CookieBanner'
 import { initLenis, initScrollAnimations } from './animations'
 
+const FEATURED = { title: 'Konnect 2026', category: 'Social · Video · Events', image: '/newer%20banner.png', slug: '/konnect' }
+
+// Future: a video goes here, between the hero and "Featured projects" below.
+
 const PROJECTS = [
-  { title: 'Good Enough',              category: 'Brand Identity',   image: '/Good%20Enough.png', slug: '/good-enough' },
-  { title: 'Workvivo AI',              category: 'Brand Identity',   image: '/workvivo.png', slug: '/workvivo'        },
-  { title: 'Fairhill/Fairfield',       category: 'Editorial Design', image: '/Fairhill%20Fairfield%20Rebrand.png', slug: '/fairhill' },
-  { title: 'Iconography',              category: 'Print & Digital',  image: '/iconography.png',   slug: '/iconography' },
-  { title: 'Motion Design Case Study', category: 'Motion Design',    image: '/Motion%20Design%20case%20study%20.png', slug: '/motion-design' },
+  { title: 'Good Enough',              category: 'Brand Identity',            image: '/Good%20Enough.png', slug: '/good-enough' },
+  { title: 'Workvivo 2 Year Anniversary', category: 'Freelance · Brand Identity', image: '/workvivo.png', slug: '/workvivo' },
+  { title: 'Fairhill Fairfield Community Association', category: 'Editorial Design', image: '/Fairhill%20Fairfield%20Rebrand.png', slug: '/fairhill' },
+  { title: 'Motion Design Case Study', category: 'Motion Design',             image: '/Motion%20Design%20case%20study%20.png', slug: '/motion-design' },
+]
+
+const ARCHIVE = [
+  { title: 'Iconography', category: 'Print & Digital', image: '/iconography.png', slug: '/iconography' },
 ]
 
 const MARQUEE = ['Brand Identity', 'Editorial Design', 'Print & Digital', 'Social Media', 'Visual Systems', 'Motion Design']
@@ -35,10 +42,10 @@ export default function App() {
       {/* ── Full-screen menu overlay ── */}
       <div className={`nav-overlay ${menuOpen ? 'is-open' : ''}`}>
         <nav className="nav-overlay-links">
-          <a href="#about"   onClick={closeMenu}>About</a>
+          <a href="/about" onClick={e => { e.preventDefault(); closeMenu(); navigate('/about') }}>About</a>
           <a href="#work"    onClick={closeMenu}>Work</a>
           <a href="#contact" onClick={closeMenu}>Contact</a>
-          <a href="https://drive.google.com/file/d/18yw1N-jqJdH86lcTIVPVT7guSgyrqNLP/view" target="_blank" rel="noopener noreferrer" onClick={closeMenu}>CV</a>
+          <a href="https://drive.google.com/file/d/1cSZeEvtMJJSweKUUSUK_C8lHPuoZd0b2/view?usp=sharing" target="_blank" rel="noopener noreferrer" onClick={closeMenu}>CV</a>
         </nav>
       </div>
 
@@ -114,6 +121,20 @@ export default function App() {
               <span className="section-label">Work</span>
               <h2>Featured projects.</h2>
             </div>
+            {/* Featured project */}
+            <article
+              className="project-featured"
+              onClick={() => navigate(FEATURED.slug)}
+            >
+              <div className="project-featured-banner">
+                <img src={FEATURED.image} alt={FEATURED.title} />
+              </div>
+              <div className="project-meta">
+                <span className="project-category">{FEATURED.category}</span>
+                <h3>{FEATURED.title}</h3>
+              </div>
+            </article>
+
             <div className="project-grid">
               {PROJECTS.map((p) => (
                 <article
@@ -134,6 +155,31 @@ export default function App() {
             </div>
           </section>
 
+          {/* ── Archive ── */}
+          <section className="section archive">
+            <div className="section-head">
+              <span className="section-label">Archive</span>
+            </div>
+            <div className="archive-list">
+              {ARCHIVE.map(p => (
+                <article
+                  className="archive-item"
+                  key={p.title}
+                  onClick={() => navigate(p.slug)}
+                >
+                  <div className="archive-thumb">
+                    <img src={p.image} alt={p.title} />
+                  </div>
+                  <div className="archive-meta">
+                    <span className="project-category">{p.category}</span>
+                    <h3>{p.title}</h3>
+                  </div>
+                  <span className="archive-arrow">→</span>
+                </article>
+              ))}
+            </div>
+          </section>
+
           {/* ── Contact ── */}
           <section className="section contact" id="contact">
             <div className="contact-panel">
@@ -148,7 +194,7 @@ export default function App() {
                 <div className="contact-socials">
                   <a href="https://www.linkedin.com/in/drewpenkert/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                   <a href="https://www.instagram.com/drew_penkert/" target="_blank" rel="noopener noreferrer">Instagram</a>
-                  <a href="https://drive.google.com/file/d/18yw1N-jqJdH86lcTIVPVT7guSgyrqNLP/view" target="_blank" rel="noopener noreferrer">CV</a>
+                  <a href="https://drive.google.com/file/d/1cSZeEvtMJJSweKUUSUK_C8lHPuoZd0b2/view?usp=sharing" target="_blank" rel="noopener noreferrer">CV</a>
                 </div>
               </div>
               <div className="contact-image-wrap">

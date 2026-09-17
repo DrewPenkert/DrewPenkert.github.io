@@ -1,0 +1,197 @@
+/* ── About page shell ── */
+.about-page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 40px 120px;
+}
+
+/* ── Header ── */
+.about-page-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 32px 0 80px;
+}
+
+/* ── Hero ── */
+.about-page-hero {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 64px;
+  align-items: center;
+  padding-bottom: 80px;
+  border-bottom: 1px solid var(--border);
+}
+
+.about-page-hero-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.about-page-kicker {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+  color: var(--accent);
+  margin-bottom: 20px;
+  display: block;
+}
+
+.about-page-title {
+  font-family: 'Syne', sans-serif;
+  font-size: clamp(3rem, 7vw, 6rem);
+  font-weight: 700;
+  line-height: 0.92;
+  letter-spacing: -0.04em;
+  color: var(--text);
+  margin: 0 0 32px;
+}
+
+.about-page-intro {
+  font-size: 1.05rem;
+  line-height: 1.72;
+  color: var(--muted);
+  max-width: 46ch;
+  text-wrap: pretty;
+}
+
+.about-page-image-wrap {
+  border-radius: var(--radius);
+  overflow: hidden;
+  line-height: 0;
+}
+
+.about-page-image-wrap img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ── Journey ── */
+.about-page-body {
+  padding-top: 80px;
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 80px;
+}
+
+.about-page-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding-top: 6px;
+}
+
+.about-page-nav span {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.24em;
+  color: var(--muted);
+  opacity: 0.5;
+}
+
+.about-page-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+}
+
+.about-chapter {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.about-chapter-label {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.24em;
+  color: var(--accent);
+}
+
+.about-chapter h2 {
+  font-family: 'Syne', sans-serif;
+  font-size: clamp(1.4rem, 2.5vw, 1.9rem);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+  line-height: 1.1;
+  color: var(--text);
+  margin: 0;
+}
+
+.about-chapter--split {
+  display: grid;
+  grid-template-columns: 1fr 160px;
+  gap: 40px;
+  align-items: center;
+}
+
+.about-chapter-text {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.about-chapter-image {
+  border-radius: var(--radius);
+  overflow: hidden;
+  line-height: 0;
+}
+
+.about-chapter-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.about-chapter p {
+  font-size: 0.95rem;
+  line-height: 1.8;
+  color: var(--muted);
+  text-wrap: pretty;
+  max-width: 60ch;
+}
+
+/* ── Stats row ── */
+.about-stats {
+  display: flex;
+  gap: 48px;
+  padding: 40px 0;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  margin-top: 16px;
+}
+
+.about-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.about-stat-num {
+  font-family: 'Syne', sans-serif;
+  font-size: clamp(1.8rem, 3vw, 2.6rem);
+  font-weight: 700;
+  letter-spacing: -0.04em;
+  line-height: 1;
+  color: var(--text);
+}
+
+.about-stat-label {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+  opacity: 0.6;
+}
+
+/* ── Responsive ── */
+@media (max-width: 860px) {
+  .about-page { padding: 0 24px 80px; }
+  .about-page-hero { grid-template-columns: 1fr; gap: 40px; }
+  .about-page-body { grid-template-columns: 1fr; gap: 48px; }
+  .about-page-nav { display: none; }
+  .about-stats { flex-wrap: wrap; gap: 28px; }
+  .about-chapter--split { grid-template-columns: 1fr; }
+}

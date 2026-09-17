@@ -10,8 +10,8 @@ import './IconographyCaseStudy.css'
 const META = [
   { label: 'Company',  value: 'Keelvar' },
   { label: 'Industry', value: 'B2B SaaS / Procurement' },
-  { label: 'Duration', value: 'January – March 2026' },
-  { label: 'Role',     value: '3 weeks into internship' },
+  { label: 'Duration', value: 'January to March 2026' },
+  { label: 'Role',     value: 'Icon Design, Visual Systems' },
 ]
 
 const PILLARS = [
@@ -23,20 +23,20 @@ const PILLARS = [
 const TIMELINE = [
   {
     date: 'January 12th',
-    title: 'First submission rejected.',
-    body: "Submitted the initial icon set. Too complex, too much duotone, and it fell apart at 12px.",
+    title: 'First round. Reset with new direction.',
+    body: 'Submitted the initial icon set. The detail level and duotone treatment lost clarity at 12px.',
     images: ['/timeline%201.png'],
   },
   {
     date: 'January 20th',
-    title: 'Pushed back on duotone.',
+    title: 'Refined the duotone approach.',
     body: 'When I tried to match the icons to the illustration style they started to lose clarity at smaller sizes. Instead of forcing a direct match, I focused on pulling over the core principles: rounded shapes, consistent line weight, intentional spacing.',
     images: ['/timeline-2.png', '/timeline-3.png', '/timeline-4.png'],
     sideBySide: true,
   },
   {
     date: 'February 17th',
-    title: 'Ran WCAG audit unprompted. Adjusted colour palette to meet 3:1 minimum across all seven variants.',
+    title: 'Ran WCAG audit. Adjusted colour palette to meet 3:1 minimum across all seven variants.',
     body: null,
     images: ['/timeline-5.svg'],
   },
@@ -276,17 +276,17 @@ export default function IconographyCaseStudy() {
           <div className="cs-intro-inner">
             <div className="cs-section-head cs-reveal">
               <span className="cs-section-label">Overview</span>
-              <h2>A broken visual<br />language.</h2>
+              <h2>A visual language<br />in progress.</h2>
             </div>
             <div className="cs-intro-body">
               <p className="cs-reveal">
                 Keelvar helps companies spend smarter, automating the complex negotiations and supplier decisions that procurement teams used to do manually. Within my first three weeks as a product design intern I was handed the icon system redesign with no formal brief.
               </p>
               <p className="cs-reveal">
-                The existing system was too detailed to hold at small sizes and users had started naming icons by appearance rather than meaning. The visual language had <strong>stopped working.</strong>
+                The existing system carried more visual detail than it could hold at small sizes, and users had started navigating by shape rather than meaning.
               </p>
               <p className="cs-reveal">
-                I removed duotone, simplified every icon for better legibility, replaced failing symbolism, ran WCAG audits unprompted, and navigated feedback from five senior designers across two months of iteration. <strong>Shipped to production March 10th.</strong>
+                I removed duotone, simplified every icon for better legibility, updated unclear symbolism, ran WCAG audits, and worked through feedback from five senior designers across two months of iteration. <strong>Shipped to production March 10th.</strong>
               </p>
             </div>
           </div>
@@ -304,10 +304,10 @@ export default function IconographyCaseStudy() {
                 The existing icon system was carrying too much visual detail to hold up at the sizes they were actually used, some as small as 12px in production.
               </p>
               <p className="cs-reveal">
-                The more telling signal was behavioural. Users were referring to icons by appearance rather than meaning. The excavator was not "Logistics Other", it was <em>"the digger."</em> When users start naming your icons for you, the visual language has stopped working.
+                The more telling signal was behavioural. Users were referring to icons by appearance rather than meaning. The excavator was not "Logistics Other", it was <em>"the digger."</em> When users start naming your icons for you, it is a clear signal the visual language needs attention.
               </p>
               <p className="cs-reveal">
-                <strong>Duotone</strong> added complexity without meaning, and the style had <strong>drifted</strong> from the product's illustration language. The two no longer felt like they belonged together.
+                The duotone treatment held up at larger sizes, but at 12px users were relying on shape and colour rather than meaning. Removing it brought the system back to single-colour clarity and closer to the product's illustration language.
               </p>
             </div>
             <div className="cs-problem-visual cs-reveal" style={{ transitionDelay: '400ms' }}>
@@ -337,10 +337,10 @@ export default function IconographyCaseStudy() {
         <section className="cs-section cs-iterations">
           <div className="cs-section-head cs-reveal">
             <span className="cs-section-label">First Iterations</span>
-            <h2>Genuinely shocking<br />on purpose.</h2>
+            <h2>Boldly exploratory<br />on purpose.</h2>
           </div>
           <p className="cs-iterations-intro cs-reveal">
-            The first iterations need to be genuinely shocking to get to the end goal. Drag them around.
+            The first iterations needed to push far enough to find the right direction. Drag them around.
           </p>
           <StickyBoard />
         </section>
