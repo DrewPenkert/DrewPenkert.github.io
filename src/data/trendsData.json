@@ -1,0 +1,47 @@
+{
+  "updatedAt": "2026-09-21",
+  "marketing": [
+    {
+      "title": "AI search overviews reshape SEO",
+      "summary": "Brands are optimising for AI-generated answer boxes on Google and ChatGPT, not just blue links, shifting content strategy toward direct, quotable answers."
+    },
+    {
+      "title": "Short-form video still wins attention",
+      "summary": "Vertical video under 30 seconds continues to outperform other formats for reach, pushing brands to prioritise TikTok and Reels-native production over polished long-form ads."
+    },
+    {
+      "title": "Creator-led brand campaigns",
+      "summary": "Companies are handing creative control to individual creators instead of running top-down campaigns, trading brand consistency for authenticity and trust."
+    },
+    {
+      "title": "First-party data as the new targeting layer",
+      "summary": "With third-party cookies fading, marketers lean harder on owned data (email, loyalty programs, on-site behaviour) to power personalisation and retargeting."
+    },
+    {
+      "title": "Community over reach",
+      "summary": "Smaller, engaged communities on Discord, Substack, and private groups are outperforming broad-reach ad spend for retention and word of mouth."
+    }
+  ],
+  "design": [
+    {
+      "title": "Kinetic typography as a default, not a flourish",
+      "summary": "Type that moves, stretches, and reacts to scroll is showing up in everyday brand motion work, not just hero pieces."
+    },
+    {
+      "title": "Grainy, tactile textures return",
+      "summary": "Flat, ultra-clean gradients are giving way to film grain, noise, and paper-like textures for a warmer, more analogue feel."
+    },
+    {
+      "title": "3D and real-time render pipelines go mainstream",
+      "summary": "Tools like Spline and real-time engines are making 3D motion accessible outside specialist studios, speeding up iteration on hero visuals."
+    },
+    {
+      "title": "Maximalist colour, minimalist layout",
+      "summary": "Bold, saturated palettes paired with restrained grid systems, letting colour do the expressive work while structure stays disciplined."
+    },
+    {
+      "title": "Motion systems built for accessibility",
+      "summary": "Designers are baking reduced-motion states and pacing controls into animation systems from the start, not as an afterthought."
+    }
+  ]
+}

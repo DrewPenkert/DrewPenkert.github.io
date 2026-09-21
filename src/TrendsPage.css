@@ -1,0 +1,102 @@
+/* ── Trends page shell ── */
+.trends-page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 40px 120px;
+}
+
+/* ── Header ── */
+.trends-page-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 32px 0 80px;
+}
+
+/* ── Hero ── */
+.trends-hero {
+  padding-bottom: 64px;
+  border-bottom: 1px solid var(--border);
+}
+
+.trends-kicker {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+  color: var(--accent);
+  margin-bottom: 20px;
+  display: block;
+}
+
+.trends-title {
+  font-family: 'Syne', sans-serif;
+  font-size: clamp(2.4rem, 6vw, 4rem);
+  font-weight: 700;
+  line-height: 0.98;
+  letter-spacing: -0.04em;
+  color: var(--text-h);
+  margin: 0 0 20px;
+}
+
+.trends-updated {
+  font-size: 0.85rem;
+  color: var(--muted);
+  opacity: 0.7;
+  margin: 0;
+}
+
+/* ── Section ── */
+.trends-section {
+  padding-top: 64px;
+}
+
+.trends-section + .trends-section {
+  border-top: 1px solid var(--border);
+}
+
+/* ── Trend list ── */
+.trends-list {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-top: 32px;
+}
+
+.trend-item {
+  display: grid;
+  grid-template-columns: 48px 1fr;
+  gap: 24px;
+}
+
+.trend-index {
+  font-family: 'Syne', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--accent);
+  padding-top: 4px;
+}
+
+.trend-body h3 {
+  font-family: 'Syne', sans-serif;
+  font-size: clamp(1.1rem, 2vw, 1.35rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+  color: var(--text-h);
+  margin: 0 0 8px;
+}
+
+.trend-body p {
+  font-size: 0.95rem;
+  line-height: 1.72;
+  color: var(--muted);
+  text-wrap: pretty;
+  max-width: 60ch;
+  margin: 0;
+}
+
+/* ── Responsive ── */
+@media (max-width: 640px) {
+  .trends-page { padding: 0 24px 80px; }
+  .trend-item { grid-template-columns: 32px 1fr; gap: 16px; }
+}

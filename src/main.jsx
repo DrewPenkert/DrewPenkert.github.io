@@ -11,6 +11,7 @@ import FairhillCaseStudy from './FairhillCaseStudy.jsx'
 import VideoTestCaseStudy from './VideoTestCaseStudy.jsx'
 import KonnectCaseStudy from './KonnectCaseStudy.jsx'
 import AboutPage from './AboutPage.jsx'
+import TrendsPage from './TrendsPage.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -25,6 +26,7 @@ createRoot(document.getElementById('root')).render(
         <Route path="/video-test" element={<VideoTestCaseStudy />} />
         <Route path="/konnect" element={<KonnectCaseStudy />} />
         <Route path="/about" element={<AboutPage />} />
+        <Route path="/trends" element={<TrendsPage />} />
       </Routes>
     </BrowserRouter>
   </StrictMode>,
