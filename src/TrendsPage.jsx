@@ -53,8 +53,11 @@ export default function TrendsPage() {
               <article className="trend-item" key={i}>
                 <span className="trend-index">{String(i + 1).padStart(2, '0')}</span>
                 <div className="trend-body">
-                  <h3>{item.title}</h3>
+                  <a href={item.link} target="_blank" rel="noopener noreferrer">
+                    <h3>{item.title}</h3>
+                  </a>
                   <p>{item.summary}</p>
+                  {item.source && <span className="trend-source">{item.source}</span>}
                 </div>
               </article>
             ))}
@@ -71,8 +74,11 @@ export default function TrendsPage() {
               <article className="trend-item" key={i}>
                 <span className="trend-index">{String(i + 1).padStart(2, '0')}</span>
                 <div className="trend-body">
-                  <h3>{item.title}</h3>
+                  <a href={item.link} target="_blank" rel="noopener noreferrer">
+                    <h3>{item.title}</h3>
+                  </a>
                   <p>{item.summary}</p>
+                  {item.source && <span className="trend-source">{item.source}</span>}
                 </div>
               </article>
             ))}

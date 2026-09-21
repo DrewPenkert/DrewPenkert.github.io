@@ -76,6 +76,10 @@
   padding-top: 4px;
 }
 
+.trend-body a {
+  text-decoration: none;
+}
+
 .trend-body h3 {
   font-family: 'Syne', sans-serif;
   font-size: clamp(1.1rem, 2vw, 1.35rem);
@@ -86,13 +90,25 @@
   margin: 0 0 8px;
 }
 
+.trend-body a:hover h3 {
+  color: var(--accent);
+}
+
 .trend-body p {
   font-size: 0.95rem;
   line-height: 1.72;
   color: var(--muted);
   text-wrap: pretty;
   max-width: 60ch;
-  margin: 0;
+  margin: 0 0 10px;
+}
+
+.trend-source {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+  opacity: 0.6;
 }
 
 /* ── Responsive ── */

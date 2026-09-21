@@ -2,46 +2,66 @@
   "updatedAt": "2026-09-21",
   "marketing": [
     {
-      "title": "AI search overviews reshape SEO",
-      "summary": "Brands are optimising for AI-generated answer boxes on Google and ChatGPT, not just blue links, shifting content strategy toward direct, quotable answers."
+      "title": "Why Campari updated a classic ad with Alan Cumming to serve Negronis",
+      "link": "https://www.marketingdive.com/news/why-campari-updated-a-classic-ad-with-alan-cumming-to-serve-negronis/830735/",
+      "summary": "Head of marketing Allison Varone details an effort that riffs on creative from the 1970s that maintained &ldquo;9 out of every 10,000 Americans prefer a Campari.&rdquo;",
+      "source": "Marketing Dive"
     },
     {
-      "title": "Short-form video still wins attention",
-      "summary": "Vertical video under 30 seconds continues to outperform other formats for reach, pushing brands to prioritise TikTok and Reels-native production over polished long-form ads."
+      "title": "What 25M+ assets taught us about creative production at scale",
+      "link": "https://www.marketingdive.com/spons/what-25m-assets-taught-us-about-creative-production-at-scale/830196/",
+      "summary": "AI sped up asset creation. The real constraints now sit around production.",
+      "source": "Marketing Dive"
     },
     {
-      "title": "Creator-led brand campaigns",
-      "summary": "Companies are handing creative control to individual creators instead of running top-down campaigns, trading brand consistency for authenticity and trust."
+      "title": "Instacart enlists icons like Shrek, Scooby-Doo to market AI assistant",
+      "link": "https://www.marketingdive.com/news/instacart-enlists-icons-like-shrek-scooby-doo-to-market-ai-assistant/830757/",
+      "summary": "Scenes from nostalgic movies and TV shows provide meal ideas that come to life with the help of Clementine AI, which debuted earlier this month.&nbsp;",
+      "source": "Marketing Dive"
     },
     {
-      "title": "First-party data as the new targeting layer",
-      "summary": "With third-party cookies fading, marketers lean harder on owned data (email, loyalty programs, on-site behaviour) to power personalisation and retargeting."
+      "title": "Creator content preferred in AI recommendations: Here’s what the numbers say",
+      "link": "https://www.marketingdive.com/news/creator-content-preferred-in-ai-recommendations-heres-what-the-numbers-sa/830523/",
+      "summary": "Over half of consumers report that they prefer creator-informed artificial intelligence recommendations, according to recent IAB findings.",
+      "source": "Marketing Dive"
     },
     {
-      "title": "Community over reach",
-      "summary": "Smaller, engaged communities on Discord, Substack, and private groups are outperforming broad-reach ad spend for retention and word of mouth."
+      "title": "Wonderful Pistachios spotlights first NIL roster in social campaign",
+      "link": "https://www.marketingdive.com/news/wonderful-pistachios-spotlights-first-nil-roster-in-social-campaign/830629/",
+      "summary": "&ldquo;Don&rsquo;t Hold Back All-Stars&rdquo; features seven rising college athletes in creative that sees the brand pulling from the marketing playbook of companies like Nike.",
+      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "Kinetic typography as a default, not a flourish",
-      "summary": "Type that moves, stretches, and reacts to scroll is showing up in everyday brand motion work, not just hero pieces."
+      "title": "Converse forced to remove ad over racist allegations",
+      "link": "https://www.creativebloq.com/design/advertising/converse-forced-to-remove-ad-over-racist-allegations",
+      "summary": "The internet questions how it got approved.",
+      "source": "Creative Bloq"
     },
     {
-      "title": "Grainy, tactile textures return",
-      "summary": "Flat, ultra-clean gradients are giving way to film grain, noise, and paper-like textures for a warmer, more analogue feel."
+      "title": "Forget iPhone 18's Dark Cherry, these gorgeous cases let you play with seasonal colours in a less permanent way",
+      "link": "https://www.creativebloq.com/tech/accessories/forget-iphone-18s-dark-cherry-these-gorgeous-cases-let-you-play-with-seasonal-colours-in-a-less-permanent-way",
+      "summary": "Your phone will just be covered up anyway, right?",
+      "source": "Creative Bloq"
     },
     {
-      "title": "3D and real-time render pipelines go mainstream",
-      "summary": "Tools like Spline and real-time engines are making 3D motion accessible outside specialist studios, speeding up iteration on hero visuals."
+      "title": "Autodesk's own AI film has a continuity error nobody could prompt away",
+      "link": "https://www.creativebloq.com/3d/autodesks-own-ai-film-has-a-continuity-error-nobody-could-prompt-away",
+      "summary": "VP of M&E Strategy, Maurice Patel, reveals why AI will never replace human animators.",
+      "source": "Creative Bloq"
     },
     {
-      "title": "Maximalist colour, minimalist layout",
-      "summary": "Bold, saturated palettes paired with restrained grid systems, letting colour do the expressive work while structure stays disciplined."
+      "title": "Forget Pixar: Laika is the animation house of the future",
+      "link": "https://www.creativebloq.com/art/animation/forget-pixar-laika-is-the-animation-house-of-the-future",
+      "summary": "Its focus on stop-motion is what we all need in the AI era.",
+      "source": "Creative Bloq"
     },
     {
-      "title": "Motion systems built for accessibility",
-      "summary": "Designers are baking reduced-motion states and pacing controls into animation systems from the start, not as an afterthought."
+      "title": "Affinity 3.3 shows that Canva is serious about taking on Adobe",
+      "link": "https://www.creativebloq.com/design/design-software/affinity-3-3-shows-that-canva-is-serious-about-taking-on-adobe",
+      "summary": "The latest update to the free Creative Cloud alternative packs in a blend tool, RAW overhaul and scripting studio.",
+      "source": "Creative Bloq"
     }
   ]
 }
