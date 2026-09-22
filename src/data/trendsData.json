@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-21",
+  "updatedAt": "2026-09-22",
   "marketing": [
+    {
+      "title": "Two-thirds of Americans are gamers. Why hasn’t ad spending caught up?",
+      "link": "https://www.marketingdive.com/news/two-thirds-of-americans-are-gamers-why-hasnt-ad-spending-caught-up/830823/",
+      "summary": "At IAB PlayFronts, gaming platforms, marketers and developers discussed what&rsquo;s next in gaming as the space continues to find its footing.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Accenture Song signals US media ambitions with exec appointment",
+      "link": "https://www.marketingdive.com/news/accenture-song-signals-us-media-ambitions-with-exec-appointment/830854/",
+      "summary": "Melissa Fein, who previously served as the firm&rsquo;s media lead in Australia and New Zealand, is tasked with helping scale its operations in the U.S.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Subway skewers modern dining landscape with Will Arnett-led creative",
+      "link": "https://www.marketingdive.com/news/subway-skewers-modern-dining-landscape-with-will-arnett-led-creative/830888/",
+      "summary": "Martin&rsquo;s first campaign for the brand sees the actor serve as the subconcious of consumers seeking better meals than fast-food burgers and protein bars.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Why Campari updated a classic ad with Alan Cumming to serve Negronis",
       "link": "https://www.marketingdive.com/news/why-campari-updated-a-classic-ad-with-alan-cumming-to-serve-negronis/830735/",
@@ -12,55 +30,37 @@
       "link": "https://www.marketingdive.com/spons/what-25m-assets-taught-us-about-creative-production-at-scale/830196/",
       "summary": "AI sped up asset creation. The real constraints now sit around production.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "Instacart enlists icons like Shrek, Scooby-Doo to market AI assistant",
-      "link": "https://www.marketingdive.com/news/instacart-enlists-icons-like-shrek-scooby-doo-to-market-ai-assistant/830757/",
-      "summary": "Scenes from nostalgic movies and TV shows provide meal ideas that come to life with the help of Clementine AI, which debuted earlier this month.&nbsp;",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Creator content preferred in AI recommendations: Here’s what the numbers say",
-      "link": "https://www.marketingdive.com/news/creator-content-preferred-in-ai-recommendations-heres-what-the-numbers-sa/830523/",
-      "summary": "Over half of consumers report that they prefer creator-informed artificial intelligence recommendations, according to recent IAB findings.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Wonderful Pistachios spotlights first NIL roster in social campaign",
-      "link": "https://www.marketingdive.com/news/wonderful-pistachios-spotlights-first-nil-roster-in-social-campaign/830629/",
-      "summary": "&ldquo;Don&rsquo;t Hold Back All-Stars&rdquo; features seven rising college athletes in creative that sees the brand pulling from the marketing playbook of companies like Nike.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "Converse forced to remove ad over racist allegations",
-      "link": "https://www.creativebloq.com/design/advertising/converse-forced-to-remove-ad-over-racist-allegations",
-      "summary": "The internet questions how it got approved.",
+      "title": "This weird Walmart banana hack could save you $20 on Nintendo Switch games like Fire Emblem: Fortune’s Weave, apparently",
+      "link": "https://www.creativebloq.com/entertainment/gaming/the-weird-walmart-banana-hack-could-save-you-usd20-off-nintendo-switch-games-apparently",
+      "summary": "It's perfect for Donkey Kong fans.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Forget iPhone 18's Dark Cherry, these gorgeous cases let you play with seasonal colours in a less permanent way",
-      "link": "https://www.creativebloq.com/tech/accessories/forget-iphone-18s-dark-cherry-these-gorgeous-cases-let-you-play-with-seasonal-colours-in-a-less-permanent-way",
-      "summary": "Your phone will just be covered up anyway, right?",
+      "title": "I finally learned to enjoy 3D art with this workflow using 3DCoat, Quixel Mixer, Blender and Photoshop",
+      "link": "https://www.creativebloq.com/design/poster-design/i-finally-learned-to-enjoy-3d-art-with-this-workflow-using-3dcoat-quixel-mixer-blender-and-photoshop",
+      "summary": "Concept artist Marcin Basta shows his full process, from sketching to modelling, texturing and render, to create a strange overgrown vista.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Autodesk's own AI film has a continuity error nobody could prompt away",
-      "link": "https://www.creativebloq.com/3d/autodesks-own-ai-film-has-a-continuity-error-nobody-could-prompt-away",
-      "summary": "VP of M&E Strategy, Maurice Patel, reveals why AI will never replace human animators.",
+      "title": "One of Disney's biggest flops has been reimagined as a beautiful hand-drawn 2D animation, and some fans think it's a big improvement",
+      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/one-of-disneys-biggest-flops-has-been-reimagined-as-a-beautiful-hand-drawn-2d-animation-and-some-fans-think-its-a-big-improvement",
+      "summary": "Asha & The Starboy revives the original concept for Wish.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Forget Pixar: Laika is the animation house of the future",
-      "link": "https://www.creativebloq.com/art/animation/forget-pixar-laika-is-the-animation-house-of-the-future",
-      "summary": "Its focus on stop-motion is what we all need in the AI era.",
+      "title": "The Tesla Cybercab has a pretty silly design fail",
+      "link": "https://www.creativebloq.com/design/product-design/the-tesla-cybercab-has-a-pretty-silly-design-fail",
+      "summary": "Why am I not surprised?",
       "source": "Creative Bloq"
     },
     {
-      "title": "Affinity 3.3 shows that Canva is serious about taking on Adobe",
-      "link": "https://www.creativebloq.com/design/design-software/affinity-3-3-shows-that-canva-is-serious-about-taking-on-adobe",
-      "summary": "The latest update to the free Creative Cloud alternative packs in a blend tool, RAW overhaul and scripting studio.",
+      "title": "Art students: save up to 53% on supplies before term starts",
+      "link": "https://www.creativebloq.com/art/art-supplies/art-students-grab-your-last-minute-supplies-with-up-to-53-percent-off",
+      "summary": "Save on top brands like Prismacolor and Posca.",
       "source": "Creative Bloq"
     }
   ]
