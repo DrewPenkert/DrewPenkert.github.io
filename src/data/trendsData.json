@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-23",
   "marketing": [
+    {
+      "title": "How Chili’s marketing works — and why Mexican QSRs are its next target",
+      "link": "https://www.marketingdive.com/news/how-chilis-marketing-works-and-why-mexican-qsrs-are-its-next-target/830959/",
+      "summary": "CMO George Felix dug into the casual dining chain&rsquo;s past successes and pathway for future growth at Brinker International&rsquo;s recent investor day.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Gap rolls out Fashiontainment strategy with boy band collaboration",
+      "link": "https://www.marketingdive.com/news/gap-rolls-out-fashiontainment-strategy-with-boy-band-collaboration/830984/",
+      "summary": "The pact with Just Your Type is positioned as bigger than a one-off campaign, spanning experiences, clothing and a documentary series.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Beats taps multiple Kendall Jenners to promote customizable headphones",
+      "link": "https://www.marketingdive.com/news/beats-taps-multiple-kendall-jenners-to-promote-customizable-headphones/830835/",
+      "summary": "CMO Chris Thorne explains why Jenner is the right partner for the launch, which includes a campaign spot from Uncommon Creative Studio.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Two-thirds of Americans are gamers. Why hasn’t ad spending caught up?",
       "link": "https://www.marketingdive.com/news/two-thirds-of-americans-are-gamers-why-hasnt-ad-spending-caught-up/830823/",
@@ -12,55 +30,37 @@
       "link": "https://www.marketingdive.com/news/accenture-song-signals-us-media-ambitions-with-exec-appointment/830854/",
       "summary": "Melissa Fein, who previously served as the firm&rsquo;s media lead in Australia and New Zealand, is tasked with helping scale its operations in the U.S.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "Subway skewers modern dining landscape with Will Arnett-led creative",
-      "link": "https://www.marketingdive.com/news/subway-skewers-modern-dining-landscape-with-will-arnett-led-creative/830888/",
-      "summary": "Martin&rsquo;s first campaign for the brand sees the actor serve as the subconcious of consumers seeking better meals than fast-food burgers and protein bars.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Why Campari updated a classic ad with Alan Cumming to serve Negronis",
-      "link": "https://www.marketingdive.com/news/why-campari-updated-a-classic-ad-with-alan-cumming-to-serve-negronis/830735/",
-      "summary": "Head of marketing Allison Varone details an effort that riffs on creative from the 1970s that maintained &ldquo;9 out of every 10,000 Americans prefer a Campari.&rdquo;",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "What 25M+ assets taught us about creative production at scale",
-      "link": "https://www.marketingdive.com/spons/what-25m-assets-taught-us-about-creative-production-at-scale/830196/",
-      "summary": "AI sped up asset creation. The real constraints now sit around production.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "This weird Walmart banana hack could save you $20 on Nintendo Switch games like Fire Emblem: Fortune’s Weave, apparently",
-      "link": "https://www.creativebloq.com/entertainment/gaming/the-weird-walmart-banana-hack-could-save-you-usd20-off-nintendo-switch-games-apparently",
-      "summary": "It's perfect for Donkey Kong fans.",
+      "title": "How Fusion Studio and expert compositing skills brought the striking animation Danse Macabre to life",
+      "link": "https://www.creativebloq.com/3d/vfx-cgi/how-fusion-studio-and-expert-compositing-skills-brought-the-striking-animation-danse-macabre-to-life",
+      "summary": "Compositing Technical Director Stijn Calis breaks down the whole process, from the background work to final details.",
       "source": "Creative Bloq"
     },
     {
-      "title": "I finally learned to enjoy 3D art with this workflow using 3DCoat, Quixel Mixer, Blender and Photoshop",
-      "link": "https://www.creativebloq.com/design/poster-design/i-finally-learned-to-enjoy-3d-art-with-this-workflow-using-3dcoat-quixel-mixer-blender-and-photoshop",
-      "summary": "Concept artist Marcin Basta shows his full process, from sketching to modelling, texturing and render, to create a strange overgrown vista.",
+      "title": "Apple's perfect iPhone Duo TikToks nail foldable phone marketing",
+      "link": "https://www.creativebloq.com/design/advertising/apples-perfect-iphone-duo-tiktoks-nail-foldable-phone-marketing",
+      "summary": "But are they the sign of a worried brand?",
       "source": "Creative Bloq"
     },
     {
-      "title": "One of Disney's biggest flops has been reimagined as a beautiful hand-drawn 2D animation, and some fans think it's a big improvement",
-      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/one-of-disneys-biggest-flops-has-been-reimagined-as-a-beautiful-hand-drawn-2d-animation-and-some-fans-think-its-a-big-improvement",
-      "summary": "Asha & The Starboy revives the original concept for Wish.",
+      "title": "First McDonald's, now Disney is dejoying its store designs",
+      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/first-mcdonalds-now-disney-is-dejoying-its-store-designs",
+      "summary": "The new Disney Wonders looks like an airport shop.",
       "source": "Creative Bloq"
     },
     {
-      "title": "The Tesla Cybercab has a pretty silly design fail",
-      "link": "https://www.creativebloq.com/design/product-design/the-tesla-cybercab-has-a-pretty-silly-design-fail",
-      "summary": "Why am I not surprised?",
+      "title": "Chromebooks are not for serious creatives, are they?",
+      "link": "https://www.creativebloq.com/tech/laptops/chromebooks-are-not-for-serious-creatives-are-they",
+      "summary": "The Acer Chromebook Plus Spin 514 is an excellent 2-in-1 laptop tablet that proves to be a worthy addition to any creatives workflow",
       "source": "Creative Bloq"
     },
     {
-      "title": "Art students: save up to 53% on supplies before term starts",
-      "link": "https://www.creativebloq.com/art/art-supplies/art-students-grab-your-last-minute-supplies-with-up-to-53-percent-off",
-      "summary": "Save on top brands like Prismacolor and Posca.",
+      "title": "Coyote Vs Acme's $100m takings show fan campaigns CAN succeed",
+      "link": "https://www.creativebloq.com/design/advertising/coyote-vs-acmes-usd100m-in-takings-show-that-fan-campaigns-can-succeed",
+      "summary": "The movie Warner Bros wanted to write down has proven itself.",
       "source": "Creative Bloq"
     }
   ]
