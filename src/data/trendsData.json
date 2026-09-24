@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-23",
+  "updatedAt": "2026-09-24",
   "marketing": [
+    {
+      "title": "Inside McDonald’s new marketing model as it enters media network fray",
+      "link": "https://www.marketingdive.com/news/inside-mcdonalds-new-marketing-model-as-it-enters-media-network-fray/831170/",
+      "summary": "The fast-food giant is piloting a media network with the goal of building a $1 billion ad business.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Target’s new campaign puts design legacy at center of marketing",
+      "link": "https://www.marketingdive.com/news/targets-new-campaign-puts-design-legacy-at-center-of-marketing/831116/",
+      "summary": "The effort will extend to creator partnerships and experiential activations and arrives as the retailer&rsquo;s turnaround efforts begin to show results.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "How Chili’s marketing works — and why Mexican QSRs are its next target",
       "link": "https://www.marketingdive.com/news/how-chilis-marketing-works-and-why-mexican-qsrs-are-its-next-target/830959/",
@@ -18,49 +30,37 @@
       "link": "https://www.marketingdive.com/news/beats-taps-multiple-kendall-jenners-to-promote-customizable-headphones/830835/",
       "summary": "CMO Chris Thorne explains why Jenner is the right partner for the launch, which includes a campaign spot from Uncommon Creative Studio.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "Two-thirds of Americans are gamers. Why hasn’t ad spending caught up?",
-      "link": "https://www.marketingdive.com/news/two-thirds-of-americans-are-gamers-why-hasnt-ad-spending-caught-up/830823/",
-      "summary": "At IAB PlayFronts, gaming platforms, marketers and developers discussed what&rsquo;s next in gaming as the space continues to find its footing.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Accenture Song signals US media ambitions with exec appointment",
-      "link": "https://www.marketingdive.com/news/accenture-song-signals-us-media-ambitions-with-exec-appointment/830854/",
-      "summary": "Melissa Fein, who previously served as the firm&rsquo;s media lead in Australia and New Zealand, is tasked with helping scale its operations in the U.S.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "How Fusion Studio and expert compositing skills brought the striking animation Danse Macabre to life",
-      "link": "https://www.creativebloq.com/3d/vfx-cgi/how-fusion-studio-and-expert-compositing-skills-brought-the-striking-animation-danse-macabre-to-life",
-      "summary": "Compositing Technical Director Stijn Calis breaks down the whole process, from the background work to final details.",
+      "title": "The Taylor Swift iPhone colour theory feels like it's not a joke anymore",
+      "link": "https://www.creativebloq.com/design/branding/the-taylor-swift-iphone-colour-theory-feels-like-its-not-a-joke-anymore",
+      "summary": "It's becoming more compelling every year.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Apple's perfect iPhone Duo TikToks nail foldable phone marketing",
-      "link": "https://www.creativebloq.com/design/advertising/apples-perfect-iphone-duo-tiktoks-nail-foldable-phone-marketing",
-      "summary": "But are they the sign of a worried brand?",
+      "title": "This tactical RPG channels a classic Sega series while putting its own spin on the retro-modern HD-2D aesthetic",
+      "link": "https://www.creativebloq.com/3d/video-game-design/this-tactical-rpg-channels-a-classic-sega-series-while-giving-its-own-spin-on-the-retro-modern-hd-2d-aesthetic",
+      "summary": "How Aegis Force's dynamic camera tries to cater to two styles of tactical combat animations.",
       "source": "Creative Bloq"
     },
     {
-      "title": "First McDonald's, now Disney is dejoying its store designs",
-      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/first-mcdonalds-now-disney-is-dejoying-its-store-designs",
-      "summary": "The new Disney Wonders looks like an airport shop.",
+      "title": "Microsoft's dystopian new advertising idea sounds like a nightmare for gamers",
+      "link": "https://www.creativebloq.com/3d/video-game-design/microsofts-dystopian-new-advertising-idea-sounds-like-a-nightmare-for-gamers",
+      "summary": "Say goodbye to immersion.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Chromebooks are not for serious creatives, are they?",
-      "link": "https://www.creativebloq.com/tech/laptops/chromebooks-are-not-for-serious-creatives-are-they",
-      "summary": "The Acer Chromebook Plus Spin 514 is an excellent 2-in-1 laptop tablet that proves to be a worthy addition to any creatives workflow",
+      "title": "People think Disney is trying to erase every trace of Hexed's original concept",
+      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/is-disney-really-trying-to-erase-its-original-concept-for-hexed",
+      "summary": "Does it want to avoid another Asha & The Starboy?",
       "source": "Creative Bloq"
     },
     {
-      "title": "Coyote Vs Acme's $100m takings show fan campaigns CAN succeed",
-      "link": "https://www.creativebloq.com/design/advertising/coyote-vs-acmes-usd100m-in-takings-show-that-fan-campaigns-can-succeed",
-      "summary": "The movie Warner Bros wanted to write down has proven itself.",
+      "title": "IKEA transforms its iconic blue bag in quirky campaign",
+      "link": "https://www.creativebloq.com/design/advertising/ikea-transforms-its-iconic-blue-bag-in-quirky-campaign",
+      "summary": "It celebrates 30 years of the legendary Frakta.",
       "source": "Creative Bloq"
     }
   ]
