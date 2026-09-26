@@ -1,16 +1,28 @@
 {
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-26",
   "marketing": [
+    {
+      "title": "How Jeep is charting a new course for its marketing",
+      "link": "https://www.marketingdive.com/news/how-jeep-is-charting-a-new-course-for-its-marketing/831335/",
+      "summary": "New campaign &ldquo;This Is Jeep Country&rdquo; celebrates the&nbsp;brand&rsquo;s American heritage, while multicultural extensions speak to a fragmented landscape.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Campaign Trail: Brooklinen goes in-house for first celebrity-led effort",
+      "link": "https://www.marketingdive.com/news/campaign-trail-brooklinen-goes-in-house-for-first-celebrity-led-effort/830987/",
+      "summary": "Laura Jacobs, CMO at the DTC bedding brand, details a &ldquo;Best. Sheets. Ever&rdquo; campaign that taps cultural figures spanning comedy, music and sports.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Wayfair ups investment in sports for values-focused brand platform",
       "link": "https://www.marketingdive.com/news/wayfair-ups-investment-in-sports-for-values-focused-brand-platform/831231/",
-      "summary": "The retailer, which sees over 60% of orders come from mobile, has teamed with quarterback Matthew Stafford for &ldquo;Wayfair Delivers.&rdquo;",
+      "summary": "The retailer is amplifying its latest effort by increasing advertising investment across the networks airing football games to five times its previous spend.",
       "source": "Marketing Dive"
     },
     {
       "title": "M&M’s candy mascots hop genres in ads tapping into film, TV tropes",
       "link": "https://www.marketingdive.com/news/mms-candy-mascots-hop-genres-in-ads-tapping-into-film-tv-tropes/831240/",
-      "summary": "Crime thrillers, telenovelas and &ldquo;Survivor&rdquo; get a humorous spin in spots supporting a creative platform the Mars brand launched last year.",
+      "summary": "BBDO Chicago is behind &ldquo;Screentime,&rdquo; a campaign that gives crime thrillers, telenovelas and &ldquo;Survivor&rdquo; a humorous spin.",
       "source": "Marketing Dive"
     },
     {
@@ -18,49 +30,37 @@
       "link": "https://www.marketingdive.com/news/why-tecovas-places-music-at-the-center-of-its-western-focused-marketing/830565/",
       "summary": "The clothing brand hopes to communicate an authentic message by linking with rising artists including country band Chaparelle for its fall denim campaign.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "Inside McDonald’s new marketing model as it enters media network fray",
-      "link": "https://www.marketingdive.com/news/inside-mcdonalds-new-marketing-model-as-it-enters-media-network-fray/831170/",
-      "summary": "The chain announced plans for a unified mobile platform that is scheduled to be piloted in France later this year before scaling to other markets.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Target’s new campaign puts design legacy at center of marketing",
-      "link": "https://www.marketingdive.com/news/targets-new-campaign-puts-design-legacy-at-center-of-marketing/831116/",
-      "summary": "The effort will extend to creator partnerships and experiential activations and arrives as the retailer&rsquo;s turnaround efforts begin to show results.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "Sticker addicts rejoice! Cricut just released two really cool label and sticker makers",
-      "link": "https://www.creativebloq.com/creative-inspiration/digital-crafting/sticker-addicts-rejoice-cricut-just-released-two-really-cool-label-and-sticker-makers",
-      "summary": "The StickerPix Print and the + Cut sound impressive for the money.",
+      "title": "This digital typewriter is the distraction-free writing tool I've been searching for",
+      "link": "https://www.creativebloq.com/design/product-design/this-digital-typewriter-is-the-distraction-free-writing-tool-ive-been-searching-for",
+      "summary": "It's expensive, but can you put a price on focus?",
       "source": "Creative Bloq"
     },
     {
-      "title": "This digital artist takes inspiration from Old Masters and orientalist paintings",
-      "link": "https://www.creativebloq.com/art/digital-art/this-digital-artist-takes-inspiration-from-old-masters-and-orientalist-paintings",
-      "summary": "Discover the art of Brian Yuen.",
+      "title": "“Fan art helps me escape my habits\" – Recreating Distant Lands: Obsidian allowed this artist to explore colours, lighting and subjects beyond his usual repertoire",
+      "link": "https://www.creativebloq.com/art/digital-art/fan-art-helps-me-escape-my-habits-recreating-distant-lands-obsidian-allowed-this-artist-to-explore-saturated-colours-artificial-lighting-and-subjects-beyond-his-usual-repertoire",
+      "summary": "Discover the art of Marc Magliari.",
       "source": "Creative Bloq"
     },
     {
-      "title": "We were robbed of a 2D Ray Gunn movie and Hollywood’s to blame",
-      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/we-were-robbed-of-a-2d-ray-gunn-movie-and-hollywoods-to-blame",
-      "summary": "Director Brad Bird had to make some major compromises.",
+      "title": "Adobe Max 2026's lineup tells us a lot about the company's AI priorities right now",
+      "link": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
+      "summary": "It's selling AI hard, but not necessary to you.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Sony has an idea for turning PlayStation controllers into payment devices, and everyone's saying the same thing",
-      "link": "https://www.creativebloq.com/3d/video-game-design/sony-has-an-idea-for-turning-playstation-controllers-into-payment-devices-and-everyones-saying-the-same-thing",
-      "summary": "The 'PayStation' is coming?",
+      "title": "New Tyson Fury vs. Anthony Joshua poster features graphic design fail",
+      "link": "https://www.creativebloq.com/design/poster-design/new-tyson-fury-vs-anthony-joshua-poster-features-graphic-design-fail",
+      "summary": "Who thought this was a good idea?",
       "source": "Creative Bloq"
     },
     {
-      "title": "No, that Apple Games advert isn't AI, and the brilliant BTS video proves it",
-      "link": "https://www.creativebloq.com/design/advertising/no-that-apple-games-advert-isnt-ai-and-the-stunning-bts-video-proves-it",
-      "summary": "The hand-made stop-motion animation involved painstaking craftsmanship.",
+      "title": "A solo developer not only drew this video game by hand, he also made all the music and sound effects with his own voice",
+      "link": "https://www.creativebloq.com/3d/video-game-design/a-solo-developer-not-only-drew-this-video-game-by-hand-he-also-made-all-the-music-and-sound-effects-with-his-own-voice",
+      "summary": "\"Haters will say I didn't make it all alone\".",
       "source": "Creative Bloq"
     }
   ]
