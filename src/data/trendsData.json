@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-09-27",
+  "updatedAt": "2026-09-28",
   "marketing": [
+    {
+      "title": "Subway’s CMO on finding room to grow between competitors in QSR",
+      "link": "https://www.marketingdive.com/news/subways-cmo-on-finding-room-to-grow-between-competitors-in-qsr/831341/",
+      "summary": "&ldquo;The challenges are real, which is why we're taking such a big swing now,&rdquo; Jeff Klein said of the chain&rsquo;s new&nbsp;brand platform starring Will Arnett.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "How agencies can turn holiday intent into action",
+      "link": "https://www.marketingdive.com/spons/how-agencies-can-turn-holiday-intent-into-action/831219/",
+      "summary": "Explore how holiday shoppers move from discovery to purchase on TikTok.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "How Jeep is charting a new course for its marketing",
       "link": "https://www.marketingdive.com/news/how-jeep-is-charting-a-new-course-for-its-marketing/831335/",
@@ -18,49 +30,37 @@
       "link": "https://www.marketingdive.com/news/wayfair-ups-investment-in-sports-for-values-focused-brand-platform/831231/",
       "summary": "The retailer is amplifying its latest effort by increasing advertising investment across the networks airing football games to five times its previous spend.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "M&M’s candy mascots hop genres in ads tapping into film, TV tropes",
-      "link": "https://www.marketingdive.com/news/mms-candy-mascots-hop-genres-in-ads-tapping-into-film-tv-tropes/831240/",
-      "summary": "BBDO Chicago is behind &ldquo;Screentime,&rdquo; a campaign that gives crime thrillers, telenovelas and &ldquo;Survivor&rdquo; a humorous spin.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "How Tecovas uses music for its Western-focused marketing",
-      "link": "https://www.marketingdive.com/news/why-tecovas-places-music-at-the-center-of-its-western-focused-marketing/830565/",
-      "summary": "The clothing brand hopes to communicate an authentic message by linking with rising artists including country band Chaparelle for its fall denim campaign.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "\"We have the kind of stuff AI wishes it could make\": Why trust is more important than ever for the NASA brand",
-      "link": "https://www.creativebloq.com/design/we-have-the-kind-of-stuff-ai-wishes-it-could-make-why-trust-is-more-important-than-ever-for-the-nasa-brand",
-      "summary": "We talk to NASA creative director David Rager about the space agency's branding.",
+      "title": "CorelDRAW adds Text-to-Vector AI in the September update – is it a good move?",
+      "link": "https://www.creativebloq.com/design/graphic-design-software/coreldraw-adds-text-to-vector-ai-in-the-september-update-is-it-a-good-move",
+      "summary": "The AI generates editable artwork, not another flat image to trace.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Forget the Pokémon x Starbucks collab, get up to 60% off merch",
-      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/forget-the-pokemon-x-starbucks-collab-get-up-to-60-percent-off-merch",
-      "summary": "Non Japanese fans, you can dry those tears.",
+      "title": "Viral AI animation sparks controversy over familiar character design",
+      "link": "https://www.creativebloq.com/art/animation/viral-ai-animation-sparks-controversy-over-familiar-character-design",
+      "summary": "Artificial intelligence struggles with originality once again.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Inca Kola rebrands as the world's other cola war heats up",
-      "link": "https://www.creativebloq.com/design/branding/inca-kola-rebrands-as-the-worlds-other-cola-war-heats-up",
-      "summary": "There's a controversial detail.",
+      "title": "Please stop calling every laptop an \"AI laptop\"",
+      "link": "https://www.creativebloq.com/tech/laptops/please-stop-calling-every-laptop-an-ai-laptop",
+      "summary": "Will the people who name laptops please stop using AI naming so liberally",
       "source": "Creative Bloq"
     },
     {
-      "title": "The chair that puts the 'luxury' in budget ergonomic office chairs has $80 off in Amazon's early Prime Day sale",
-      "link": "https://www.creativebloq.com/tech/chairs-desks/the-chair-that-puts-the-luxury-in-budget-ergonomic-office-chairs-has-usd80-off-in-amazons-early-prime-day-sale",
-      "summary": "And there's $50 off a cheaper office chair from the same brand.",
+      "title": "2026 is the year of the cancelled ad",
+      "link": "https://www.creativebloq.com/design/advertising/2026-is-the-year-of-the-cancelled-ad",
+      "summary": "Are audiences too soft, are brands getting sloppy… or is it something else entirely?",
       "source": "Creative Bloq"
     },
     {
-      "title": "The secret to Stuntman: Hollywood’s success is Hollywood itself",
-      "link": "https://www.creativebloq.com/3d/video-game-design/the-secret-to-stuntman-hollywoods-success-is-hollywood-itself",
-      "summary": "After playing the stunt sim, Saber's raid of Universal’s best movie IPs, from Back to the Future and Jurassic World, feels like a stroke of genius.",
+      "title": "A library of over 10,000 abstract models is the starting point for this artist's compositions",
+      "link": "https://www.creativebloq.com/design/poster-design/a-library-of-over-10-000-abstract-models-is-the-starting-point-for-this-artists-compositions",
+      "summary": "3D artist Peter Olschinsky is interested in the relationship between architecture, technology and abstract visual systems.",
       "source": "Creative Bloq"
     }
   ]
