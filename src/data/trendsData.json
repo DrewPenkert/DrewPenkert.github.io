@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-09-30",
+  "updatedAt": "2026-10-01",
   "marketing": [
     {
-      "title": "How Thorne’s brand platform led to a $3.8B P&G deal — and what’s next",
+      "title": "Cava hires Dr. Squatch marketer as CMO to build on growth",
+      "link": "https://www.marketingdive.com/news/cava-hires-dr-squatch-marketer-as-cmo-to-build-on-growth/831662/",
+      "summary": "John Ludeke, most recently chief brand officer at the Unilever brand, is tasked with deepening consumer connections to the fast-casual chain.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "What Kroger’s predictive scoring work means for e-commerce marketers",
+      "link": "https://www.marketingdive.com/news/how-kroger-uses-ai-and-predictive-scoring-to-tie-creative-to-conversion/831659/",
+      "summary": "The grocer, in partnership with Vidmob and MMA Global, was able to forecast e-commerce conversion of ad creative with 81% accuracy.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "How Thorne built a brand platform ahead of $3.8B P&G deal — and what’s next",
       "link": "https://www.marketingdive.com/news/how-thornes-brand-platform-led-to-a-38b-pg-deal-and-whats-next/831494/",
-      "summary": "Chief Growth Officer Mary Beech details how work with brand consultancy Redscout turned consumer insights into campaigns and a way of communicating.",
+      "summary": "Chief Growth Officer Mary Beech details how work with brand consultancy Redscout turned consumer insights into campaigns and a communication style.",
       "source": "Marketing Dive"
     },
     {
@@ -18,49 +30,37 @@
       "link": "https://www.marketingdive.com/news/cmos-must-rethink-entry-level-talent-as-ai-alters-marketing-needs-gartner/831604/",
       "summary": "Many marketers will be able to eliminate bottom-rung roles by 2030, but the researcher recommends handing new hires greater responsibility instead.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "How Amazon is streamlining ad buys across multiple formats with AI",
-      "link": "https://www.marketingdive.com/news/how-amazon-is-streamlining-ad-buys-across-multiple-formats-with-ai/831492/",
-      "summary": "Amazon Ads executive Kelly MacLean walks through advances announced today that promise to simplify how marketers work with the platform.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "DoorDash doubles down on WPP, naming agency global media partner",
-      "link": "https://www.marketingdive.com/news/doordash-doubles-down-on-wpp-naming-agency-global-media-partner/831473/",
-      "summary": "WPP continues to succeed in deepening relationships with existing clients following a similar win with Est&eacute;e Lauder and scoring Wendy&rsquo;s&nbsp;U.S. media.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "This chair is so comfortable I haven’t got up in 3 days",
-      "link": "https://www.creativebloq.com/tech/chairs-desks/this-chair-is-so-comfortable-i-havent-got-up-in-3-days",
-      "summary": "The LiberNovo Omni Pro is a premium office chair that hits the sweet spots of comfort, ergonomics and design.",
+      "title": "Design of the Day: Moccamaster KBG Select coffee maker",
+      "link": "https://www.creativebloq.com/design/product-design/design-of-the-day-moccamaster-kbg-select-coffee-maker",
+      "summary": "This International Coffee Day, we look at the design icon that's kept us caffeinated since 1974.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Meet the 3D printing tool I can’t believe I ever went without",
-      "link": "https://www.creativebloq.com/creative-inspiration/digital-crafting/meet-the-3d-printing-tool-i-cant-believe-i-ever-went-without",
-      "summary": "Removing supports has never looked so easy thanks to the Hozo NeoSander.",
+      "title": "Tutorial: How to draw monstrous milkshakes",
+      "link": "https://www.creativebloq.com/art/traditional-art/tutorial-how-to-draw-monstrous-milkshakes",
+      "summary": "What better way to embrace the spirit of Spooktober than to design some ghoulish beverages?",
       "source": "Creative Bloq"
     },
     {
-      "title": "Tested: Is the Asus ROG Zephyrus Duo the year’s most expensive laptop?",
-      "link": "https://www.creativebloq.com/tech/laptops/tested-is-the-asus-rog-zephyrus-duo-the-years-most-expensive-laptop",
-      "summary": "Two screens and a huge GPU",
+      "title": "\"Most things I taught myself\": Bente Schlick on becoming a successful fantasy illustrator",
+      "link": "https://www.creativebloq.com/3d/video-game-design/most-things-i-taught-myself-bente-schlick-on-becoming-a-successful-fantasy-illustrator",
+      "summary": "From Warrior Cats to the Last Vampire, the illustrator discusses her art process and inspirations.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Photoshop's controversial new AI tool is dividing opinion",
-      "link": "https://www.creativebloq.com/design/graphic-design/photoshops-newest-ai-tool-is-immediately-dividing-opinion",
-      "summary": "Does Relight transform photo retouching.... or turn people into video game characters?",
+      "title": "\"They weren't planned out\": the messy stories behind retro gaming's golden age",
+      "link": "https://www.creativebloq.com/3d/video-game-design/they-werent-planned-out-the-messy-stories-behind-retro-gamings-golden-age",
+      "summary": "For more than 20 years, journalist Paul Drury has interviewed the people behind coin-op classics. His new book tells their stories in their own words – messier and more human than the legend.",
       "source": "Creative Bloq"
     },
     {
-      "title": "This pixel art game lets you destroy almost any website (including ours)",
-      "link": "https://www.creativebloq.com/3d/video-game-design/this-pixel-art-game-lets-you-destroy-almost-any-website-including-ours",
-      "summary": "Destroy Any Website lets you blast through text blocks, banners and images.",
+      "title": "Blender for Android could mean iPad is no longer the obvious choice of tablet for creatives",
+      "link": "https://www.creativebloq.com/3d/blender-for-android-could-mean-ipad-is-no-longer-the-obvious-tablet-choice-for-creatives",
+      "summary": "The Android port of the open-source 3D modelling software looks fantastic.",
       "source": "Creative Bloq"
     }
   ]
