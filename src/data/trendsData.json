@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-02",
+  "updatedAt": "2026-10-03",
   "marketing": [
+    {
+      "title": "Midsize brewers shake up marketing strategies as Americans drink less",
+      "link": "https://www.marketingdive.com/news/midsize-brewers-shake-up-marketing-strategies-as-americans-drink-less/831982/",
+      "summary": "Nonalcoholic beer is on an upswing, while midsize and craft breweries are feeling the effects of a changing consumer landscape.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "CMOs in a ‘pressure cooker’ as tenure shrinks, demands multiply: study",
+      "link": "https://www.marketingdive.com/news/cmos-in-a-pressure-cooker-as-tenure-shrinks-demands-multiply-study/831775/",
+      "summary": "Over a quarter of marketers hired this year have AI-ready skill sets versus 9% of CMOs who have been in the role for over four years.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Discord steps up play for mobile advertisers with rewarded video product",
       "link": "https://www.marketingdive.com/news/discord-steps-up-play-for-mobile-advertisers-with-rewarded-video-product/831808/",
@@ -18,49 +30,37 @@
       "link": "https://www.marketingdive.com/news/reeses-searches-for-trick-or-treatiest-street-in-multichannel-effort/831813/",
       "summary": "The Hershey brand is teaming with creators and celebrities for a social content series analyzing 150 of the best streets for Halloween festivities.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "Inside Advertising Week’s changes — and a bid for $100M in creator deals",
-      "link": "https://www.marketingdive.com/news/inside-advertising-weeks-changes-and-a-bid-for-100m-in-creator-deals/831812/",
-      "summary": "The show, which starts Monday, is doubling down on topics like creators to differentiate in a crowded events calendar and court more decision-makers.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Cava hires Dr. Squatch marketer as CMO to build on growth",
-      "link": "https://www.marketingdive.com/news/cava-hires-dr-squatch-marketer-as-cmo-to-build-on-growth/831662/",
-      "summary": "John Ludeke, most recently chief brand officer at the Unilever brand, is tasked with deepening consumer connections to the fast-casual chain.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "This eerily realistic animation is guaranteed to make your skin crawl",
-      "link": "https://www.creativebloq.com/art/animation/this-eerily-realistic-animation-is-guaranteed-to-make-your-skin-crawl",
-      "summary": "Watch fabric tear itself apart and then heal itself.",
+      "title": "A super realistic take on Disney's Stitch and a stylised Samus helped this 3D artist expand his range",
+      "link": "https://www.creativebloq.com/3d/3d-art/a-super-realistic-take-on-disneys-stitch-and-a-stylised-samus-helped-this-3d-artist-expand-his-range",
+      "summary": "Check out the 3D art of Juan Hernández.",
       "source": "Creative Bloq"
     },
     {
-      "title": "How indie game Inkblood's hand-drawn art makes a 2D world feel alive",
-      "link": "https://www.creativebloq.com/3d/video-game-design/how-indie-game-inkbloods-hand-drawn-art-makes-a-2d-world-feel-alive",
-      "summary": "The game's weird vision of early-20th-century Central Europe draws on cutout animation and cult Czech cinema.",
+      "title": "Erling Haaland files lawsuit against Norwegian Air for unexpected reason",
+      "link": "https://www.creativebloq.com/design/branding/erling-haaland-files-lawsuit-against-norwegian-air-for-unexpected-reason",
+      "summary": "Is the footballer’s legal team splitting hairs?",
       "source": "Creative Bloq"
     },
     {
-      "title": "The Freckle phone is here to save your kids from brainrot",
-      "link": "https://www.creativebloq.com/tech/phones-tablets/the-freckle-phone-is-here-to-save-your-kids-from-brainrot",
-      "summary": "It encourages them to explore, not scroll.",
+      "title": "Everyone's making mountain-inspired logos in 2026 - here's what that tells us",
+      "link": "https://www.creativebloq.com/design/logos-icons/everyones-making-mountain-inspired-logos-in-2026-heres-what-that-tells-us",
+      "summary": "From Toblerone to Alpes 2030, this simple symbol never seems to lose its visual power.",
       "source": "Creative Bloq"
     },
     {
-      "title": "\"I don’t have a plan for what I want to create\": Bente Schlick on the feeling and spontaneity in her fantasy illustrations",
-      "link": "https://www.creativebloq.com/art/illustration/i-dont-have-a-plan-for-what-i-want-to-create-bente-schlick-on-the-feeling-and-spontaneity-in-her-fantasy-illustrations",
-      "summary": "The successful book cover illustrator reveals her art process.",
+      "title": "Warner Bros and Paramount's Skydance rebrand isn't going down well",
+      "link": "https://www.creativebloq.com/entertainment/warner-bros-and-paramounts-skydance-rebrand-isnt-going-down-well",
+      "summary": "It's reminding people why the merger is so controversial.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Quote of the Day by Louise Bourgeois: \"I have been to hell and back. And let me tell you, it was wonderful.\"",
-      "link": "https://www.creativebloq.com/art/quote-of-the-day-by-louise-bourgeois-i-have-been-to-hell-and-back-and-let-me-tell-you-it-was-wonderful",
-      "summary": "Surviving the worst things life can throw at you and being able to joke about it.",
+      "title": "The best multicolour 3D printer for beginners has $130 off in Amazon's early Prime Day sale",
+      "link": "https://www.creativebloq.com/3d/3d-printing/the-best-multicolour-3d-printer-for-beginners-has-usd130-off-in-amazons-early-prime-day-sale",
+      "summary": "The Anycubic Kobra X is now just $329.99.",
       "source": "Creative Bloq"
     }
   ]
