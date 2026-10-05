@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-05",
   "marketing": [
+    {
+      "title": "Papa Johns’ CMO on how the brand is reasserting itself as delivery evolves",
+      "link": "https://www.marketingdive.com/news/papa-johns-cmo-on-how-the-brand-is-reasserting-itself-as-delivery-evolves/831855/",
+      "summary": "Newly appointed Global CMO Chris Lyn-Sue digs into the chain&rsquo;s Walmart Express Delivery partnership and his plans for the rest of the year.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "The 2026 webinar audience behavior report",
+      "link": "https://www.marketingdive.com/spons/the-2026-webinar-audience-behavior-report/831727/",
+      "summary": "What attendees say they want, what Zoom data shows and the new rules for better webinar performance.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "The architects and the renters: A leader’s guide to building a resilient AI foundation",
+      "link": "https://www.marketingdive.com/spons/the-architects-and-the-renters-a-leaders-guide-to-building-a-resilient-ai/831581/",
+      "summary": "A new, fundamental chasm is opening up in the business world: the divide between the Renters and the Architects.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Midsize brewers shake up marketing strategies as Americans drink less",
       "link": "https://www.marketingdive.com/news/midsize-brewers-shake-up-marketing-strategies-as-americans-drink-less/831982/",
@@ -12,55 +30,37 @@
       "link": "https://www.marketingdive.com/news/cmos-in-a-pressure-cooker-as-tenure-shrinks-demands-multiply-study/831775/",
       "summary": "Over a quarter of marketers hired this year have AI-ready skill sets versus 9% of CMOs who have been in the role for over four years.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "Discord steps up play for mobile advertisers with rewarded video product",
-      "link": "https://www.marketingdive.com/news/discord-steps-up-play-for-mobile-advertisers-with-rewarded-video-product/831808/",
-      "summary": "A new format and the chat platform&rsquo;s first Ads Manager for running campaigns arrive&nbsp;as gaming becomes an increasingly important channel for marketers.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Sociable: TikTok adds certification tiers for agency partners",
-      "link": "https://www.marketingdive.com/news/sociable-tiktok-adds-certification-tiers-for-agency-partners/831892/",
-      "summary": "The platform will offer Agency Partner or Premier Agency Partner badges to assure marketers that partnership requirements have been met.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Reese’s searches for ‘trick-or-treatiest street’ in multichannel effort",
-      "link": "https://www.marketingdive.com/news/reeses-searches-for-trick-or-treatiest-street-in-multichannel-effort/831813/",
-      "summary": "The Hershey brand is teaming with creators and celebrities for a social content series analyzing 150 of the best streets for Halloween festivities.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "Weird girls, your next shelf collectible is a stack of Robert Pattinsons",
-      "link": "https://www.creativebloq.com/entertainment/weird-girls-your-next-shelf-collectible-is-a-stack-of-robert-pattinsons",
-      "summary": "Why A24’s nesting dolls are perfect.",
+      "title": "Celebrate James Bond Day with these gifts for 007 fans",
+      "link": "https://www.creativebloq.com/design/product-design/celebrate-james-bond-day-with-these-gifts-for-007-fans",
+      "summary": "Memorablia, pens, puzzles and more.",
       "source": "Creative Bloq"
     },
     {
-      "title": "\"For me, drawing is thinking out loud on canvas\": Simon Pape on his process for creating a fantasy underwater scene",
-      "link": "https://www.creativebloq.com/art/digital-art/for-me-drawing-is-thinking-out-loud-on-canvas-simon-pape-on-his-process-for-creating-a-fantasy-underwater-scene",
-      "summary": "The freelance illustrator sees narrative as vital for inspiring creative decisions in art.",
+      "title": "The Brisbane 2032 Olympics logo is hiding a triple design in plain sight",
+      "link": "https://www.creativebloq.com/design/logos-icons/the-brisbane-2032-olympics-logo-is-hiding-a-triple-design-in-plain-sight",
+      "summary": "Can you identify the hidden meanings?",
       "source": "Creative Bloq"
     },
     {
-      "title": "Adobe's AI text-to-3D world concept is a glimpse of where Firefly could go next",
-      "link": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
-      "summary": "Ambitious AI patents suggest that Adobe's thinking beyond 2D.",
+      "title": "Brands are performing nostalgia to hook you: here's why",
+      "link": "https://www.creativebloq.com/design/branding/brands-are-performing-nostalgia-to-hook-you-heres-why",
+      "summary": "Not every brand has heritage to lean into, but they're doing it anyway.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Free Premiere on Android is exactly the direction Adobe should be taking",
-      "link": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking",
-      "summary": "Adobe's free video editor for Android isn't perfect, but it's the kind of generous move that could win creatives back.",
+      "title": "How to create a heroic indie comic cover",
+      "link": "https://www.creativebloq.com/art/digital-art/how-to-create-a-heroic-indie-comic-cover",
+      "summary": "Partha Pratim Sarkar shows how storytelling and bold inks can create a dynamic black-and-white composition before colouring.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Disney's Lionel Messi cartoon looks unlike what anyone expected",
-      "link": "https://www.creativebloq.com/art/animation/disneys-lionel-messi-cartoon-isnt-what-anyone-expected",
-      "summary": "Forget football, Disney's Messi takes on giant monsters with orbs.",
+      "title": "The new Harry Potter has reopened a hot debate about colour grading",
+      "link": "https://www.creativebloq.com/design/logos-icons/the-new-harry-potters-reopened-a-hot-debate-about-colour-grading",
+      "summary": "More grounded, or just less magical?",
       "source": "Creative Bloq"
     }
   ]
