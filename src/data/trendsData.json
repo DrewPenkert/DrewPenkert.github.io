@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-08",
   "marketing": [
+    {
+      "title": "CMOs see their internal influence rising. Has it come at a cost?",
+      "link": "https://www.marketingdive.com/news/cmos-see-their-internal-influence-rising-has-it-come-at-a-cost/832335/",
+      "summary": "Marketers at Advertising Week say growth mandates have given them a bigger seat at the table, but research points to downsides for external brand trust.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Nutella heads to Super Bowl, part of Ferrero’s $50M marketing bet in 2027",
       "link": "https://www.marketingdive.com/news/nutella-heads-to-super-bowl-part-of-ferreros-50m-marketing-bet-in-2027/832311/",
@@ -24,43 +30,37 @@
       "link": "https://www.marketingdive.com/news/how-brands-deeper-creator-deals-are-unlocking-cost-efficiencies-results/832205/",
       "summary": "Marketers at Chili&rsquo;s, Disney and Alaska Airlines spoke about how far the creator canvas has broadened at Advertising Week.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "TikTok broadens agentic AI play, brings global ad network to US",
-      "link": "https://www.marketingdive.com/news/tiktok-broadens-agentic-ai-play-brings-global-ad-network-to-us/832007/",
-      "summary": "New products timed to Advertising Week see the video-sharing app boasting of its economic might ahead of the busy holiday season.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "“For this piece, I challenged myself to work with a limited, high-key palette. I wanted to preserve depth while using mostly light colours where I could”",
-      "link": "https://www.creativebloq.com/art/digital-art/for-this-piece-i-challenged-myself-to-work-with-a-limited-high-key-palette-i-wanted-to-preserve-depth-while-using-mostly-light-colours-where-i-could",
-      "summary": "Game artist Polina Kirillov on her experiments with characters and colour.",
+      "title": "Clive Barker's Hellraiser: Revival review: visually inventive, risky and authentic, but has its limitations",
+      "link": "https://www.creativebloq.com/entertainment/gaming/clive-barkers-hellraiser-revival-review-borrows-from-bioshock-for-a-horror-thats-more-pleasure-than-pain",
+      "summary": "Dresses its familiarity in faithfully grotesque design.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Jaguar's controversial rebrand finally makes sense with the unveiling of the bold Type 01",
-      "link": "https://www.creativebloq.com/design/product-design/jaguars-dramatic-type-01-finally-makes-sense-of-the-controversial-rebrand",
-      "summary": "It's a car design you'll either love or hate.",
+      "title": "The You Can See Everything poster will haunt my nightmares forever",
+      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/the-you-can-see-everything-poster-will-haunt-my-nightmares-forever",
+      "summary": "Is this a documentary or a horror movie?",
       "source": "Creative Bloq"
     },
     {
-      "title": "One of the most impressive sub-$200 earphones of 2026 just got reduced by 20% to $152",
-      "link": "https://www.creativebloq.com/tech/headphones-earbuds/one-of-the-most-impressive-sub-usd200-earphones-of-2026-just-got-reduced-by-20-percent-to-usd152",
-      "summary": "This may be the perfect 'neutral with bass-boost' IEM, and it's now great value.",
+      "title": "This indie game about AI doesn't use gen-AI but features a lot of content from real people and creators",
+      "link": "https://www.creativebloq.com/3d/video-game-design/this-indie-game-about-ai-doesnt-use-gen-ai-but-features-a-lot-of-content-from-real-people-and-creators",
+      "summary": "How Salix Games maximised its skillset for minimum budget for AI-themed narrative thriller Limerence.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Get those extra ports you need with up to 25% off these versatile docks",
-      "link": "https://www.creativebloq.com/tech/peripherals/get-those-extra-ports-you-need-with-up-to-25-percent-off-these-versatile-docks",
-      "summary": "Our top pick offers blazing-fast Thunderbolt 5 speeds.",
+      "title": "Fanta's AI slop Halloween advert is a real horror show",
+      "link": "https://www.creativebloq.com/ai/fantas-ai-slop-halloween-advert-is-a-real-horror-show",
+      "summary": "Is it even worse than the Coca-Cola Christmas advert?",
       "source": "Creative Bloq"
     },
     {
-      "title": "Protect your spine and make big savings, with these Prime Day office chair deals",
-      "link": "https://www.creativebloq.com/tech/chairs-desks/protect-your-spine-and-make-big-savings-with-these-prime-day-office-chair-deals",
-      "summary": "Your back deserves better, so here are the best Prime Day office chair deals on models we've tested and loved",
+      "title": "The daleks in the new animated Doctor Who do kind of look of familiar...",
+      "link": "https://www.creativebloq.com/entertainment/movies-tv-shows/the-daleks-in-the-new-animated-doctor-who-do-kind-of-look-of-familiar",
+      "summary": "But some of the criticism of the series' artwork is ridiculous.",
       "source": "Creative Bloq"
     }
   ]
