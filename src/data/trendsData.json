@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-13",
   "marketing": [
+    {
+      "title": "Brand new bag: Chipotle, Unreal Snacks reach for fashion relevancy",
+      "link": "https://www.marketingdive.com/news/brand-new-bag-chipotle-unreal-snacks-reach-for-fashion-relevancy/832488/",
+      "summary": "A &ldquo;Big Ass Chipotle Bag&rdquo; and a clutch made to fit Unreal treats join a trend that has seen a handful of marketers use fashion as a way to grow loyalty.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Vizio ramps up creator-led programming in bid for CTV ad dollars",
+      "link": "https://www.marketingdive.com/news/vizio-ramps-up-creator-led-programming-in-bid-for-ctv-ad-dollars/832640/",
+      "summary": "The Walmart-owned connected TV platform is also expanding premium programming partnerships and releasing an original film sponsored by Geico.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "‘Don’t be boring’: How Smirnoff, Hinge cozy up to Gen Z through culture",
       "link": "https://www.marketingdive.com/news/dont-be-boring-how-smirnoff-hinge-cozy-up-to-gen-z-through-culture/832572/",
-      "summary": "As younger consumers avoid bars and change their approach to dating, Smirnoff and Hinge marketers discussed how brands can get on Gen Z&rsquo;s level at Advertising Week.",
+      "summary": "As younger consumers avoid bars and change their approach to dating, the marketers discussed how brands can get on Gen Z&rsquo;s level at Advertising Week.",
       "source": "Marketing Dive"
     },
     {
@@ -14,53 +26,41 @@
       "source": "Marketing Dive"
     },
     {
-      "title": "How AI use in webinars builds a program that compounds",
-      "link": "https://www.marketingdive.com/spons/how-ai-use-in-webinars-builds-a-program-that-compounds/832206/",
-      "summary": "The top 10% of webinar programs get 27x more registrations. New Zoom data shows how. Read more now.",
-      "source": "Marketing Dive"
-    },
-    {
       "title": "Why the joy of checking out belongs in every holiday media plan",
       "link": "https://www.marketingdive.com/spons/why-the-joy-of-checking-out-belongs-in-every-holiday-media-plan/832626/",
       "summary": "Turn the joy of checkout into an opportunity to reach new customers and drive holiday growth.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Volkswagen’s CMO on driving emotional connection through partnerships",
-      "link": "https://www.marketingdive.com/news/volkswagens-cmo-on-driving-emotional-connection-through-partnerships/832455/",
-      "summary": "Rachael Zaluzec digs into the brand&rsquo;s newly expanded work with U.S. Soccer and NBCUniversal.",
       "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "All streaming platforms will eventually run ads, and here’s why",
-      "link": "https://www.creativebloq.com/news/all-streaming-platforms-will-eventually-run-ads-and-heres-why",
-      "summary": "The dream of streaming is turning into a nightmare.",
+      "title": "Everyone's saying the same thing about Epic’s AI-first Disney game – and it's not good",
+      "link": "https://www.creativebloq.com/news/everyones-saying-the-same-thing-about-epics-ai-first-disney-game-and-its-not-good",
+      "summary": "Fans aren’t buying Epic’s promise of “MORE and BETTER stuff”.",
       "source": "Creative Bloq"
     },
     {
-      "title": "New Sour Patch Kids billboard destroys Oreo (literally)",
-      "link": "https://www.creativebloq.com/news/new-sour-patch-kids-billboard-destroys-oreo-literally",
-      "summary": "It gives a new meaning to taking down the competition.",
+      "title": "Huion Kamvas Pad 12 review: a budget Android drawing tablet that gets the small things right",
+      "link": "https://www.creativebloq.com/reviews/huion-kamvas-pad-12-review-a-budget-android-drawing-tablet-that-gets-the-small-things-right",
+      "summary": "An improvement on Huion's first tablet with a stylus that does just enough to impress, but it won't worry Wacom or Apple.",
       "source": "Creative Bloq"
     },
     {
-      "title": "I'm a creative professional, and the Xiaomi 17T Pro is one of the best camera phones ever made",
-      "link": "https://www.creativebloq.com/reviews/im-a-creative-professional-and-the-xiaomi-17t-pro-is-one-of-the-best-camera-phones-ever-made",
-      "summary": "Performs well and looks great - what's not to love?",
+      "title": "How Michelangelo’s handwriting became a Microsoft font",
+      "link": "https://www.creativebloq.com/news/how-michelangelos-handwriting-became-its-own-microsoft-font",
+      "summary": "Studiogusto delved into Vatican archives to honour a creative legend.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Now AI isn't just faking art, it's faking artists' signatures as well",
-      "link": "https://www.creativebloq.com/news/now-ai-isnt-just-faking-art-its-faking-artists-signatures-as-well",
-      "summary": "ChatGPT has been making fake New Yorker cartoons",
+      "title": "I tried those free AI-coded Adobe Creative Cloud clones, and they have some big problems",
+      "link": "https://www.creativebloq.com/news/i-tried-those-free-ai-coded-adobe-creative-cloud-clones-and-they-have-some-big-problems",
+      "summary": "ArtCraft isn't ready to replace Adobe's Photoshop and Premiere yet.",
       "source": "Creative Bloq"
     },
     {
-      "title": "This viral packaging plays on a meme the brand ignored for decades",
-      "link": "https://www.creativebloq.com/news/this-ingenious-packaging-design-went-viral-simply-by-recognising-how-people-were-already-using-it",
-      "summary": "Lala finally acknowledged its other role in Mexican households.",
+      "title": "Castlevania: Belmont's Curse review: a gorgeous return that plays it safe",
+      "link": "https://www.creativebloq.com/reviews/castlevania-belmonts-curse-review-a-new-adventure-with-a-new-generation-of-belmont-in-the-shadow-of-modern-metroidvanias",
+      "summary": "Evil Empire brings Konami's influential series out of hibernation, but does it add more to the series' legacy?",
       "source": "Creative Bloq"
     }
   ]
