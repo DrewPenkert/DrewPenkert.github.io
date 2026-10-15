@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-10-15",
   "marketing": [
+    {
+      "title": "5 ways marketers can make a lasting impact with Gen Alpha",
+      "link": "https://www.marketingdive.com/news/5-ways-marketers-can-make-a-lasting-impact-with-gen-alpha/832805/",
+      "summary": "Brands, agencies and platforms with a finger on the pulse took to Advertising Week to break down the group&rsquo;s habits with AI, creators and co-viewing.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Applebee’s CMO on differentiating marketing in a value-obsessed industry",
+      "link": "https://www.marketingdive.com/news/applebees-cmo-on-differentiating-marketing-in-a-value-obsessed-industry/832838/",
+      "summary": "Michelle Chin digs into how the casual dining chain&rsquo;s marketing is evolving, including through a new partnership with agency BBDO Chicago.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Publicis calls AI marketing opportunity a ‘2-speed boat’ as agentic booms",
       "link": "https://www.marketingdive.com/news/publicis-calls-ai-marketing-opportunity-a-2-speed-boat-as-agentic-booms/832836/",
@@ -18,49 +30,37 @@
       "link": "https://www.marketingdive.com/news/brand-new-bag-chipotle-unreal-snacks-reach-for-fashion-relevancy/832488/",
       "summary": "A &ldquo;Big Ass Chipotle Bag&rdquo; and a clutch made to fit Unreal treats join a trend that has seen a handful of marketers use fashion as a way to grow loyalty.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "Vizio ramps up creator-led programming in bid for CTV ad dollars",
-      "link": "https://www.marketingdive.com/news/vizio-ramps-up-creator-led-programming-in-bid-for-ctv-ad-dollars/832640/",
-      "summary": "The Walmart-owned connected TV platform is also expanding premium programming partnerships and releasing an original film sponsored by Geico.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "‘Don’t be boring’: How Smirnoff, Hinge cozy up to Gen Z through culture",
-      "link": "https://www.marketingdive.com/news/dont-be-boring-how-smirnoff-hinge-cozy-up-to-gen-z-through-culture/832572/",
-      "summary": "As younger consumers avoid bars and change their approach to dating, the marketers discussed how brands can get on Gen Z&rsquo;s level at Advertising Week.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "HomeView shows Apple still designs hardware better than anyone",
-      "link": "https://www.creativebloq.com/news/homeview-shows-apple-still-designs-hardware-better-than-anyone",
-      "summary": "I don't want a smart home, but I do want this device.",
+      "title": "No amount of renaming can fix AI's growing reputation problem.",
+      "link": "https://www.creativebloq.com/news/elon-musks-attempts-to-rebrand-ai-slop-are-hilarious-but-they-betray-a-deeper-truth",
+      "summary": "No amount of renaming can fix AI's growing reputation problem.",
       "source": "Creative Bloq"
     },
     {
-      "title": "This digital calendar helped my chronically disorganised family function better",
-      "link": "https://www.creativebloq.com/reviews/this-digital-calendar-helped-my-chronically-disorganised-family-function-better",
-      "summary": "The Everblog HomeCal is a sleek addition with helpful functionality.",
+      "title": "This artist's epic pencil art has made him a rising star in indie comics",
+      "link": "https://www.creativebloq.com/inspiration/this-artists-epic-pencil-art-has-made-him-a-rising-star-in-indie-comics",
+      "summary": "Discover the work of Fábio Simão dos Santos.",
       "source": "Creative Bloq"
     },
     {
-      "title": "This artist uses pencils and watercolours to capture whimsical fantasies inspired by the magic and wonder he found in books and nature as a child",
-      "link": "https://www.creativebloq.com/inspiration/this-artist-uses-pencils-and-watercolours-to-capture-whimsical-fantasies-inspired-by-the-magic-and-wonder-he-found-in-books-and-nature-as-a-child",
-      "summary": "Discover the art of Gabriel Ribeiro.",
+      "title": "The $20,000 MrBeast logo auction isn't as ridiculous as it seems",
+      "link": "https://www.creativebloq.com/news/the-usd20-000-mrbeast-logo-auction-isnt-as-ridiculous-as-it-seems",
+      "summary": "How much is a logo worth?",
       "source": "Creative Bloq"
     },
     {
-      "title": "Apple's HomeView advert is stressing people out",
-      "link": "https://www.creativebloq.com/news/apples-homeview-advert-is-stressing-people-out",
-      "summary": "Who wants to be this family?",
+      "title": "Figma finally answers the question of what design feels like – using dance",
+      "link": "https://www.creativebloq.com/news/figma-finally-answers-the-question-of-what-design-feels-like-using-dance",
+      "summary": "(Both the highs and the lows).",
       "source": "Creative Bloq"
     },
     {
-      "title": "This tiny portable SSD that transforms iPhone videography has $150 off",
-      "link": "https://www.creativebloq.com/deals/this-tiny-portable-ssd-that-transforms-iphone-videography-has-usd150-off",
-      "summary": "The Lexar Professional Go is down to $229 at B&H Photo.",
+      "title": "GTA 3’s original cover was axed after 9/11, and its artist disputes the story",
+      "link": "https://www.creativebloq.com/news/gta-3s-original-cover-was-axed-after-9-11-and-its-artist-disputes-the-story",
+      "summary": "Was the iconic Grand Theft Auto cover design – as being used for GTA 6 – really a 'rush job'?",
       "source": "Creative Bloq"
     }
   ]
