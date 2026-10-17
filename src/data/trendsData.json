@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-17",
   "marketing": [
+    {
+      "title": "Optimizing ad spend ahead of Black Friday: What the numbers say",
+      "link": "https://www.marketingdive.com/news/optimizing-ad-spend-ahead-of-black-friday-what-the-numbers-say/833154/",
+      "summary": "Advertisers who added new creative weekly saw a 23% higher return on investment compared to those who only added creative once or twice.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "What marketers need to know from Advertising Week New York 2026",
+      "link": "https://www.marketingdive.com/news/what-marketers-need-to-know-from-advertising-week-new-york-2026/833139/",
+      "summary": "Marketers from Smirnoff, Liquid Death and Chili&rsquo;s converged at AWNY to talk AI, connecting with culture and the evolving creator economy.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Arby’s hires ex-Papa Johns CMO to balance brand-building, sales growth",
       "link": "https://www.marketingdive.com/news/arbys-hires-ex-papa-johns-cmo-to-balance-brand-building-sales-growth/833184/",
@@ -18,49 +30,37 @@
       "link": "https://www.marketingdive.com/news/wendys-signs-on-as-first-sponsor-for-in-app-bravo-fan-experience/833067/",
       "summary": "The hub features a personalized feed of content curated from popular franchises and an artificial intelligence-generated avatar of Andy Cohen.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "Sociable: TikTok inks microdrama partnership with Made By Us studios",
-      "link": "https://www.marketingdive.com/news/sociable-tiktok-inks-microdrama-partnership-with-made-by-us-studios/833115/",
-      "summary": "The content deal gives TikTok exclusive rights to select microdrama series from several high-profile creators.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Consumer goods giants step up ad intensity as other big spenders pull back: report",
-      "link": "https://www.marketingdive.com/news/consumer-goods-giants-step-up-ad-intensity-as-other-big-spenders-pull-back/833102/",
-      "summary": "Divergent paths for tech firms and categories like CPG and beauty and cosmetics underpin what WARC calls a &ldquo;two-speed marketplace.&rdquo;",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "Designers are cringing at Tate McRae’s new single cover",
-      "link": "https://www.creativebloq.com/news/designers-are-cringing-at-tate-mcraes-new-single-cover",
-      "summary": "Not the ultra fine!",
+      "title": "Wired headphones are suddenly all the rage, and the best we've tested has £40 off",
+      "link": "https://www.creativebloq.com/deals/wired-headphones-are-suddenly-all-the-rage-and-the-best-weve-tested-has-gbp40-off",
+      "summary": "With their excellent neutral sound profile, the Sennheiser 480 Pro are a one-way street.",
       "source": "Creative Bloq"
     },
     {
-      "title": "This 3D artist explores fractured identities in a striking ZBrush sculpt",
-      "link": "https://www.creativebloq.com/inspiration/this-3d-artist-explores-fractured-identities-in-a-striking-zbrush-sculpt",
-      "summary": "Check out the 3D art of Skander Mallouki.",
+      "title": "Olivia Rodrigo’s expectations music video hit with AI allegations",
+      "link": "https://www.creativebloq.com/news/olivia-rodrigos-expectations-music-video-hit-with-ai-allegations",
+      "summary": "Not to alarm you, but Chappell Roan appears to be missing an arm…",
       "source": "Creative Bloq"
     },
     {
-      "title": "Apple Music’s ‘miserable’ new logo is giving mixed messages",
-      "link": "https://www.creativebloq.com/news/apple-musics-miserable-new-logo-is-giving-mixed-messages",
-      "summary": "I thought we were done with minimalism?",
+      "title": "Angry Birds just flapped its way into the Kelly Clarkson feud with a cheeky animated poster design",
+      "link": "https://www.creativebloq.com/news/angry-birds-just-flapped-its-way-into-the-kelly-clarkson-feud-in-a-cheeky-animated-poster-design",
+      "summary": "Chuck shows that anything can be a marketing opportunity.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Quote of the Day by LAIKA’s Nelson Lowry: \"When the challenges are that raw, you just make mistakes, and you learn from them\"",
-      "link": "https://www.creativebloq.com/inspiration/quote-of-the-day-by-laikas-nelson-lowry-when-the-challenges-are-that-raw-you-just-make-mistakes-and-you-learn-from-them",
-      "summary": "The Wildwood production designer shares why you have to get things wrong to get them right.",
+      "title": "Tesla's 'flying car' is as convincing as the Cybertruck being a boat",
+      "link": "https://www.creativebloq.com/news/teslas-flying-car-is-as-convincing-as-the-cybertruck-being-a-boat",
+      "summary": "Can the Roadster's gymnastics help Elon Musk's brand regain momentum?",
       "source": "Creative Bloq"
     },
     {
-      "title": "Disney's latest Hexed announcement is causing even more controversy",
-      "link": "https://www.creativebloq.com/news/disneys-latest-hexed-announcement-is-causing-even-more-controversy",
-      "summary": "Fans of a certain animated series are vexed.",
+      "title": "Are you triggered by GTA 6's giant Paris advert?",
+      "link": "https://www.creativebloq.com/news/are-you-triggered-by-the-design-problem-with-gta-6s-giant-paris-advert",
+      "summary": "Rockstar's iconic cover art has had its guns removed.",
       "source": "Creative Bloq"
     }
   ]
