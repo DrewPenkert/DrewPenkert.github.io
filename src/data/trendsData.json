@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-10-19",
   "marketing": [
-    {
-      "title": "Optimizing ad spend ahead of Black Friday: What the numbers say",
-      "link": "https://www.marketingdive.com/news/optimizing-ad-spend-ahead-of-black-friday-what-the-numbers-say/833154/",
-      "summary": "Advertisers who added new creative weekly saw a 23% higher return on investment compared to those who only added creative once or twice.",
-      "source": "Marketing Dive"
-    },
     {
       "title": "What marketers need to know from Advertising Week New York 2026",
       "link": "https://www.marketingdive.com/news/what-marketers-need-to-know-from-advertising-week-new-york-2026/833139/",
       "summary": "Marketers from Smirnoff, Liquid Death and Chili&rsquo;s converged at AWNY to talk AI, connecting with culture and the evolving creator economy.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Optimizing ad spend ahead of Black Friday: What the numbers say",
+      "link": "https://www.marketingdive.com/news/optimizing-ad-spend-ahead-of-black-friday-what-the-numbers-say/833154/",
+      "summary": "Advertisers who added new creative weekly saw a 23% higher return on investment compared to those who only added creative once or twice.",
       "source": "Marketing Dive"
     },
     {
@@ -20,47 +20,47 @@
       "source": "Marketing Dive"
     },
     {
-      "title": "E.l.f. Cosmetics returns to metaverse on avatar-based gaming platform",
-      "link": "https://www.marketingdive.com/news/elf-cosmetics-returns-to-metaverse-on-avatar-based-gaming-platform/833027/",
-      "summary": "After the success of activations on Roblox and Twitch, the cosmetics brand is partnering with Korea-based Zepeto to showcase its Power Grip line.",
-      "source": "Marketing Dive"
-    },
-    {
       "title": "Wendy’s signs on as first sponsor for in-app Bravo fan experience",
       "link": "https://www.marketingdive.com/news/wendys-signs-on-as-first-sponsor-for-in-app-bravo-fan-experience/833067/",
       "summary": "The hub features a personalized feed of content curated from popular franchises and an artificial intelligence-generated avatar of Andy Cohen.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "E.l.f. Cosmetics returns to metaverse on avatar-based gaming platform",
+      "link": "https://www.marketingdive.com/news/elf-cosmetics-returns-to-metaverse-on-avatar-based-gaming-platform/833027/",
+      "summary": "After the success of activations on Roblox and Twitch, the cosmetics brand is partnering with Korea-based Zepeto to showcase its Power Grip line.",
       "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "\"I think of brushstrokes as having a rhythm\" – Isabella Nalin Fais on her career in concept art",
-      "link": "https://www.creativebloq.com/features/i-think-of-brushstrokes-as-having-a-rhythm-isabella-nalin-fais-on-her-career-in-concept-art",
-      "summary": "The Brazilian-born artist talks about her work and influences.",
+      "title": "Wicker parodies saucy book covers in new film poster",
+      "link": "https://www.creativebloq.com/news/wicker-parodies-saucy-book-covers-in-new-film-poster",
+      "summary": "Why is it oddly beautiful?",
       "source": "Creative Bloq"
     },
     {
-      "title": "With over $400 off, there's finally a decent deal on the 2026 M5 Pro MacBook Pro",
-      "link": "https://www.creativebloq.com/deals/with-over-usd400-off-theres-finally-a-decent-deal-on-the-2026-m5-pro-macbook-pro",
-      "summary": "Beat the RAM crunch with the best MacBook Pro deal in months.",
+      "title": "Warhammer 40,000: Boltgun 2's lead artist reveals how they made pixel art feel authentically retro",
+      "link": "https://www.creativebloq.com/3d/video-game-design/warhammer-40-000-boltgun-2s-lead-artist-reveals-how-they-made-pixel-art-feel-authentically-retro",
+      "summary": "Mark Chambers explains why the crisp retro pixels are not what they seem.",
       "source": "Creative Bloq"
     },
     {
-      "title": "This mechanical keyboard is astonishingly thin, and you can reserve one for $1",
-      "link": "https://www.creativebloq.com/news/this-mechanical-keyboard-is-astonishingly-thin-and-you-can-reserve-one-for-usd1",
-      "summary": "How Andrew Emerson made a keyboard that's just 4.75mm thick",
+      "title": "The Kiwibank sheep went viral for all the wrong reasons, and there's something every brand can learn from it",
+      "link": "https://www.creativebloq.com/news/the-kiwibank-sheep-controversy-suggests-brands-should-give-up-trying-to-control-ai-mascots",
+      "summary": "The controversy shows brands need to be prepared to give up some control.",
       "source": "Creative Bloq"
     },
     {
-      "title": "I think we’re getting a touchscreen Mac, and here’s why that excites me",
-      "link": "https://www.creativebloq.com/news/i-think-were-getting-a-touchscreen-mac-and-heres-why-that-excites-me",
-      "summary": "As an ex-Chromebook user, I couldn’t be happier.",
+      "title": "I pushed Nvidia’s RTX Spark to its limits in our favourite creative laptop",
+      "link": "https://www.creativebloq.com/reviews/i-pushed-nvidias-rtx-spark-to-its-limits-in-our-favourite-creative-laptop",
+      "summary": "Will this spark something?",
       "source": "Creative Bloq"
     },
     {
-      "title": "A fake Mia Goth selfie fooled the internet, and AI slop is the least of it",
-      "link": "https://www.creativebloq.com/news/a-fake-mia-goth-selfie-fooled-the-internet-and-ai-slop-is-the-least-of-it",
-      "summary": "Has social media become a breeding ground for parasocial drama?",
+      "title": "Lily Allen’s provocative poster is a massive middle finger to the Grammys",
+      "link": "https://www.creativebloq.com/news/lily-allens-provocative-poster-is-a-massive-middle-finger-to-the-grammys",
+      "summary": "It’s wonderfully unserious.",
       "source": "Creative Bloq"
     }
   ]
