@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-21",
+  "updatedAt": "2026-10-22",
   "marketing": [
+    {
+      "title": "Netflix lowers ad revenue forecast by 10%, continues to beef up ad suite",
+      "link": "https://www.marketingdive.com/news/netflix-lowers-ad-revenue-forecast-by-10-continues-to-beef-up-ad-suite/833571/",
+      "summary": "While the streamer grew revenue 12% year over year in Q3, it expects ad revenue to come in $300 million lower&nbsp;than previously forecast.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Domino’s links with Minecraft to push personal pizza via gaming",
+      "link": "https://www.marketingdive.com/news/dominos-links-with-minecraft-to-push-personal-pizza-via-gaming/833357/",
+      "summary": "The collaboration with the popular video game includes creator content, in-game items, packaging and giveaways in support of the new Domino offering.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Courvoisier’s first global campaign in years embraces house party culture",
       "link": "https://www.marketingdive.com/news/courvoisiers-first-global-campaign-in-years-embraces-house-party-culture/833481/",
@@ -18,49 +30,37 @@
       "link": "https://www.marketingdive.com/news/dollar-shave-club-markets-perfectly-good-razors-as-ai-push-continues/833343/",
       "summary": "The brand looks to tie together its advertising efforts under an omnichannel campaign, explains Chief Brand and Innovation Officer Laura Higgins.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "Amy’s Kitchen tackles ultra-processed food myths in national campaign",
-      "link": "https://www.marketingdive.com/news/amys-kitchen-tackles-ultra-processed-food-myths-in-national-campaign/833334/",
-      "summary": "The campaign includes Meta and programmatic display ads, in-store signage and a Whole Foods Market activation.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Billion Dollar Boy Group bets B2B is creator marketing’s next big wave",
-      "link": "https://www.marketingdive.com/news/billion-dollar-boy-group-bets-b2b-is-creator-marketings-next-big-wave/833346/",
-      "summary": "The acquisition of Creator Authority, a LinkedIn specialist agency, puts the company on track to top $100 million in global revenue next year.&nbsp;",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "The Creality Sermoon P1S is one of the most affordable hybrid scanners around, but don't throw your scanning spray away just yet",
-      "link": "https://www.creativebloq.com/reviews/the-creality-sermoon-p1s-is-one-of-the-most-affordable-hybrid-scanners-around-but-dont-throw-your-scanning-spray-away-just-yet",
-      "summary": "Powerful, portable, and super versatile",
+      "title": "Disney's Hexed features a hilarious blooper that made it into the final movie",
+      "link": "https://www.creativebloq.com/news/disneys-hexed-features-a-hilarious-blooper-that-made-it-into-the-final-movie",
+      "summary": "And it totally works.",
       "source": "Creative Bloq"
     },
     {
-      "title": "GTA 6 unleashes saucy ads on the streets of Miami",
-      "link": "https://www.creativebloq.com/news/gta-6-unleashes-saucy-ads-on-the-streets-of-miami",
-      "summary": "Reality and fiction are starting to blur.",
+      "title": "Hunter’s Moon takes Bloodborne on a 17th-century stop-motion witch hunt",
+      "link": "https://www.creativebloq.com/features/this-ps5-folk-horror-game-takes-bloodborne-to-a-17th-century-witch-hunt",
+      "summary": "Twin Swans’ debut PS5 folk-horror game blends stop-motion-style puppets with the real history of witch hunts.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Sunlife's new logo design is \"optimised for a digital world\", but does it take minimalism too far?",
-      "link": "https://www.creativebloq.com/news/sunlifes-new-logo-design-is-optimised-for-a-digital-world-but-does-it-take-minimalism-too-far",
-      "summary": "Maximalism fans, look away now.",
+      "title": "This underused Photoshop layer is key for adding atmosphere to fantasy art",
+      "link": "https://www.creativebloq.com/how-to/this-underused-photoshop-layer-is-key-for-adding-atmosphere-to-fantasy-art",
+      "summary": "Artist Christian Angel on how he finesses a high fantasy character scene to add extra atmosphere.",
       "source": "Creative Bloq"
     },
     {
-      "title": "This Lego designer's 37,000-brick KPop Demon Hunters sculpture is pretty epic",
-      "link": "https://www.creativebloq.com/news/this-lego-designers-37-000-brick-kpop-demon-hunters-sculpture-is-pretty-epic",
-      "summary": "The making-of video is so satisfying to watch.",
+      "title": "From Burger King to Shrek, GTA VI trendjacking is going too far",
+      "link": "https://www.creativebloq.com/news/from-burger-king-to-shrek-gta-vi-trend-jacking-is-out-of-control",
+      "summary": "Not everyone can pull off the Vice City look.",
       "source": "Creative Bloq"
     },
     {
-      "title": "DaVinci Resolve Studio just got a very rare 20% discount",
-      "link": "https://www.creativebloq.com/deals/davinci-resolve-studio-just-got-a-super-rare-20-percent-discount",
-      "summary": "Get the full studio version of the pro video editing software for just $236.",
+      "title": "Autodesk reveals how The Cat in the Hat was made in the new Made to Make series",
+      "link": "https://www.creativebloq.com/news/autodesk-reveals-how-the-cat-in-the-hat-was-made-in-the-new-made-to-make-series-",
+      "summary": "The series goes behind the scenes to show the tools that made Warner's new animated movie possible.",
       "source": "Creative Bloq"
     }
   ]
