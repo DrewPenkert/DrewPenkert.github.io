@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "marketing": [
+    {
+      "title": "Walmart CMO breaks down retailer’s Muppet-fueled holiday campaign",
+      "link": "https://www.marketingdive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/833778/",
+      "summary": "For a unified push during the holidays, the retailer is recreating the world of &ldquo;The Muppet Christmas Carol&rdquo; and extending its &ldquo;Who Knew?&rdquo; brand platform.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "The new rules of virtual event strategy in 2026",
+      "link": "https://www.marketingdive.com/spons/the-new-rules-of-virtual-event-strategy-in-2026/833550/",
+      "summary": "Your next webinar shouldn&rsquo;t be a one-off. Here&rsquo;s the framework that keeps audiences returning.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Omnicom-IPG deal ‘substantially completed’ as group wins Coke’s NA media",
       "link": "https://www.marketingdive.com/news/omnicom-ipg-deal-substantially-completed-as-group-wins-cokes-na-media/833837/",
@@ -18,49 +30,37 @@
       "link": "https://www.marketingdive.com/news/campaign-trail-elf-casts-spell-to-deliver-y2k-nostalgia-to-gen-z/833260/",
       "summary": "Created by the beauty marketer&rsquo;s in-house entertainment arm, &ldquo;The e.l.f.ing Magical Sisters&rdquo; evokes memories of &ldquo;Charmed&rdquo; ahead of Halloween.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "Warner Bros. stirs up ‘The Cat in the Hat’ mayhem on Roblox ahead of film",
-      "link": "https://www.marketingdive.com/news/warner-bros-stirs-up-the-cat-in-the-hat-mayhem-on-roblox-ahead-of-film/833689/",
-      "summary": "Players will be able to interact with items inspired by the film and unlock limited avatar items.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Banana Republic debuts TikTok content series in bid for younger shoppers",
-      "link": "https://www.marketingdive.com/news/banana-republic-debuts-tiktok-content-series-in-bid-for-younger-shoppers/833663/",
-      "summary": "The effort spotlights various styles and arrives as parent Gap Inc. continues to emphasize entertainment marketing.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "Just Eat's AI apocalypse raises a glaring question",
-      "link": "https://www.creativebloq.com/news/just-eats-ai-apocalypse-raises-a-pretty-obvious-question",
-      "summary": "Fancy some 'tiger' prawns or a literal toad in the hole?",
+      "title": "Discover the process and Photoshop brushes behind this fantasy book cover",
+      "link": "https://www.creativebloq.com/how-to/discover-the-process-and-photoshop-brushes-behind-this-fantasy-book-cover",
+      "summary": "Fantasy artist Peng Lu reveals all.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Why do AI platforms want humans to design their branding?",
-      "link": "https://www.creativebloq.com/news/why-do-ai-platforms-want-humans-to-design-their-branding",
-      "summary": "AI firms keep hiring human designers. Ironic much?",
+      "title": "Phantom Blade Zero review: dark wuxia martial arts masters with an apprentice's execution",
+      "link": "https://www.creativebloq.com/reviews/phantom-blade-zero-review-dark-wuxia-martial-arts-masters-with-an-apprentices-execution",
+      "summary": "S-Game's Unreal Engine 5 'kungfupunk' debut can't help but get tangled in frustrating design choices.",
       "source": "Creative Bloq"
     },
     {
-      "title": "These premium earbuds have a game-changing feature that Apple AirPods will never get",
-      "link": "https://www.creativebloq.com/deals/these-premium-earbuds-have-a-game-changing-feature-that-apple-airpods-will-never-get",
-      "summary": "The Sennheiser MOMENTUM True Wireless 5 offer sleek build, active-noise cancellation and could last a lot longer than rivals.",
+      "title": "These beautiful buds bring expertly tuned audiophile sound to wireless inner-ear headphones",
+      "link": "https://www.creativebloq.com/deals/these-beautiful-buds-bring-audiophile-sound-quality-to-wireless-inner-ear-headphones",
+      "summary": "The Status Pro X GoldenSound Edition offer a specialist signature tuning that targets a more acoustic-friendly and realistic presentation.",
       "source": "Creative Bloq"
     },
     {
-      "title": "How Ben & Jerry's became a beacon of brand bravery",
-      "link": "https://www.creativebloq.com/news/how-ben-and-jerrys-became-a-beacon-of-brand-bravery",
-      "summary": "We caught up with the brand's Chief Marketing Officer to find out how Ben & Jerry's puts its values into practice.",
+      "title": "Uh oh, the iPhone Duo complaints have begun",
+      "link": "https://www.creativebloq.com/news/the-iphone-duo-complaints-have-begun",
+      "summary": "Can all of these issues be fixed?",
       "source": "Creative Bloq"
     },
     {
-      "title": "The Atlanta Falcons 'Nazi' logo controversy strikes again",
-      "link": "https://www.creativebloq.com/news/the-atlanta-falcons-nazi-logo-controversy-strikes-again",
-      "summary": "(And this time even harder).",
+      "title": "\"If I start at 8am, I feel I've lost the day already,\" manga artist Yé Wei shows us his obsessively organised art studio",
+      "link": "https://www.creativebloq.com/features/if-i-start-at-8am-i-feel-ive-lost-the-day-already-manga-artist-ye-wei-shows-around-his-obsessively-organised-art-studio",
+      "summary": "Esquissewei has a split studio with two desks, 3,000 markers and a bed for breaking the day in half.",
       "source": "Creative Bloq"
     }
   ]
