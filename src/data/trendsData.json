@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-27",
+  "updatedAt": "2026-10-28",
   "marketing": [
+    {
+      "title": "Patrón embraces Día de Muertos for one-night only comedy show",
+      "link": "https://www.marketingdive.com/news/patron-embraces-dia-de-muertos-for-one-night-only-comedy-show/872814/",
+      "summary": "The Bacardi brand is promoting the event, which includes guest experiences and custom cocktails, across paid social and OOH channels.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "What McDonald’s dropping its FIFA sponsorship means for sports marketing",
+      "link": "https://www.marketingdive.com/news/what-mcdonalds-dropping-its-fifa-sponsorship-means-for-sports-marketing/872775/",
+      "summary": "The fast-food giant's marketing model is evolving, which could have downstream implications for QSR competitors&rsquo; marketing efforts.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Publicis installs leadership atop Marcel as agentic drives growth plans",
       "link": "https://www.marketingdive.com/news/publicis-installs-leadership-atop-marcel-as-agentic-drives-growth-plans/872691/",
@@ -18,49 +30,37 @@
       "link": "https://www.marketingdive.com/news/why-clorox-shifted-from-creating-brand-campaigns-to-systems-of-relevance/838232/",
       "summary": "CMO Eric Schwartz dug into Pine-Sol, Brita and Hidden Valley marketing that prioritized&nbsp;&ldquo;intentional but flexible&rdquo; and &ldquo;insightful but bite-sized&rdquo; efforts.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "Walmart CMO breaks down retailer’s Muppet-fueled holiday campaign",
-      "link": "https://www.marketingdive.com/news/walmart-cmo-breaks-down-retailers-muppet-fueled-holiday-campaign/833778/",
-      "summary": "For a unified push during the holidays, the retailer is recreating the world of &ldquo;The Muppet Christmas Carol&rdquo; and extending its &ldquo;Who Knew?&rdquo; brand platform.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "The new rules of virtual event strategy in 2026",
-      "link": "https://www.marketingdive.com/spons/the-new-rules-of-virtual-event-strategy-in-2026/833550/",
-      "summary": "Your next webinar shouldn&rsquo;t be a one-off. Here&rsquo;s the framework that keeps audiences returning.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "How artworks from classic films inspired this matte painter and director",
-      "link": "https://www.creativebloq.com/features/how-artworks-from-classic-films-inspired-this-matte-painter-and-director",
-      "summary": "Ian Vicknair reveals the inspirations behind his highly detailed environment work.",
+      "title": "Coca-Cola gives everyday heroes the royal treatment in posh portrait campaign",
+      "link": "https://www.creativebloq.com/news/coca-cola-gives-everyday-heroes-the-royal-treatment-in-posh-portrait-campaign",
+      "summary": "Real royal artists were commissioned to honour local legends from",
       "source": "Creative Bloq"
     },
     {
-      "title": "Apple event LIVE: Touchscreen MacBook Pro, iPad mini, iMac and more",
-      "link": "https://www.creativebloq.com/live/news/apple-pro-and-tell-event",
-      "summary": "Every ‘Pro and Tell’ announcement as it happens.",
+      "title": "XPPen Magic Pro 13 review: a premium Android drawing tablet for work and play",
+      "link": "https://www.creativebloq.com/reviews/xppen-magic-pro-13-review-a-premium-android-drawing-tablet-for-work-and-play",
+      "summary": "XPPen’s Magic Pro 13 is an Android art tablet that also works as a desktop pen display, making it genuinely hard to choose between XPPen and Wacom.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Save $100 on XPPen’s new Magic Pro 13, an Android drawing tablet that turns into a desktop pen display",
-      "link": "https://www.creativebloq.com/news/xppens-new-magic-pro-13-is-an-android-drawing-tablet-that-turns-into-a-pen-display",
-      "summary": "It’s $899, it has a 3K 120Hz screen, and it’s gunning for Wacom’s MovinkPad Pro 14.",
+      "title": "This 3D artist achieves incredible realism to breath life into striking character designs",
+      "link": "https://www.creativebloq.com/inspiration/this-3d-artist-achieves-incredible-realism-to-breath-life-into-striking-character-designs",
+      "summary": "Discover the art of Tom Newbury.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Commuters appalled by accidental optical illusion ad",
-      "link": "https://www.creativebloq.com/news/commuters-appalled-by-accidental-optical-illusion-ad",
-      "summary": "TFL has claimed it’s the work of flyposting.",
+      "title": "This monitor light has brightened my mood – and it's down to $35!",
+      "link": "https://www.creativebloq.com/news/this-monitor-light-has-lightened-my-mood-and-its-down-to-usd35",
+      "summary": "Adding soft light to my desktop is a game-changer for my working day.",
       "source": "Creative Bloq"
     },
     {
-      "title": "The Simpsons' brilliant parody of The Nightmare Before Christmas is proof that handmade creativity is on the rise",
-      "link": "https://www.creativebloq.com/news/the-simpsons-brilliant-parody-of-the-nightmare-before-christmas-is-proof-that-handmade-creativity-is-on-the-rise",
-      "summary": "Robot Chicken’s makers give Springfield a stop-motion makeover.",
+      "title": "Bambu Lab’s Black Friday sale has started already with up to 20% off 3D printers",
+      "link": "https://www.creativebloq.com/deals/bambu-labs-black-friday-sale-has-started-already-with-up-to-20-percent-off-3d-printers",
+      "summary": "Find the year's best prices on 3D printers for both beginners and pros.",
       "source": "Creative Bloq"
     }
   ]
