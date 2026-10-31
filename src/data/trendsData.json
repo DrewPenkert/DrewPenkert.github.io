@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-30",
+  "updatedAt": "2026-10-31",
   "marketing": [
+    {
+      "title": "Amazon’s ad revenue growth decelerates due to Prime Day tweaks",
+      "link": "https://www.marketingdive.com/news/amazons-ad-revenue-growth-decelerates-due-to-prime-day-tweaks/873302/",
+      "summary": "Pushing the sales event to June and a lack of NBA content led to slower ad revenue growth in Q3, but AI agents aren&rsquo;t disrupting the segment just yet.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "The changing CMO role in 3 numbers",
+      "link": "https://www.marketingdive.com/news/the-changing-cmo-role-in-3-numbers/873219/",
+      "summary": "Over a quarter of CMOs hired this year have AI skills, compared to just 9% of those hired four years ago, per Findem and CMO Huddles data.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Warner Bros. chases ‘Cat in the Hat’ across Amazon’s ad ecosystem",
       "link": "https://www.marketingdive.com/news/warner-bros-chases-cat-in-the-hat-across-amazons-ad-ecosystem/873092/",
@@ -18,49 +30,37 @@
       "link": "https://www.marketingdive.com/news/googles-ai-overhaul-of-search-hits-snags-as-ad-revenue-growth-cools/873150/",
       "summary": "The rate of ad revenue growth decelerated in Q3 for Google&rsquo;s core business despite a jump in query volume driven by AI features.&nbsp;",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "Disney plans TikTok Shop holiday experience with over 20 brands",
-      "link": "https://www.marketingdive.com/news/disney-plans-tiktok-shop-holiday-experience-with-over-20-brands/873072/",
-      "summary": "A Super Brand Day event in November will feature products from the Disney Store and brands including Old Navy, Crocs, ColourPop and more.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "What marketers should know about the legal risks of algorithmic pricing",
-      "link": "https://www.marketingdive.com/news/what-marketers-should-know-about-the-legal-risks-of-algorithmic-pricing/832963/",
-      "summary": "Emerging state and federal laws are raising fresh concerns around the strategy, writes&nbsp;Simpson Thacher &amp; Bartlett LLP partner Laura Brett.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "Nothing has a secret weapon rival tech brands wish they had",
-      "link": "https://www.creativebloq.com/features/nothing-has-a-secret-weapon-rival-tech-brands-wish-they-had",
-      "summary": "Why Club Nothing (R) is more than empty philanthropy.",
+      "title": "\"Nostalgia is a double-edged sword\": how Dolmio revived its beloved puppet family for a new generation",
+      "link": "https://www.creativebloq.com/features/nostalgia-is-a-double-edged-sword-how-dolmio-revived-its-beloved-puppet-family-for-a-new-generation",
+      "summary": "Elmwood's Kyle Whybrow discusses the increasing hunger for tactile and intentional design.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Quote of the Day by Patrick Stewart: \"You will never achieve success by insuring against failure\"",
-      "link": "https://www.creativebloq.com/inspiration/quote-of-the-day-by-patrick-stewart-you-will-never-achieve-success-by-insuring-against-failure",
-      "summary": "The need to take creative risks – make it so.",
+      "title": "Rockstar art-directed 600,000 animations, so that GTA 6’s passers-by feel like real people",
+      "link": "https://www.creativebloq.com/news/rockstar-art-directed-600-000-animations-so-that-gta-6s-passers-by-feel-like-real-people",
+      "summary": "It’s a lesson the whole creative industry needs to heed.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Samsung proves it’s king of the folding phones in shady Apple diss",
-      "link": "https://www.creativebloq.com/news/samsung-proves-its-king-of-the-folding-phones-in-shady-apple-diss",
-      "summary": "Their smartphone brand beef rages on.",
+      "title": "Amazon's dropped the price of our favourite laptop for graphic designers by $160 in early Black Friday deal",
+      "link": "https://www.creativebloq.com/deals/amazons-dropped-the-price-of-our-favourite-laptop-for-graphic-designers-by-usd160-in-early-black-friday-deal",
+      "summary": "The M5 MacBook Pro tops our buying guide.",
       "source": "Creative Bloq"
     },
     {
-      "title": "The Dunu Vitruvian promises DaVinci’s JM-1 warmth, trading low end for top-end sparkle",
-      "link": "https://www.creativebloq.com/news/the-dunu-vitruvian-promises-davincis-jm-1-warmth-trading-low-end-for-top-end-sparkle",
-      "summary": "Succeeding a New Meta classic, Dunu’s latest begs the question: is less sub-bass ever a good idea?",
+      "title": "How this artist turned childhood nightmares into video game monsters",
+      "link": "https://www.creativebloq.com/features/how-this-artist-turned-childhood-nightmares-into-video-game-monsters",
+      "summary": "Just in time for Halloween, John Kenn Mortensen talks dark fantasy, drawing by hand and bringing his distinctive illustrations to FLASK.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Apple’s touchscreen MacBook Pro makes more sense than you might think",
-      "link": "https://www.creativebloq.com/news/apples-touchscreen-macbook-pro-makes-more-sense-than-you-might-think",
-      "summary": "My first impressions of the MacBook Pro with PROLED XDR Display were more positive than I expected.",
+      "title": "GTA 6's latest gameplay reveal is filthy, and South Park is helping Rockstar sell it",
+      "link": "https://www.creativebloq.com/news/gta-6s-latest-gameplay-reveal-is-filthy-and-south-park-is-helping-rockstar-sell-it",
+      "summary": "The most entertaining bit of game marketing I've seen in a long time.",
       "source": "Creative Bloq"
     }
   ]
