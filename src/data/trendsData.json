@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-01",
+  "updatedAt": "2026-11-02",
   "marketing": [
+    {
+      "title": "Express unwraps holiday campaign to build on brand metric gains",
+      "link": "https://www.marketingdive.com/news/express-unwraps-holiday-campaign-to-build-on-brand-metric-gains/873124/",
+      "summary": "CMO Joe Berean explains how &ldquo;Holiday, Hamlin Style&rdquo; was inspired by the organic social engagement of the retailer&rsquo;s spring campaign.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Your buyers are sending agents. Will they recommend your brand?",
+      "link": "https://www.marketingdive.com/spons/your-buyers-are-sending-agents-will-they-recommend-your-brand/833812/",
+      "summary": "Snowflake's CMO on how AI agents are changing who finds, trusts and chooses your brand.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Why JCPenney is taking on deal fatigue for its holiday campaign",
+      "link": "https://www.marketingdive.com/news/why-jcpenney-is-taking-on-deal-fatigue-for-its-holiday-campaign/873354/",
+      "summary": "Marisa Thalberg, chief customer and marketing officer at parent Catalyst Brands, explains the retailer&rsquo;s focus on real people and no-fuss ways to save.&nbsp;",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Amazon’s ad revenue growth decelerates due to Prime Day tweaks",
       "link": "https://www.marketingdive.com/news/amazons-ad-revenue-growth-decelerates-due-to-prime-day-tweaks/873302/",
@@ -12,55 +30,37 @@
       "link": "https://www.marketingdive.com/news/the-changing-cmo-role-in-3-numbers/873219/",
       "summary": "Over a quarter of CMOs hired this year have AI skills, compared to just 9% of those hired four years ago, per Findem and CMO Huddles data.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "Warner Bros. chases ‘Cat in the Hat’ across Amazon’s ad ecosystem",
-      "link": "https://www.marketingdive.com/news/warner-bros-chases-cat-in-the-hat-across-amazons-ad-ecosystem/873092/",
-      "summary": "&ldquo;Open to Fun&rdquo; features a mobile minigame, an Alexa integration and placement across Twitch, Prime Video and IMDb.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Sociable: Meta says its expanded processing capacity is driving ad results",
-      "link": "https://www.marketingdive.com/news/sociable-meta-says-its-expanded-processing-capacity-is-driving-ad-results/873191/",
-      "summary": "New insights from the company point to how its artificial intelligence enhancements are powering clicks and conversions.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Google’s AI overhaul of search hits snags as ad revenue growth cools",
-      "link": "https://www.marketingdive.com/news/googles-ai-overhaul-of-search-hits-snags-as-ad-revenue-growth-cools/873150/",
-      "summary": "The rate of ad revenue growth decelerated in Q3 for Google&rsquo;s core business despite a jump in query volume driven by AI features.&nbsp;",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
+      "title": "The real star of the new MacBook Pro is the Apple logo",
+      "link": "https://www.creativebloq.com/news/the-real-star-of-the-new-macbook-pro-is-the-apple-logo",
+      "summary": "After more than a decade, the logo is up in lights again.",
+      "source": "Creative Bloq"
+    },
+    {
+      "title": "Will your digital work still exist in 2046? Here’s why the answer might be no",
+      "link": "https://www.creativebloq.com/news/will-your-digital-work-still-exist-in-2046-heres-why-the-answer-might-be-no",
+      "summary": "Our stuff is more fragile than we think.",
+      "source": "Creative Bloq"
+    },
+    {
+      "title": "If smart glasses take off, I predict a new golden age for the billboard",
+      "link": "https://www.creativebloq.com/news/if-smart-glasses-take-off-i-predict-a-new-golden-age-for-the-billboard",
+      "summary": "As they lift our gaze from our phones, we'll start looking up.",
+      "source": "Creative Bloq"
+    },
+    {
+      "title": "From Pepsi Man to WendyQuest, why are brands making video games again?",
+      "link": "https://www.creativebloq.com/news/from-pepsi-man-to-wendyquest-why-are-brands-making-video-games-again",
+      "summary": "A burger chain's pixel-art RPG has gamers excited.",
+      "source": "Creative Bloq"
+    },
+    {
       "title": "\"I’ve ignored most advice and learned by fire\": 5 Questions with Christopher Glass",
       "link": "https://www.creativebloq.com/features/ive-ignored-most-advice-and-learned-by-fire-5-questions-with-christopher-glass",
       "summary": "The award-winning production designer discusses pet peeves and imposter syndrome.",
-      "source": "Creative Bloq"
-    },
-    {
-      "title": "Are you team Apple or Samsung in the folding phone era?",
-      "link": "https://www.creativebloq.com/news/are-you-team-apple-or-samsung-in-the-folding-phone-era",
-      "summary": "As the iPhone Duo faces cracks in the facade, is the Galaxy Z Fold still king?",
-      "source": "Creative Bloq"
-    },
-    {
-      "title": "This brilliant budget 3D printer is the one I'd buy if I were getting into the hobby",
-      "link": "https://www.creativebloq.com/deals/this-brilliant-budget-3d-printer-is-the-one-i-would-buy-if-i-were-getting-into-the-hobby",
-      "summary": "Elegoo’s Centauri Carbon 2 makes easy four-colour printing affordable.",
-      "source": "Creative Bloq"
-    },
-    {
-      "title": "How to animate your drawings in Procreate the easy way",
-      "link": "https://www.creativebloq.com/how-to/how-to-animate-your-drawings-in-procreate-the-easy-way",
-      "summary": "Watch our artist bring a bubbling cauldron to life in seconds.",
-      "source": "Creative Bloq"
-    },
-    {
-      "title": "How to make these easy Halloween crafts with Cricut",
-      "link": "https://www.creativebloq.com/how-to/how-to-make-these-easy-halloween-crafts-with-cricut",
-      "summary": "Glow-in-the-dark vinyl might be my new favourite material",
       "source": "Creative Bloq"
     }
   ]
