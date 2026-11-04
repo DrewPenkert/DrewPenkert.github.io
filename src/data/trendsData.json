@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-04",
   "marketing": [
+    {
+      "title": "Levi’s claymation holiday campaign celebrates handmade craft amid AI bloat",
+      "link": "https://www.marketingdive.com/news/levis-claymation-holiday-campaign-celebrates-handmade-craft-amid-ai-bloat/873496/",
+      "summary": "The nostalgic campaign arrives following a back-to-school campaign that CEO Michelle Gass said failed to generate the expected demand and traffic.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "As Publicis closes LiveRamp deal, some brands say they’re jumping ship",
+      "link": "https://www.marketingdive.com/news/as-publicis-closes-liveramp-deal-some-brands-say-theyre-jumping-ship/873561/",
+      "summary": "Liquid Death&rsquo;s Chief Media and Digital Commerce Officer Benoit Vatere said other marketers should be worried about a holding company owning their data.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "How the sausage is made: Inside Johnsonville’s political parody campaign",
       "link": "https://www.marketingdive.com/news/how-the-sausage-is-made-inside-johnsonvilles-political-parody-campaign/873248/",
@@ -18,49 +30,37 @@
       "link": "https://www.marketingdive.com/news/wpp-media-posts-first-growth-in-2-years-as-turnaround-stays-on-track/873447/",
       "summary": "Retaining Coke and expanding a relationship with DoorDash &mdash; which recently acquired Instacart &mdash; could provide future tailwinds for the business.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "After AI backlash, Svedka challenges consumers to create Super Bowl ad",
-      "link": "https://www.marketingdive.com/news/after-ai-backlash-svedka-challenges-consumers-to-create-super-bowl-ad/873445/",
-      "summary": "The Sazerac-owned vodka brand is pivoting after using artificial intelligence to produce its 2026 big game debut.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "What Reddit’s Q3 earnings mean for marketers amid major traffic shift",
-      "link": "https://www.marketingdive.com/news/what-reddits-q3-earnings-mean-for-marketers-amid-major-traffic-shift/873386/",
-      "summary": "Reddit is switching to a logged-in only experience to combat user loss, as well as to cultivate a base that is more valuable to advertisers.&nbsp;",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "Wacom MovinkPad Pro 14 vs XPPen Magic Pro 13: Which is the best Android drawing tablet?",
-      "link": "https://www.creativebloq.com/advice/wacom-movinkpad-pro-14-vs-xppen-magic-pro-13-which-is-the-best-android-drawing-tablet",
-      "summary": "I've spent time drawing on both Wacom's premium Android tablet and XPPen's new challenger, and the difference might surprise you.",
+      "title": "This tabletop console brings family game night back, and it just got $60 cheaper",
+      "link": "https://www.creativebloq.com/deals/this-tabletop-console-brings-family-game-night-back-and-it-just-got-usd60-cheaper",
+      "summary": "The retro board-game-and-video-game hybrid just got a major price drop.",
       "source": "Creative Bloq"
     },
     {
-      "title": "This clever logo design has been electrifying the internet since 2008",
-      "link": "https://www.creativebloq.com/news/this-clever-logo-design-has-electrifying-the-internet-since-2008",
-      "summary": "It's the best use of negative space since the FedEx logo.",
+      "title": "You’ve been picturing these iconic logos wrong your whole life",
+      "link": "https://www.creativebloq.com/inspiration/youve-been-picturing-these-logos-wrong-your-whole-life",
+      "summary": "What do you mean Mr Monopoly doesn't have a monocle?",
       "source": "Creative Bloq"
     },
     {
-      "title": "How Jonathan Blow’s team made a thousand-puzzle game that’s gorgeous and still readable",
-      "link": "https://www.creativebloq.com/features/how-jonathan-blows-team-made-a-thousand-puzzle-game-thats-gorgeous-and-readable",
-      "summary": "The art team behind Order of the Sinking Star shares how Disney and Ghibli influenced the visuals and why a good-looking puzzle game must be clear first.",
+      "title": "The ultimate Zelda quiz: are you a Hero of Time or the weakest Link?",
+      "link": "https://www.creativebloq.com/quizzes/the-ultimate-zelda-quiz-are-you-a-hero-of-time-or-the-weakest-link",
+      "summary": "Put your knowledge of Hyrule to the test as Ocarina of Time returns.",
       "source": "Creative Bloq"
     },
     {
-      "title": "How to use simulations in a 3D scene in Blender",
-      "link": "https://www.creativebloq.com/how-to/how-to-use-simulations-in-a-3d-scene-in-blender",
-      "summary": "Simulation hands the hard work of moving objects over to maths, physics and a little chaos.",
+      "title": "Levi's stop-motion masterpiece is a lesson in Christmas advertising",
+      "link": "https://www.creativebloq.com/news/levis-stop-motion-masterpiece-is-a-lesson-in-christmas-advertising",
+      "summary": "Coca-Cola should take notes.",
       "source": "Creative Bloq"
     },
     {
-      "title": "This year's creepiest Halloween advert looked surprisingly ordinary",
-      "link": "https://www.creativebloq.com/news/this-years-creepiest-halloween-advert-looked-surprisingly-ordinary",
-      "summary": "The clever campaign presents the 'Ultimate Monster Costume'.",
+      "title": "The Spotify AI remixing controversy is about more than just music",
+      "link": "https://www.creativebloq.com/news/the-spotify-ai-remixing-controversy-is-about-more-than-just-music",
+      "summary": "Visual artists should also be concerned.",
       "source": "Creative Bloq"
     }
   ]
