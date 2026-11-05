@@ -1,10 +1,22 @@
 {
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-05",
   "marketing": [
+    {
+      "title": "How Fresh Step used AI to go from brief to ads at one-tenth the cost",
+      "link": "https://www.marketingdive.com/news/how-fresh-step-used-ai-to-go-from-brief-to-ads-at-one-tenth-the-cost/873688/",
+      "summary": "To address ongoing category pressure, the Clorox cat litter brand worked with agency RECE to get a new campaign in market in about a month.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Target vs. Walmart: Holiday marketing’s stakes feel higher this year",
+      "link": "https://www.marketingdive.com/news/target-vs-walmart-holiday-marketings-stakes-feel-higher-this-year/873343/",
+      "summary": "Walmart&rsquo;s brand platform focused on reappraisal and Target&rsquo;s turnaround strategy are in the spotlight during a make-or-break moment for retail.&nbsp;",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Levi’s claymation holiday campaign celebrates handmade craft amid AI bloat",
       "link": "https://www.marketingdive.com/news/levis-claymation-holiday-campaign-celebrates-handmade-craft-amid-ai-bloat/873496/",
-      "summary": "The nostalgic campaign arrives following a back-to-school campaign that CEO Michelle Gass said failed to generate the expected demand and traffic.",
+      "summary": "The nostalgic effort follows a back-to-school campaign that CEO Michelle Gass said failed to generate the expected demand and traffic.",
       "source": "Marketing Dive"
     },
     {
@@ -16,51 +28,39 @@
     {
       "title": "How the sausage is made: Inside Johnsonville’s political parody campaign",
       "link": "https://www.marketingdive.com/news/how-the-sausage-is-made-inside-johnsonvilles-political-parody-campaign/873248/",
-      "summary": "A campaign that culminates with today&rsquo;s midterm elections sought to engage Americans around a distaste for politics while avoiding partisanship.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Where agency strategists see opportunity as AI challenges their worth",
-      "link": "https://www.marketingdive.com/news/where-agency-strategists-see-opportunity-as-ai-challenges-their-worth/872985/",
-      "summary": "While strategists fear the tech will replace their roles, the majority agree that there are also reasons to be optimistic, according to a WARC report.&nbsp;",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "WPP Media posts first growth in 2 years as turnaround stays on track",
-      "link": "https://www.marketingdive.com/news/wpp-media-posts-first-growth-in-2-years-as-turnaround-stays-on-track/873447/",
-      "summary": "Retaining Coke and expanding a relationship with DoorDash &mdash; which recently acquired Instacart &mdash; could provide future tailwinds for the business.",
+      "summary": "A campaign that culminated with the midterm elections sought to engage Americans around a distaste for politics while avoiding partisanship.",
       "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "This tabletop console brings family game night back, and it just got $60 cheaper",
-      "link": "https://www.creativebloq.com/deals/this-tabletop-console-brings-family-game-night-back-and-it-just-got-usd60-cheaper",
-      "summary": "The retro board-game-and-video-game hybrid just got a major price drop.",
+      "title": "Gillette finally confirms its logo hides a hidden design",
+      "link": "https://www.creativebloq.com/news/gillette-finally-confirms-its-logo-hides-a-hidden-design",
+      "summary": "Instagram post reveals the razor-sharp hidden message.",
       "source": "Creative Bloq"
     },
     {
-      "title": "You’ve been picturing these iconic logos wrong your whole life",
-      "link": "https://www.creativebloq.com/inspiration/youve-been-picturing-these-logos-wrong-your-whole-life",
-      "summary": "What do you mean Mr Monopoly doesn't have a monocle?",
+      "title": "Cassette Beasts 2002 is Pokemon in a Zone 6 suburb, with no Paddington and not a wizard in sight",
+      "link": "https://www.creativebloq.com/features/cassette-beasts-2002-is-pokemon-in-a-zone-6-suburb-with-no-paddington-and-not-a-wizard-in-sight",
+      "summary": "A Brighton studio of Northerners, a 25-hour RPG and a free game engine. It’s set in 2002, so nobody has a smartphone.",
       "source": "Creative Bloq"
     },
     {
-      "title": "The ultimate Zelda quiz: are you a Hero of Time or the weakest Link?",
-      "link": "https://www.creativebloq.com/quizzes/the-ultimate-zelda-quiz-are-you-a-hero-of-time-or-the-weakest-link",
-      "summary": "Put your knowledge of Hyrule to the test as Ocarina of Time returns.",
+      "title": "40 years after Andy Warhol and Keith Haring, Montreux Jazz Festival's new poster is a dream creative double act",
+      "link": "https://www.creativebloq.com/news/40-years-after-andy-warhol-and-keith-haring-montreux-jazz-festivals-new-poster-is-a-dream-creative-double-act",
+      "summary": "Malika Favre and Kumkum Fernando blend music, mythology and '60s flower power.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Levi's stop-motion masterpiece is a lesson in Christmas advertising",
-      "link": "https://www.creativebloq.com/news/levis-stop-motion-masterpiece-is-a-lesson-in-christmas-advertising",
-      "summary": "Coca-Cola should take notes.",
+      "title": "The John Lewis Christmas advert is getting a mauling",
+      "link": "https://www.creativebloq.com/news/the-john-lewis-christmas-advert-is-getting-a-mauling",
+      "summary": "And people have a point.",
       "source": "Creative Bloq"
     },
     {
-      "title": "The Spotify AI remixing controversy is about more than just music",
-      "link": "https://www.creativebloq.com/news/the-spotify-ai-remixing-controversy-is-about-more-than-just-music",
-      "summary": "Visual artists should also be concerned.",
+      "title": "Wake up and smell the Black Friday coffee machine deals – there's up to £250 off",
+      "link": "https://www.creativebloq.com/deals/wake-up-and-smell-these-black-friday-coffee-machine-deals-theres-up-to-gbp250-off",
+      "summary": "It's finally time to upgrade your home coffee setup.",
       "source": "Creative Bloq"
     }
   ]
