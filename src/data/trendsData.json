@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "marketing": [
+    {
+      "title": "Pepsi’s holiday push includes bigger retail presence, soda for Santa",
+      "link": "https://www.marketingdive.com/news/pepsis-holiday-push-includes-bigger-retail-presence-soda-for-santa/874072/",
+      "summary": "The beverage brand is also increasing its marketing efforts around the football season for efforts that build on its &ldquo;Food Deserves Pepsi&rdquo; platform.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "How Ogilvy uses AI to unlock scale, protect rights for brand talent shoots",
       "link": "https://www.marketingdive.com/news/how-ogilvy-uses-ai-to-unlock-scale-protect-rights-for-brand-talent-shoots/874014/",
@@ -24,43 +30,37 @@
       "link": "https://www.marketingdive.com/news/campaign-trail-wet-ones-puts-hand-butts-on-the-streets/873564/",
       "summary": "The Edgewell brand worked with BBH USA on an out-of-home campaign it hoped would cause some consumers to do a double take.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "McDonald’s US CMO steps down as sales decline",
-      "link": "https://www.marketingdive.com/news/mcdonalds-us-cmo-steps-down-as-sales-decline/873927/",
-      "summary": "As the fast-food giant searches for a new marketing leader, it will split the role between two longtime executives on an interim basis.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "Disney just dropped a magical festive short, and people can't stop crying",
-      "link": "https://www.creativebloq.com/news/disney-just-dropped-a-magical-festive-short-and-people-cant-stop-crying",
-      "summary": "Spot the Toy Story and Frozen cameos.",
+      "title": "There's something off about the new Harry Potter poster designs",
+      "link": "https://www.creativebloq.com/news/theres-something-off-about-the-new-harry-potter-poster-designs",
+      "summary": "What did those poor kids do to offend HBO's graphic designers?",
       "source": "Creative Bloq"
     },
     {
-      "title": "Kim Kardashian's shocking advent calendar is the perfect metaphor for 2026",
-      "link": "https://www.creativebloq.com/news/kim-kardashians-shocking-advent-calendar-is-the-perfect-metaphor-for-2026",
-      "summary": "All I want for Christmas is a refund.",
+      "title": "This film festival logo proves originality isn't dead in graphic design",
+      "link": "https://www.creativebloq.com/news/this-film-festival-logo-proves-originality-isnt-dead-in-graphic-design",
+      "summary": "KIFF's redesigned logo feels fresh and alive.",
       "source": "Creative Bloq"
     },
     {
-      "title": "10 must-try techniques for creating environment art that drives visual storytelling",
-      "link": "https://www.creativebloq.com/how-to/10-key-techniques-for-creating-environment-art-that-drives-visual-storytelling",
-      "summary": "An effective environment is about much more than spectacular landscape.",
+      "title": "Apple's new iPad mini is perfect in every way (except one)",
+      "link": "https://www.creativebloq.com/news/apples-new-ipad-mini-is-perfect-in-every-way-except-one",
+      "summary": "For fans of the tiny tablet, this is a worthy upgrade.",
       "source": "Creative Bloq"
     },
     {
-      "title": "An anti-AI indie game about keeping hand-drawn fish has become a surprise viral hit",
-      "link": "https://www.creativebloq.com/news/an-anti-ai-indie-game-about-keeping-hand-drawn-fish-has-become-a-surprise-viral-hit",
-      "summary": "And it's all thanks to its emotive trailer.",
+      "title": "These wild new wireless earphones adapt to how you personally hear music",
+      "link": "https://www.creativebloq.com/news/these-wild-new-wireless-earphones-adapt-to-how-you-personally-hear-music",
+      "summary": "Noble Audio's Astrid have a triple-driver system and sleek looks .",
       "source": "Creative Bloq"
     },
     {
-      "title": "The ergonomic chair that got a rare 5-star Creative Bloq review is 10% cheaper for Black Friday",
-      "link": "https://www.creativebloq.com/deals/the-ergonomic-chair-that-got-a-rare-5-star-creative-bloq-review-is-10-percent-cheaper-for-black-friday",
-      "summary": "With its ergonomic features, it's the best chair deal I can find right now.",
+      "title": "Cricut Black Friday deals are appearing, but is the Maker 4 still worth it?",
+      "link": "https://www.creativebloq.com/deals/cricut-black-friday-deals-are-appearing-but-is-the-maker-4-still-worth-it",
+      "summary": "The Cricut Maker 4 Creative Pro bundle has £245 off.",
       "source": "Creative Bloq"
     }
   ]
