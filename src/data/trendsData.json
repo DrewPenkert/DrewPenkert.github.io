@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-11",
+  "updatedAt": "2026-11-12",
   "marketing": [
+    {
+      "title": "Fetch trades views for rewards with brand-backed holiday microseries",
+      "link": "https://www.marketingdive.com/news/fetch-trades-views-for-rewards-with-brand-backed-holiday-microseries/874424/",
+      "summary": "&ldquo;The Receipt&rdquo; features brands like Dove, Breyer&rsquo;s and Olipop&nbsp;and offers consumers points for viewing that can be redeemed for gift cards.&nbsp;",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Maybelline updates ‘Maybe’ tagline as beauty perceptions evolve",
+      "link": "https://www.marketingdive.com/news/maybelline-updates-maybe-tagline-as-beauty-perceptions-evolve/874376/",
+      "summary": "Tweaks to punctuation and phrasing are intended to feel more inclusive and empowering, a spirit captured in ads with Miley Cyrus.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Carnival gamifies cruise experience via interactive Twitch livestream",
+      "link": "https://www.marketingdive.com/news/carnival-gamifies-cruise-experience-via-interactive-twitch-livestream/874033/",
+      "summary": "The cruise line is looking to reach younger audiences as the company sees record-high 2027 bookings.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Netflix embraces 35mm film in international campaign",
       "link": "https://www.marketingdive.com/news/netflix-embraces-35mm-film-in-international-campaign/874237/",
@@ -12,55 +30,37 @@
       "link": "https://www.marketingdive.com/news/pricelines-ai-agent-penny-lands-in-snapchat-ads-amid-holiday-rush/874247/",
       "summary": "The brand is the first in the travel category to use AI Sponsored Snaps, which allow advertisers to bring their own chatbots into Snapchat.&nbsp;",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "Synthetic audiences fall short: What marketers need to know",
-      "link": "https://www.marketingdive.com/news/synthetic-audiences-fall-short-what-marketers-need-to-know/833664/",
-      "summary": "The AI-generated audience simulations may make it more difficult for brands to reach new audiences, writes&nbsp;RYA co-founder&nbsp;Mark Himmelsbach.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Why Rao’s heated up brand building with a request to slow down meals",
-      "link": "https://www.marketingdive.com/news/raos-heats-up-brand-building-with-a-request-to-slow-down-meals/874122/",
-      "summary": "The Campbell Company sauce brand reimagines the concept of a limited-time offer by keying in on how many meals people have left with loved ones.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Pepsi’s holiday push includes bigger retail presence, soda for Santa",
-      "link": "https://www.marketingdive.com/news/pepsis-holiday-push-includes-bigger-retail-presence-soda-for-santa/874072/",
-      "summary": "The beverage brand is also increasing its marketing efforts around the football season for efforts that build on its &ldquo;Food Deserves Pepsi&rdquo; platform.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "Space Invaders vs Mega Man: Which My Play Watch puts more nostalgia on your wrist?",
-      "link": "https://www.creativebloq.com/news/space-invaders-vs-mega-man-which-my-play-watch-puts-more-nostalgia-on-your-wrist",
-      "summary": "I tested these two retro-gaming watches, and one of them made me ridiculously happy.",
+      "title": "Four video tracks and a doughnut shop – how Dispatch got its start",
+      "link": "https://www.creativebloq.com/features/four-video-tracks-and-a-doughnut-shop-how-dispatch-got-its-start",
+      "summary": "Before it was an animated smash, Dispatch was a live-action browser experiment with a hard technical limit and one very durable doughnut scene. AdHoc’s founders explain the pivot.",
       "source": "Creative Bloq"
     },
     {
-      "title": "The best CNC machines: The crafting revolution starts here",
-      "link": "https://www.creativebloq.com/buying-guides/the-best-cnc-machines-the-crafting-revolution-starts-here",
-      "summary": "Make precise cuts in wood, acrylic and metal with our pick of the best CNC machines.",
+      "title": "Logitech MX Master 4 Special Edition review: Still the productivity mouse to beat, but should you upgrade?",
+      "link": "https://www.creativebloq.com/reviews/logitech-mx-master-4-special-edition-review-still-the-productivity-mouse-to-beat-but-should-you-upgrade",
+      "summary": "Same brilliant mouse, now in grey-white and red, with haptics and a dial under your thumb.",
       "source": "Creative Bloq"
     },
     {
-      "title": "This artist specialises in creating an epic sense of scale in 3D scenes",
-      "link": "https://www.creativebloq.com/how-to/this-artist-specialises-in-creating-an-epic-sense-of-scale-in-3d-scenes",
-      "summary": "Here's how  he does it.",
+      "title": "How I created this ninja puppet scene inspired by Naruto",
+      "link": "https://www.creativebloq.com/how-to/how-i-created-this-ninja-puppet-scene-inspired-by-naruto",
+      "summary": "Guilherme Freitastalks us through his process for creating futuristic anime art",
       "source": "Creative Bloq"
     },
     {
-      "title": "The Legend of Zelda: Ocarina of Time review: A sublime remake that enhances and enchants in equal measure",
-      "link": "https://www.creativebloq.com/reviews/the-legend-of-zelda-ocarina-of-time-review-a-sublime-remake-that-enhances-and-enchants-in-equal-measure",
-      "summary": "Nintendo's masterclass in faithfully rebuilding a masterpiece.",
+      "title": "The toy company Tomy has a new logo, and people are baffled",
+      "link": "https://www.creativebloq.com/news/the-toy-company-tomy-has-a-new-logo-and-people-are-baffled",
+      "summary": "The new design is all about play.",
       "source": "Creative Bloq"
     },
     {
-      "title": "This bank's vibrant new logo design ticks all the boxes",
-      "link": "https://www.creativebloq.com/news/this-banks-vibrant-new-logo-design-ticks-all-the-boxes",
-      "summary": "The Caixa's first rebrand in almost 30 years builds on the existing foundations.",
+      "title": "Adobe MAX 2026 Sneaks: Project Link Up is making design playful again",
+      "link": "https://www.creativebloq.com/features/adobe-max-2026-sneaks-project-link-up-is-making-design-playful-again",
+      "summary": "I sit down with Hailin Jin, Adobe's research lead for imaging and design, to discuss how the project could revolutionise vector design.",
       "source": "Creative Bloq"
     }
   ]
