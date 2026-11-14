@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-14",
   "marketing": [
+    {
+      "title": "Twitch debuts shoppable, skippable ads as TwitchCon feels growing pains",
+      "link": "https://www.marketingdive.com/news/twitch-debuts-shoppable-skippable-ads-as-twitchcon-feels-growing-pains/874614/",
+      "summary": "A pair of new ad products unveiled around the gathering are meant to shore up the livestreaming service&rsquo;s ability to meet full-funnel marketing needs.&nbsp;",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "AI-derived audience insights hurt results: What the numbers say",
+      "link": "https://www.marketingdive.com/news/ai-derived-audience-insights-hurt-results-what-the-numbers-say/874565/",
+      "summary": "Over 80% of industry leaders have experienced at least one negative business outcome due to inaccurate AI outputs, per a recent report.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Welch’s holiday microdrama embraces Y2K nostalgia as Gen Z become parents",
       "link": "https://www.marketingdive.com/news/welchs-holiday-microdrama-embraces-y2k-nostalgia-as-gen-z-become-parents/874453/",
@@ -16,51 +28,39 @@
     {
       "title": "Oreo refreshes holiday creative with spin on Santa’s milk and cookies",
       "link": "https://www.marketingdive.com/news/oreo-refreshes-holiday-creative-with-spin-on-santas-milk-and-cookies/874493/",
-      "summary": "Saint Nick takes revenge on a dad who sneaks a bite of his Oreos in the brand&rsquo;s first new seasonal work in five years.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "How Unilever’s social-first marketing is evolving amid reorganization",
-      "link": "https://www.marketingdive.com/news/how-unilevers-social-first-marketing-is-evolving-amid-reorganization/874457/",
-      "summary": "The company offered insight into its marketing model after announcing plans to reorganize around a &ldquo;global strategy, local execution&rdquo; principle.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Fetch trades views for rewards with brand-backed holiday microseries",
-      "link": "https://www.marketingdive.com/news/fetch-trades-views-for-rewards-with-brand-backed-holiday-microseries/874424/",
-      "summary": "&ldquo;The Receipt&rdquo; features brands like Dove, Breyer&rsquo;s and Olipop&nbsp;and offers consumers points for viewing that can be redeemed for gift cards.&nbsp;",
+      "summary": "The Mondelēz brand worked with No Notes, Colin Jost&rsquo;s content studio, along with Dentsu on socials and Publicis Production as a consulting agency.",
       "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "You know that butter bot from Rick and Morty? You can buy that now",
-      "link": "https://www.creativebloq.com/news/you-know-that-butter-bot-from-rick-and-morty-you-can-buy-that-now",
-      "summary": "This may be the best stoopid idea for a Christmas gift I’ve seen.",
+      "title": "A simple logo redesign has become Australia's latest culture war – why that's bad news for designers",
+      "link": "https://www.creativebloq.com/news/sydneys-logo-controversy-shows-how-politics-can-get-in-the-way-of-good-design",
+      "summary": "How a simple refresh of the council logo has sparked a political row.",
       "source": "Creative Bloq"
     },
     {
-      "title": "How do you redesign a cult kids’ product? I asked Yoto’s new designers",
-      "link": "https://www.creativebloq.com/inspiration/how-do-you-redesign-a-cult-kids-product-i-asked-yotos-new-designers",
-      "summary": "Yoto is winning the low-screen moment by holding back. Its designers explain how they balanced a vocal community with a clear mission.",
+      "title": "The Gatto trailer is dividing opinion over Pixar's new painterly style",
+      "link": "https://www.creativebloq.com/news/the-gatto-trailer-is-dividing-opinion-over-pixars-new-painterly-style",
+      "summary": "Has the studio found its sweet spot for hybrid animation?",
       "source": "Creative Bloq"
     },
     {
-      "title": "Nvidia chaos and why the AI industry is suddenly on the back foot",
-      "link": "https://www.creativebloq.com/news/nvidia-chaos-and-why-the-ai-industry-is-suddenly-on-the-back-foot",
-      "summary": "Voters have rejected data centres, and Nvidia’s CEO has resigned. If the AI honeymoon is over, what happens to creatives?",
+      "title": "This 3D artist finds inspiration in nature, Marvel heroes and tribal traditions",
+      "link": "https://www.creativebloq.com/features/this-3d-artist-finds-inspiration-in-nature-marvel-heroes-and-tribal-traditions",
+      "summary": "Alexandre Mougenot shows us how he's pushing his art.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Prusa CORE One+ review: Built to last and grow with you",
-      "link": "https://www.creativebloq.com/reviews/prusa-core-one-review-built-to-last-and-grow-with-you",
-      "summary": "A sturdy old school workhorse for makers who value fuss-free precision.",
+      "title": "These IEMs get the Most Beautiful Earphones Award for 2026, but will their crowd-pleasing tuning win you over?",
+      "link": "https://www.creativebloq.com/reviews/these-iems-get-the-most-beautiful-earphones-award-for-2026-but-will-their-crowd-pleasing-tuning-win-you-over",
+      "summary": "The $259 ZiiGaat Seraphim pairs standout looks with serious sub-bass slam, even if a lean lower midrange holds it back from perfection.",
       "source": "Creative Bloq"
     },
     {
-      "title": "This approach to 3D art in Unreal Engine 5 helped me minimise unnecessary iterations",
-      "link": "https://www.creativebloq.com/features/this-approach-to-3d-art-in-unreal-engine-5-helped-me-minimise-unnecessary-iterations",
-      "summary": "Discover the work of Jan Zepp.",
+      "title": "Adobe's Black Friday deal is its biggest in years, with 57% off Creative Cloud Pro",
+      "link": "https://www.creativebloq.com/deals/adobes-black-friday-deal-is-its-biggest-in-years-with-57-percent-off-creative-cloud-pro",
+      "summary": "You can also save big on Firefly Pro for a limited time.",
       "source": "Creative Bloq"
     }
   ]
