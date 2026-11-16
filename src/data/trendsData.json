@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-16",
   "marketing": [
+    {
+      "title": "How CeraVe’s ‘Dune’ deal takes the brand’s social-first playbook global",
+      "link": "https://www.marketingdive.com/news/how-ceraves-dune-deal-takes-the-brands-social-first-playbook-global/874654/",
+      "summary": "The L'Or&eacute;al brand&rsquo;s first film partnership makes it the &ldquo;Official Moisturizer of Arrakis&rdquo; ahead of the blockbuster&rsquo;s Dec. 18 release.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Commerce media networks: 6 questions agencies should ask before investing",
+      "link": "https://www.marketingdive.com/spons/commerce-media-networks-6-questions-agencies-should-ask-before-investing/874217/",
+      "summary": "Evaluating potential partners requires looking beyond the scale of the audience size and available inventory.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "AI Is transforming marketing. Can marketers prove it’s working?",
+      "link": "https://www.marketingdive.com/spons/ai-is-transforming-marketing-can-marketers-prove-its-working/874404/",
+      "summary": "AI is reshaping consumer behavior and marketing operations, and the gap between technological investment and measurable business impact is becoming harder to ignore.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Twitch debuts shoppable, skippable ads as TwitchCon feels growing pains",
       "link": "https://www.marketingdive.com/news/twitch-debuts-shoppable-skippable-ads-as-twitchcon-feels-growing-pains/874614/",
@@ -12,55 +30,37 @@
       "link": "https://www.marketingdive.com/news/ai-derived-audience-insights-hurt-results-what-the-numbers-say/874565/",
       "summary": "Over 80% of industry leaders have experienced at least one negative business outcome due to inaccurate AI outputs, per a recent report.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "Welch’s holiday microdrama embraces Y2K nostalgia as Gen Z become parents",
-      "link": "https://www.marketingdive.com/news/welchs-holiday-microdrama-embraces-y2k-nostalgia-as-gen-z-become-parents/874453/",
-      "summary": "&ldquo;Before the Toast&rdquo; shows off the brand&rsquo;s line of sparkling juices and is part of a larger social-forward campaign which includes an Instacart integration.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Sociable: Meta’s AI ads included unapproved discounts",
-      "link": "https://www.marketingdive.com/news/sociable-metas-ai-ads-included-unapproved-discounts/874525/",
-      "summary": "Recent reports found that the artificial intelligence-powered ad tools posted discount offers to customers even with promotions turned off.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Oreo refreshes holiday creative with spin on Santa’s milk and cookies",
-      "link": "https://www.marketingdive.com/news/oreo-refreshes-holiday-creative-with-spin-on-santas-milk-and-cookies/874493/",
-      "summary": "Saint Nick takes revenge on a dad who sneaks a bite of his Oreos in the brand&rsquo;s first new seasonal work in five years.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "\"The Amiga was my first school\": why this pixel artist went back to the computer that made him",
-      "link": "https://www.creativebloq.com/features/klas-benjaminsson-on-making-a-pixel-art-poster-on-a-real-amiga-1200",
-      "summary": "Klas Benjaminsson, creator of the Masters of Pixel Art books, on making a new poster with a real Amiga 1200, why creative limitations matter and the retro software worth trying today.",
+      "title": "I built a powerful new web design tool that focuses on craft, not automation – try a live demo now",
+      "link": "https://www.creativebloq.com/inspiration/i-built-a-powerful-new-web-design-tool-that-focuses-on-craft-not-automation-try-a-live-demo-now",
+      "summary": "What if better tools could accentuate our design skills?",
       "source": "Creative Bloq"
     },
     {
-      "title": "This artist specialises in emotion-filled ethereal visuals",
-      "link": "https://www.creativebloq.com/features/this-artist-specialises-in-emotional-characters-and-ethereal-scenes",
-      "summary": "Discover the art of illustrator Carolina Soares.",
+      "title": "How Playstation nailed its iconic startup screen",
+      "link": "https://www.creativebloq.com/news/how-playstation-nailed-its-iconic-startup-screen",
+      "summary": "A masterclass in using motion, sound and logo design.",
       "source": "Creative Bloq"
     },
     {
-      "title": "The Tesla Cybercab sounds like the ultimate subscription trap",
-      "link": "https://www.creativebloq.com/news/the-tesla-cybercab-sounds-like-the-ultimate-subscription-trap",
-      "summary": "Cancel, and your car becomes useless.",
+      "title": "Why Dispatch's creators said no to '10,000 endings'",
+      "link": "https://www.creativebloq.com/features/why-dispatchs-creators-said-no-to-10-000-endings",
+      "summary": "Celebrating a year of success, AdHoc Studios' Nick Herman and Dennis Lenart explain why more choices don't always make a better game.",
       "source": "Creative Bloq"
     },
     {
-      "title": "The stunning Star Wars Lego anniversary poster makes me finally get it",
-      "link": "https://www.creativebloq.com/news/the-stunning-star-wars-lego-anniversary-poster-makes-me-finally-get-it",
-      "summary": "Rumours of a secret reset of the Star Wars universe reveal an important truth about the craving for creative perfection.",
+      "title": "This artist is building a world inspired by swashbuckling novels and his own city, Montpellier",
+      "link": "https://www.creativebloq.com/features/this-artist-is-building-a-world-inspired-by-swashbuckling-novels-and-his-own-city-montpellier",
+      "summary": "Discover the work of French concept artist Léo Gouvert.",
       "source": "Creative Bloq"
     },
     {
-      "title": "There’s only one Black Friday iPad deal I’d consider so far",
-      "link": "https://www.creativebloq.com/deals/theres-only-one-black-friday-ipad-deal-id-consider-so-far",
-      "summary": "$100 off makes the 2026 iPad Air great value.",
+      "title": "With up to $300 off, these early MacBook Black Friday deals might be as good as they're going to get",
+      "link": "https://www.creativebloq.com/deals/with-up-to-usd300-off-these-early-macbook-black-friday-deals-might-be-as-good-as-they-get",
+      "summary": "The MacBook Air finally offers decent value again.",
       "source": "Creative Bloq"
     }
   ]
