@@ -1,6 +1,24 @@
 {
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-18",
   "marketing": [
+    {
+      "title": "Maker’s Mark spotlights signature red wax top in visual refresh",
+      "link": "https://www.marketingdive.com/news/makers-mark-sees-red-with-visual-refresh-spotlighting-signature-wax-top/874975/",
+      "summary": "The new look is intended to project an image of modernity and comes as the bourbon industry struggles with slowing alcohol consumption and inventory bloat.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Why Qualcomm teamed with F1’s new star in race for sports marketing ROI",
+      "link": "https://www.marketingdive.com/news/why-qualcomm-teamed-with-f1s-new-star-in-race-for-sports-marketing-roi/874895/",
+      "summary": "CMO Don McGuire explains how Snapdragon&rsquo;s deal with Formula One phenom&nbsp;Kimi Antonelli helps the brand connect with racing&rsquo;s growing audience.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Holiday TV ads from retailers arrive earlier, more frequently in 2026",
+      "link": "https://www.marketingdive.com/news/holiday-tv-ads-from-retailers-arrive-earlier-more-frequently-in-2026/874883/",
+      "summary": "The number of holiday ads running in September across categories was six times that of 2021 as brands raced to make the most of the Q4 season.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Burger King’s feedback campaign takes aim at its own restaurants",
       "link": "https://www.marketingdive.com/news/burger-kings-push-for-consumer-feedback-takes-aim-at-its-own-restaurants/874704/",
@@ -10,57 +28,39 @@
     {
       "title": "Holiday marketing hits inflection point in 2026: What brands need to know",
       "link": "https://www.marketingdive.com/news/holiday-marketing-hits-inflection-point-in-2026-what-brands-need-to-know/874758/",
-      "summary": "Consumers&rsquo; push-and-pull relationship&nbsp;with buzzy tactics like AI and tried-and-true strategies like creator partnerships is challenging brands to find the right balance.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Deloitte Digital’s new agentic tools aim to fix messy marketing workflows",
-      "link": "https://www.marketingdive.com/news/deloitte-digitals-new-agentic-tools-aim-to-fix-messy-marketing-workflows/874779/",
-      "summary": "The consultancy&rsquo;s marketing services arm is responding to data that shows the pace of AI advancement is bumping up against organizational constraints.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Meow Mix reimagines iconic cat memes for multichannel campaign",
-      "link": "https://www.marketingdive.com/news/meow-mix-reimagines-iconic-cat-memes-for-multichannel-campaign/874724/",
-      "summary": "The J.M. Smucker Co. cat food brand fictionalized behind-the-scenes videos for internet-famous characters including Keyboard Cat and Huh Cat.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Amazon puts Arnold Schwarzenegger in Santa suit to extend holiday push",
-      "link": "https://www.marketingdive.com/news/amazon-puts-arnold-schwarzenegger-in-santa-suit-to-extend-holiday-push/874675/",
-      "summary": "The spot builds on a &ldquo;Joy Delivered\" campaign and takes inspiration from an upcoming Prime Video original holiday movie starring the &ldquo;Terminator&rdquo; actor.",
+      "summary": "Consumers&rsquo; push-pull relationship&nbsp;with buzzy tactics like AI and tried-and-true strategies like creator tie-ups is challenging brands to find the right balance.",
       "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "I tried this kids' 3D printer with my daughter – but would I recommend it?",
-      "link": "https://www.creativebloq.com/reviews/i-tried-this-kids-3d-printer-with-my-daughter-but-would-i-recommend-it",
-      "summary": "The UGEE Funbox does most of what it promises, but it might not be for everyone.",
+      "title": "Logitech MX Keypad review: Can nine LCD keys take the pain out of Photoshop?",
+      "link": "https://www.creativebloq.com/reviews/logitech-mx-keypad-review-can-nine-lcd-keys-take-the-pain-out-of-photoshop",
+      "summary": "Logitech pitches it at developers, but the MX Keypad’s nine programmable LCD keys suit artists too, if you’ll put in the setup time.",
       "source": "Creative Bloq"
     },
     {
-      "title": "I gasped at the new Tin Can phone – I’ve been looking for a solution like this for months",
-      "link": "https://www.creativebloq.com/news/i-gasped-at-the-new-tin-can-phone-ive-been-looking-for-a-solution-like-this-for-months",
-      "summary": "It's one of the best new product ideas I've seen in a long time.",
+      "title": "GTA 6 review: Holy sh*t it’s good",
+      "link": "https://www.creativebloq.com/reviews/gta-6-review-holy-sh-t-its-good",
+      "summary": "A generational release everyone should play.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Maybelline's new slogan is a crime against copywriting",
-      "link": "https://www.creativebloq.com/news/maybellines-new-slogan-is-a-crime-against-copywriting",
-      "summary": "It's terrible. Full stop.",
+      "title": "The NHL's virtual logos are not going down well",
+      "link": "https://www.creativebloq.com/news/the-nhls-virtual-logos-are-a-step-too-far-for-digital-branding",
+      "summary": "Is it a step too far for virtual branding?",
       "source": "Creative Bloq"
     },
     {
-      "title": "This concept artist's creatures and characters draw on science fiction and diverse cultures",
-      "link": "https://www.creativebloq.com/features/this-concept-artists-creatures-and-characters-draw-on-science-fiction-and-diverse-cultures",
-      "summary": "Discover the work of Milan Nikolic.",
+      "title": "This mid-price office chair delivers on its big ergonomic promise",
+      "link": "https://www.creativebloq.com/reviews/this-mid-price-office-chair-delivers-on-its-big-ergonomic-promise",
+      "summary": "The Sihoo Doro C300 Pro V2 offers dynamic support that follows you as you move around.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Disney’s radical new animation technique will make Hexed the end of an era",
-      "link": "https://www.creativebloq.com/news/disneys-radical-new-animation-technique-will-make-hexed-the-end-of-an-era",
-      "summary": "The 3D look is over.",
+      "title": "Meet Blue Boy, a young superhero from Pernambuco, Brazil",
+      "link": "https://www.creativebloq.com/features/meet-blue-boy-a-young-superhero-from-pernambuco-brazil",
+      "summary": "Discover the work of Brazilian artist Lucas Leão.",
       "source": "Creative Bloq"
     }
   ]
