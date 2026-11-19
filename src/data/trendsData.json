@@ -1,10 +1,28 @@
 {
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-19",
   "marketing": [
+    {
+      "title": "How SharkNinja is doubling down on its creator strategy",
+      "link": "https://www.marketingdive.com/news/sharkninja-is-doubling-down-on-its-creator-strategy/874691/",
+      "summary": "Two new programs &mdash; one for employees and one for content creators &mdash; will help the brand continue to build out its social media presence.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "How Disney helps brands interact and transact with holiday audiences",
+      "link": "https://www.marketingdive.com/news/how-disney-helps-brands-interact-and-transact-with-holiday-audiences/875042/",
+      "summary": "Partnerships with Chevrolet, Bath &amp; Body Works and Ally around last night's CMA Awards showcase the media giant's evolving advertising strategy.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Paid media now plays largest role in brand-funded creator growth: report",
+      "link": "https://www.marketingdive.com/news/paid-media-now-plays-largest-role-in-brand-funded-creator-growth-report/875032/",
+      "summary": "Putting paid dollars behind creator content represents nearly half of the total category, well above the traditional #sponsored post model.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Maker’s Mark spotlights signature red wax top in visual refresh",
       "link": "https://www.marketingdive.com/news/makers-mark-sees-red-with-visual-refresh-spotlighting-signature-wax-top/874975/",
-      "summary": "The new look is intended to project an image of modernity and comes as the bourbon industry struggles with slowing alcohol consumption and inventory bloat.",
+      "summary": "The new look is intended to project an image of modernity and comes as the bourbon industry struggles with slowing consumption and inventory bloat.",
       "source": "Marketing Dive"
     },
     {
@@ -12,55 +30,37 @@
       "link": "https://www.marketingdive.com/news/why-qualcomm-teamed-with-f1s-new-star-in-race-for-sports-marketing-roi/874895/",
       "summary": "CMO Don McGuire explains how Snapdragon&rsquo;s deal with Formula One phenom&nbsp;Kimi Antonelli helps the brand connect with racing&rsquo;s growing audience.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "Holiday TV ads from retailers arrive earlier, more frequently in 2026",
-      "link": "https://www.marketingdive.com/news/holiday-tv-ads-from-retailers-arrive-earlier-more-frequently-in-2026/874883/",
-      "summary": "The number of holiday ads running in September across categories was six times that of 2021 as brands raced to make the most of the Q4 season.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Burger King’s feedback campaign takes aim at its own restaurants",
-      "link": "https://www.marketingdive.com/news/burger-kings-push-for-consumer-feedback-takes-aim-at-its-own-restaurants/874704/",
-      "summary": "CMO Joel Yashinsky explains how the chain is listening to customers, a push that has helped it deliver comparable sales increases.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Holiday marketing hits inflection point in 2026: What brands need to know",
-      "link": "https://www.marketingdive.com/news/holiday-marketing-hits-inflection-point-in-2026-what-brands-need-to-know/874758/",
-      "summary": "Consumers&rsquo; push-pull relationship&nbsp;with buzzy tactics like AI and tried-and-true strategies like creator tie-ups is challenging brands to find the right balance.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "Logitech MX Keypad review: Can nine LCD keys take the pain out of Photoshop?",
-      "link": "https://www.creativebloq.com/reviews/logitech-mx-keypad-review-can-nine-lcd-keys-take-the-pain-out-of-photoshop",
-      "summary": "Logitech pitches it at developers, but the MX Keypad’s nine programmable LCD keys suit artists too, if you’ll put in the setup time.",
+      "title": "Pay attention, 007: James Bond's favourite pen is 40% off right now",
+      "link": "https://www.creativebloq.com/news/pay-attention-007-james-bonds-favourite-pen-is-40-percent-off-right-now",
+      "summary": "The iconic Parker Jotter is now under £10, and it isn't even Black Friday yet.",
       "source": "Creative Bloq"
     },
     {
-      "title": "GTA 6 review: Holy sh*t it’s good",
-      "link": "https://www.creativebloq.com/reviews/gta-6-review-holy-sh-t-its-good",
-      "summary": "A generational release everyone should play.",
+      "title": "Adobe’s democratisation of design doesn’t have to be the death of human creativity",
+      "link": "https://www.creativebloq.com/features/adobes-democratisation-of-design-doesnt-have-to-be-the-death-of-human-creativity",
+      "summary": "We’re in a state of flux, but creatives still hold the power.",
       "source": "Creative Bloq"
     },
     {
-      "title": "The NHL's virtual logos are not going down well",
-      "link": "https://www.creativebloq.com/news/the-nhls-virtual-logos-are-a-step-too-far-for-digital-branding",
-      "summary": "Is it a step too far for virtual branding?",
+      "title": "The very best early Apple Black Friday deals: iPads, MacBooks, AirPods and Apple Watch discounts",
+      "link": "https://www.creativebloq.com/deals/the-very-best-early-apple-black-friday-deals-ipads-macbooks-airpods-and-apple-watch-discounts",
+      "summary": "I round up the only Apple offers worth knowing right now.",
       "source": "Creative Bloq"
     },
     {
-      "title": "This mid-price office chair delivers on its big ergonomic promise",
-      "link": "https://www.creativebloq.com/reviews/this-mid-price-office-chair-delivers-on-its-big-ergonomic-promise",
-      "summary": "The Sihoo Doro C300 Pro V2 offers dynamic support that follows you as you move around.",
+      "title": "This cosy Godot-made indie game makes you feel like a still life artist",
+      "link": "https://www.creativebloq.com/features/this-cosy-godot-made-indie-game-makes-you-feel-like-a-still-life-artist",
+      "summary": "Dundee studio Bit Loom’s Glenmara: Still Life Artist ditches scoring and failure to capture the cosy spirit of small island communities.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Meet Blue Boy, a young superhero from Pernambuco, Brazil",
-      "link": "https://www.creativebloq.com/features/meet-blue-boy-a-young-superhero-from-pernambuco-brazil",
-      "summary": "Discover the work of Brazilian artist Lucas Leão.",
+      "title": "I dare Apple to make this delightful AirPods design a reality",
+      "link": "https://www.creativebloq.com/news/i-dare-apple-to-make-this-delightful-airpods-design-a-reality",
+      "summary": "The company has rediscovered its playful side lately – but this would take the cake.",
       "source": "Creative Bloq"
     }
   ]
