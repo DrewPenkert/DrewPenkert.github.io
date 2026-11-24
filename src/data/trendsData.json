@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-24",
   "marketing": [
+    {
+      "title": "Super Bowl 61: Tracking every ad",
+      "link": "https://www.marketingdive.com/news/super-bowl-61-tracking-every-ad/873626/",
+      "summary": "Stay tuned here for the latest marketing moves, sorted by brand, agency and category, as we count down to kickoff on Feb. 14.",
+      "source": "Marketing Dive"
+    },
+    {
+      "title": "Chewy jumps on stop-motion animation trend lighting up holiday ads",
+      "link": "https://www.marketingdive.com/news/chewy-jumps-on-stop-motion-animation-trend-lighting-up-holiday-ads/875412/",
+      "summary": "The pet supply company is the latest brand to turn to the art form as a counterpoint to AI-generated creative.",
+      "source": "Marketing Dive"
+    },
     {
       "title": "Intuit offloads Mailchimp to Bending Spoons to deepen bets on AI",
       "link": "https://www.marketingdive.com/news/intuit-offloads-mailchimp-to-bending-spoons-to-deepen-bets-on-ai/875423/",
@@ -18,49 +30,37 @@
       "link": "https://www.marketingdive.com/news/philadelphia-whips-up-bigger-holiday-marketing-spend-amid-brand-revamp/875325/",
       "summary": "The brand is increasing its seasonal investment by 15% and bringing back its Phillyboy character in a Santa-like role as it focuses on cheesecake.",
       "source": "Marketing Dive"
-    },
-    {
-      "title": "How Jell-O’s new creative platform looks to shift consumer perceptions",
-      "link": "https://www.marketingdive.com/news/how-jell-o-new-creative-platform-looks-to-shift-consumer-perceptions/875220/",
-      "summary": "The campaign, the first by&nbsp;Johannes Leonardo for the Kraft Heinz brand, represents its largest marketing investment in more than a decade.",
-      "source": "Marketing Dive"
-    },
-    {
-      "title": "Campaign Trail: Tiffany tells human holiday story with Hollywood talent",
-      "link": "https://www.marketingdive.com/news/campaign-trail-tiffany-tells-human-holiday-story-with-hollywood-talent/874914/",
-      "summary": "The luxury brand and agency American Haiku leaned into real emotions with actor Amanda Seyfried and director Derek Cianfrance.",
-      "source": "Marketing Dive"
     }
   ],
   "design": [
     {
-      "title": "Wacom's Black Friday sale takes up to $500 off the Cintiq Pro – the best drawing tablets are now affordable",
-      "link": "https://www.creativebloq.com/deals/wacoms-black-friday-sale-takes-up-to-usd500-off-the-cintiq-pro-the-best-drawing-tablets-are-now-affordable",
-      "summary": "It’s the biggest Black Friday sale I’ve ever seen from Wacom. I’ve listed every deal.",
+      "title": "\"The measure of GTA 6's success won't be the launch\": Now the game is out, how can Rockstar keep up the hype?",
+      "link": "https://www.creativebloq.com/news/the-measure-of-gta-6s-success-wont-be-the-launch-now-the-game-is-out-how-can-rockstar-keep-up-the-hype",
+      "summary": "A social creator agency CEO has thoughts on the studio's next steps.",
       "source": "Creative Bloq"
     },
     {
-      "title": "Every 3D artist should have an AI assistant, Maxon says as it launches new tools and agentic licences",
-      "link": "https://www.creativebloq.com/news/every-3d-artist-should-have-an-ai-assistant-maxon-says-as-it-launches-new-tools-and-agentic-licences",
-      "summary": "AI generation comes to Cinema 4D and ZBrush, but artists have an 'off' switch.",
+      "title": "Liene PixCut S1 review: This sticker printer is better than Cricut's StickerPix, and here's why",
+      "link": "https://www.creativebloq.com/reviews/liene-pixcut-s1-review-this-sticker-printer-is-better-than-cricuts-stickerpix-and-heres-why",
+      "summary": "I've spent time with Cricut's StickerPix and the Liene PixCut S1, and there's one thing that makes me prefer the more expensive machine.",
       "source": "Creative Bloq"
     },
     {
-      "title": "AirPods Pro 3 just dropped below $150 – I use these everyday and this is an absolute steal",
-      "link": "https://www.creativebloq.com/deals/airpods-pro-3-just-dropped-below-usd150-i-use-these-everyday-and-this-is-an-absolute-steal",
-      "summary": "Apple AirPods Pro 3 are now 40% off.",
+      "title": "These beautiful folding bikes are perfect for creatives who commute, and they all have big discounts for Black Friday",
+      "link": "https://www.creativebloq.com/deals/these-beautiful-folding-bikes-are-perfect-for-creatives-who-commute-and-they-all-have-big-discounts-for-black-friday",
+      "summary": "Brompton, ENGWE and Dahon have all cut prices on folding bikes for Black Friday, with deals starting at just £449.",
       "source": "Creative Bloq"
     },
     {
-      "title": "This hypnotising app turns your iPhone Duo into a record player",
-      "link": "https://www.creativebloq.com/news/this-hypnotising-app-turns-your-iphone-duo-into-a-record-player",
-      "summary": "I’ve never cared for folding phones, but I might be converted.",
+      "title": "MacBook Pro 16 (2026, M5 Pro, PROLED XDR) review: the touchscreen Mac is here at last",
+      "link": "https://www.creativebloq.com/reviews/macbook-pro-16-2026-m5-pro-proled-xdr-review-the-touchscreen-mac-is-here-at-last",
+      "summary": "The Apple logo lights up once more on the first touchscreen Mac",
       "source": "Creative Bloq"
     },
     {
-      "title": "The family games console all my friends are jealous of has a whopping 30% off right now",
-      "link": "https://www.creativebloq.com/deals/the-family-games-console-my-friends-are-all-jealous-of-has-a-whopping-30-percent-off-right-now",
-      "summary": "Nex Playground has changed the way my family games – and I'm whole-heartedly recommending it.",
+      "title": "It took designers 20 years to bring this font back from the dead",
+      "link": "https://www.creativebloq.com/news/it-took-designers-20-years-to-bring-this-font-back-from-the-dead",
+      "summary": "Production Type refused to let this Parisian classic die.",
       "source": "Creative Bloq"
     }
   ]
